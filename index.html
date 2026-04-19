@@ -7,6 +7,21 @@
   <meta name="theme-color" content="#f6f6f4" media="(prefers-color-scheme: light)" />
   <meta name="theme-color" content="#1a1a18" media="(prefers-color-scheme: dark)" />
   <title>Daily briefing</title>
+  <script>
+    (function () {
+      try {
+        var k = "briefingFontScale";
+        var d = 1.25;
+        var min = 0.85;
+        var max = 1.85;
+        var v = parseFloat(localStorage.getItem(k), 10);
+        if (!isNaN(v)) {
+          v = Math.round(Math.min(max, Math.max(min, v)) * 100) / 100;
+          document.documentElement.style.setProperty("--font-scale", String(v));
+        }
+      } catch (e) {}
+    })();
+  </script>
   <style>
     :root {
       --font-scale: 1.25;
@@ -56,11 +71,65 @@
       justify-content: space-between;
       gap: 0.75rem 1rem;
     }
+    .font-dropdown {
+      position: relative;
+      flex-shrink: 0;
+    }
+    .font-dropdown summary {
+      list-style: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.25rem;
+      min-width: 2.75rem;
+      min-height: 2.75rem;
+      padding: 0.35rem 0.55rem;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: color-mix(in srgb, var(--code-bg) 55%, var(--bg));
+      color: var(--fg);
+      -webkit-tap-highlight-color: transparent;
+      user-select: none;
+    }
+    .font-dropdown summary::-webkit-details-marker {
+      display: none;
+    }
+    .font-dropdown summary .font-summary-aa {
+      font-size: 1.05rem;
+      font-weight: 600;
+      letter-spacing: -0.03em;
+    }
+    .font-dropdown summary .font-summary-arrow {
+      font-size: 0.65rem;
+      color: var(--muted);
+      line-height: 1;
+    }
+    .font-dropdown[open] summary {
+      background: var(--code-bg);
+    }
+    .font-dropdown[open] summary .font-summary-arrow {
+      transform: rotate(180deg);
+      display: inline-block;
+    }
+    .font-dropdown-panel {
+      position: absolute;
+      right: 0;
+      top: 100%;
+      margin-top: 0.35rem;
+      padding: 0.65rem 0.7rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      z-index: 20;
+      min-width: 11.5rem;
+    }
     .font-tools {
       display: flex;
+      flex-wrap: wrap;
       gap: 0.35rem;
       align-items: center;
-      flex-shrink: 0;
+      justify-content: flex-end;
     }
     .font-tools button {
       min-width: 2.75rem;
@@ -163,25 +232,45 @@
       line-height: 1.5;
     }
     footer p { margin: 0.4rem 0; }
+    .visually-hidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
   </style>
 </head>
 <body>
   <div class="wrap">
     <header class="site-header">
       <h1 class="site" id="page-title">…</h1>
-      <div class="font-tools" role="group" aria-label="Text size">
-        <span class="font-label" id="font-percent" aria-hidden="true"></span>
-        <button type="button" id="font-smaller" title="Smaller text" aria-label="Smaller text">A−</button>
-        <button type="button" id="font-reset" title="Default text size" aria-label="Reset text size">A</button>
-        <button type="button" id="font-larger" title="Larger text" aria-label="Larger text">A+</button>
-      </div>
+      <details class="font-dropdown" id="font-dropdown">
+        <summary title="Text size">
+          <span class="font-summary-aa" aria-hidden="true">Aa</span>
+          <span class="font-summary-arrow" aria-hidden="true">▾</span>
+          <span class="visually-hidden">Text size</span>
+        </summary>
+        <div class="font-dropdown-panel">
+          <div class="font-tools" role="group" aria-label="Text size">
+            <span class="font-label" id="font-percent" aria-hidden="true"></span>
+            <button type="button" id="font-smaller" title="Smaller text" aria-label="Smaller text">A−</button>
+            <button type="button" id="font-reset" title="Default text size" aria-label="Reset text size">A</button>
+            <button type="button" id="font-larger" title="Larger text" aria-label="Larger text">A+</button>
+          </div>
+        </div>
+      </details>
     </header>
     <main id="main">
       <p style="color: var(--muted); margin: 0;">Loading…</p>
     </main>
     <footer id="footer" hidden>
       <p id="footer-meta"></p>
-      <p>Tip: add this page to your Home Screen for quick access. Text size is saved on this device.</p>
+      <p>Tip: add this page to your Home Screen for quick access. Your text size is saved in this browser and loads automatically next time.</p>
     </footer>
   </div>
 
@@ -208,7 +297,9 @@
       function fontApply(s) {
         s = fontRound(Math.min(FONT_MAX, Math.max(FONT_MIN, s)));
         document.documentElement.style.setProperty("--font-scale", String(s));
-        localStorage.setItem(FONT_KEY, String(s));
+        try {
+          localStorage.setItem(FONT_KEY, String(s));
+        } catch (err) {}
         var pct = document.getElementById("font-percent");
         var sm = document.getElementById("font-smaller");
         var lg = document.getElementById("font-larger");
@@ -217,24 +308,35 @@
         if (lg) lg.disabled = s >= FONT_MAX - 0.001;
       }
 
+      function fontCloseDropdown() {
+        var dd = document.getElementById("font-dropdown");
+        if (dd) dd.removeAttribute("open");
+      }
+
       function fontInit() {
         fontApply(fontRead());
         var sm = document.getElementById("font-smaller");
         var rs = document.getElementById("font-reset");
         var lg = document.getElementById("font-larger");
         if (sm) {
-          sm.addEventListener("click", function () {
+          sm.addEventListener("click", function (e) {
+            e.preventDefault();
             fontApply(fontRead() - FONT_STEP);
+            fontCloseDropdown();
           });
         }
         if (rs) {
-          rs.addEventListener("click", function () {
+          rs.addEventListener("click", function (e) {
+            e.preventDefault();
             fontApply(FONT_DEFAULT);
+            fontCloseDropdown();
           });
         }
         if (lg) {
-          lg.addEventListener("click", function () {
+          lg.addEventListener("click", function (e) {
+            e.preventDefault();
             fontApply(fontRead() + FONT_STEP);
+            fontCloseDropdown();
           });
         }
       }
