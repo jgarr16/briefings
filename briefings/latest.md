@@ -1,0 +1,70 @@
+---
+date: 2026-08-04
+---
+
+**What's Happening Now (Last 48 Hours):**
+
+The conflict is in a highly unstable phase — open warfare on and about 50 days old, with the diplomatic picture fracturing faster than any deal can coalesce.
+
+**Key Developments:**
+
+## 1. Strait of Hormuz — Open, Closed, Open Again (and now closed again)
+
+- The Strait was briefly reopened Saturday under an Israel-Lebanon ceasefire framework, with 12+ commercial ships passing through.
+- IRGC re-closed it hours later, citing the ongoing US blockade of Iranian ports as "acts of maritime piracy."
+- Iranian gunboats fired at a merchant vessel attempting to pass. Another shot at an Indian-flagged ship — India summoned Iran's ambassador, demanded passage restoration. Iran has flagged "friendly" nations (India, Malaysia, China, Egypt, South Korea) but enforcement is selective.
+- By 10:30 GMT Saturday, 8 tankers had crossed; 8+ turned back after exiting the Gulf.
+- Iran is *not* imposing traditional transit fees — instead drafting a law to charge "securing the strait" fees. Hostile US/Israeli vessels barred entirely.
+- The Strait is where ~20% of globally traded oil transits. Any sustained closure is a global supply shock.
+
+## 2. Trump vs. Tehran — Competing Reality Frames
+
+- Trump claims there are no "sticking points" left, says negotiations are "going very well," and is "optimistic" of a deal.
+- Iran directly rebuts: Foreign Ministry says enriched uranium stockpile will not be "transferred anywhere" — directly contradicting Trump's claim that Tehran agreed to hand it over.
+- Trump insists the US blockade will remain until any agreement is "100% complete."
+- Iran's Supreme Leader Mojtaba Khamenei warns of "new bitter defeats" for US and Israel.
+- Tehran and US are essentially negotiating from mutually contradictory premises.
+
+## 3. Diplomatic Activity
+
+- **Pakistan:** PM and army chief returned from key trips signaling a push for more US-Iran talks.
+- **France/UK:** PM Starmer says they'll lead a multinational effort to safeguard freedom of navigation in Hormuz "as soon as conditions allow."
+- **NATO:** Trump rejected NATO's offer to assist, calling it a "paper tiger," told them to "stay away."
+- **China:** Trump says Xi supports Hormuz reopening and hinted at a "potentially historic" visit to China.
+- **Russia:** US extended the Russian oil waiver (sanctioned purchases at sea) until May 16 to stabilize global supply.
+- **Lebanon:** Israel established a "yellow line" in Lebanon (similar to Gaza). Aoun says Lebanon is entering a "new phase" after the ceasefire and no longer "an arena for others' wars" — but Israeli shelling has already violated the ceasefire in the south.
+- **Houthis:** Supporters rallied in Sanaa showing solidarity with Lebanon/Iran. Houthis warn they'd join the war if needed.
+
+## 4. Military/Tactical Status
+
+- CENTCOM confirms 21 vessels have complied with orders to turn back from Iranian ports (US blockade enforcement).
+- Gunfire reported from a vessel in the Strait of Hormuz — situation escalating on the water.
+- US ground forces remain deployed in the Middle East.
+- Military disquiet in the US over the war (NPR reporting).
+
+## 5. Economic Impact
+
+- Oil prices dropped below $91/barrel after weeks of volatility — briefly stabilizing when the Strait reopened. But this new Hormuz closure threatens to spike prices again immediately.
+- "Iran war's big winners" include Wall Street, weapons firms, AI infrastructure, and green energy sectors.
+- Gulf states (including Saudi Arabia) in fragile recovery — some can restart production quickly, others need more time depending on damage.
+
+**What Hasn't Changed:**
+- The US naval blockade of Iranian ports continues, with 21+ vessels turned back.
+- No substantive agreement has been reached. The diplomatic process exists but is non-functional.
+- Iran's military apparatus has been degraded but is still operational and willing to escalate.
+- US troops remain in-theater.
+
+**What I'm Watching — Near-Term Triggers:**
+
+| What | Why It Matters |
+|---|---|
+| Strait of Hormuz closure duration | Sustained closure = global energy crisis, oil price spike, potential for wider conflict |
+| Whether Lebanon ceasefire holds | Another violation = Israel opens a second major front. Already shelling violations reported |
+| US-Iran framework talks | The diplomatic process exists but both sides deny the other's core claims. A framework could collapse the moment Trump or Tehran says something the other can't live with |
+| Russia waiver extension (May 16) | Test of whether the US will keep allowing Russian oil flows to stabilize markets during disruptions. A precedent for energy policy |
+| Trump's China visit | Potential dramatic pivot in diplomatic leverage. Unusual for an active conflict period |
+| UK/France Hormuz naval mission | First major Western naval intervention beyond the US. Could mean NATO fragmentation at worst, or a credible alternative force at best |
+| Houthi escalation | If Houthis officially join, Yemen becomes a second Iranian proxy front — dramatically widening the conflict |
+
+**Bottom Line:**
+The situation is extremely fluid. Trump is talking deal while Iran is talking defense. The Strait of Hormuz is the real flashpoint — it's essentially a daily coin flip whether it's open or closed, and the next spike could trigger a full economic shock. The diplomatic process exists but is non-functional; both sides are using negotiations as cover for posturing rather than compromise.
