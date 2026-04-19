@@ -27,11 +27,17 @@ if [[ ! "$DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
 fi
 
 mkdir -p "$ARCHIVE_DIR"
-ARCHIVE="$ARCHIVE_DIR/${DATE}.md"
 
-if [[ -f "$LATEST" && ! -f "$ARCHIVE" ]]; then
-  cp "$LATEST" "$ARCHIVE"
-  echo "Archived previous latest to $ARCHIVE"
+# Before replacing latest.md, keep a copy of the current briefing under briefings/archive/OLD_DATE.md
+if [[ -f "$LATEST" ]]; then
+  OLD_DATE=$(grep -m1 '^date:' "$LATEST" | sed 's/^date:[[:space:]]*//;s/[[:space:]]*$//')
+  if [[ "$OLD_DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+    OLD_ARCH="$ARCHIVE_DIR/${OLD_DATE}.md"
+    if [[ ! -f "$OLD_ARCH" ]]; then
+      cp "$LATEST" "$OLD_ARCH"
+      echo "Archived previous latest to $OLD_ARCH"
+    fi
+  fi
 fi
 
 TMP=$(mktemp)

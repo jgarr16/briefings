@@ -33,17 +33,17 @@ Rules:
 - **`date`** must look exactly like `2026-08-05` (four digits, hyphen, two digits, hyphen, two digits). That value is what appears **alone** at the top of the web page.
 - **Do not repeat that date as a big `#` heading** unless you want it duplicated in the article. Prefer starting the body with `##` sections, bold lead-ins, or paragraphs. If the first line is a single `# …` heading, the site **strips one** leading `#` line from the body to avoid a duplicate title — but the clean approach is to **omit** a top-level `#` and use `##` for sections.
 
-### 3. Optional archive (same day, once)
+### 3. Archive (optional; automatic if you use the script)
 
-If you need a **permanent copy** of that day’s file (for history), save it **before** overwriting `latest.md` the next time:
+Past briefings can live under:
 
 ```text
 briefings/archive/YYYY-MM-DD.md
 ```
 
-Example: `briefings/archive/2026-08-05.md`. Use the **same** `date:` in front matter as in `latest.md` for that day. Nothing in `archive/` is read by the website; it is only for your records.
+Nothing in `archive/` is read by the website; it is only for your records.
 
-The helper script `./scripts/update-briefing.sh YYYY-MM-DD [file]` can write `latest.md`, add front matter, strip an optional leading `#` line, and copy the previous `latest.md` into `archive/` when that file does not exist yet.
+If you use `./scripts/update-briefing.sh YYYY-MM-DD [file]`, it writes `latest.md` with the correct `date:` front matter, strips an optional leading `#` line from the body, and **once per calendar day** copies the **previous** `latest.md` to `archive/<old-date>.md` (using the old file’s `date:` field) if that archive file does not already exist.
 
 ---
 
