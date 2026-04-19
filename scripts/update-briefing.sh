@@ -6,7 +6,7 @@
 #   ./scripts/update-briefing.sh 2026-08-05 path/to/draft.md
 #   ./scripts/update-briefing.sh 2026-08-05   # body from stdin (end with Ctrl-D)
 #
-# If briefings/archive/YYYY-MM-DD.md does not exist yet, copies the current latest.md there first.
+# If briefings/archive/OLD_DATE.md is missing, copies the current latest.md there (OLD_DATE from its date: field).
 
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
