@@ -1,41 +1,42 @@
 ---
-date: 2026-08-05
+date: 2026-04-19
 ---
 
-## Status: Stalemate Holding
+## Status: Stalemate Holding — Day 50
 
-No shifts in the last 24 hours. US naval blockade of Iranian ports and Iran's Hormuz closure maintain mutual deterrence. Diplomatic process exists but shows no convergence.
+No shifts in the last 24 hours. US naval blockade of Iranian ports and Iran's Hormuz closure maintain mutual deterrence. New confirmation from Tehran: parliament speaker Ghalibaf says Iran is "fully prepared" for the US to resume hostilities at any moment.
 
 ## Other Fronts
 
-**Lebanon:** Israeli shelling violations of ceasefire reported in the south.
+**Lebanon:** Israel says it has established a "yellow line" in Lebanon (same as Gaza). Aoun says Lebanon is entering a "new phase" after ceasefire, but Israeli shelling violations reported in the south.
 
-**Houthis:** Warn they'll join if needed; Yemen remains a latent second proxy front.
+**Houthis:** Warn they'll join if needed; supporters rallied in Sanaa. Yemen remains a latent second proxy front.
 
 ## Strait of Hormuz: Closed
 
 - IRGC maintains full control; Strait shut under "strict management."
-- Iran drafting legislation to levy "securing the strait" fees. US/Israeli vessels barred.
-- ~8 tankers crossed, 8+ turned back after exiting.
+- Iran drafting legislation to levy "securing the strait" fees. US/Israeli vessels barred entirely.
+- Iranian navy warns any ship trying to pass will be targeted. New reports of Iranian gunboats ordering Indian-flagged ships to abort passage.
 - ~20% of global oil flows through this chokepoint; sustained closure = global supply shock.
 
 ## Diplomatic Posture
 
 - Neither side is negotiating from convergent premises — framework is non-functional.
-- **Pakistan/China:** Offered mediation; no concrete proposals.
-- **France/UK:** Leading multinational navigation effort "as conditions allow."
-- **NATO:** Trump rejected assistance, called it a "paper tiger."
-- **Russia:** US extended oil waiver to stabilize global supply.
+- **Pakistan/China:** Pakistan pushed for more US-Iran talks; China signaled interest but no concrete proposals.
+- **France/UK:** Will lead multinational navigation effort in Hormuz "as conditions allow."
+- **NATO:** Trump rejected NATO assistance, called it a "paper tiger."
+- **Russia:** US extended Russian oil waiver (to stabilize global supply) through May 16.
+- Iran's deputy FM says no date for more US talks until "framework" is agreed.
 
 ## Military/Tactical
 
 - CENTCOM: 21+ vessels turned back from Iranian ports.
-- Gunfire reported near Hormuz — maritime incidents ongoing.
-- US ground forces remain deployed.
+- Gunfire reported near Hormuz — maritime incidents ongoing; Indian ships fired on.
+- US ground forces remain deployed in the Middle East.
 
 ## Bottom Line
 
-Status quo unsustainable past 14 days. Monitor UK/France naval deployment as the first measurable breach of stalemate.
+Mutual deterrence via blockade/Hormuz closure produces zero leverage gains; framework collapse likely within weeks absent mediator breakthrough. Ghalibaf's "fully prepared" statement signals Iran's readiness for escalated hostilities if the stalemate breaks.
 
 ## Sources
 
