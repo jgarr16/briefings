@@ -1,47 +1,35 @@
 ---
-date: 2026-04-19
+date: 2026-04-20
 ---
 
-## Status: Stalemate Holding — Day 50
+## Status: Ceasefire Collapsing — Day 52
 
-No shifts in the last 24 hours. US naval blockade of Iranian ports and Iran's Hormuz closure maintain mutual deterrence. New confirmation from Tehran: parliament speaker Ghalibaf says Iran is "fully prepared" for the US to resume hostilities at any moment.
+US-Iran ceasefire expires **Apr 22** (<48hrs). Iran rejected Monday's Islamabad talks. Strait of Hormuz re-closed. US seized first Iranian ship since Apr 13 blockade.
 
-## Other Fronts
+## Key Development(s)
 
-**Lebanon:** Israel says it has established a "yellow line" in Lebanon (same as Gaza). Aoun says Lebanon is entering a "new phase" after ceasefire, but Israeli shelling violations reported in the south.
+**US Seizes Touska (Apr 19):** US destroyer attacked container ship *Touska* in Gulf of Oman. Trump: \"stopped them by blowing a hole in the engine room.\" Iranian crews protected ship because **family members were aboard** — a rare IRGC deterrent. FM called it \"piracy.\"
 
-**Houthis:** Warn they'll join if needed; supporters rallied in Sanaa. Yemen remains a latent second proxy front.
+**Hormuz Re-Closed:** Oil up **7% to $94.69 Brent**. UKMTO: 19 vessels crossed Saturday (138 avg). Gunboats fired at CMA CGM.
 
-## Strait of Hormuz: Closed
+**Iran Rejects Talks:** \"No plans\" for round two. Deputy FM: \"We won't hand over enriched uranium — non-starter.\"
 
-- IRGC maintains full control; Strait shut under "strict management."
-- Iran drafting legislation to levy "securing the strait" fees. US/Israeli vessels barred entirely.
-- Iranian navy warns any ship trying to pass will be targeted. New reports of Iranian gunboats ordering Indian-flagged ships to abort passage.
-- ~20% of global oil flows through this chokepoint; sustained closure = global supply shock.
+**Lebanon Yellow Line:** Israel set ~10km military zone; map includes **territorial waters** per the 2022 gas deal. French UNIFIL peacekeeper killed Apr 18.
 
-## Diplomatic Posture
+## Diplomatic/Military Posture
 
-- Neither side is negotiating from convergent premises — framework is non-functional.
-- **Pakistan/China:** Pakistan pushed for more US-Iran talks; China signaled interest but no concrete proposals.
-- **France/UK:** Will lead multinational navigation effort in Hormuz "as conditions allow."
-- **NATO:** Trump rejected NATO assistance, called it a "paper tiger."
-- **Russia:** US extended Russian oil waiver (to stabilize global supply) through May 16.
-- Iran's deputy FM says no date for more US talks until "framework" is agreed.
-
-## Military/Tactical
-
-- CENTCOM: 21+ vessels turned back from Iranian ports.
-- Gunfire reported near Hormuz — maritime incidents ongoing; Indian ships fired on.
-- US ground forces remain deployed in the Middle East.
+- **Pakistan:** Gen. Munir in Tehran. Target: MoU extending ceasefire 60 days.
+- **Russia:** US oil waiver to May 16.
+- **Israel:** Netanyahu holding Yellow Line; Trump ban covers offensive only.
 
 ## Bottom Line
 
-Mutual deterrence via blockade/Hormuz closure produces zero leverage gains; framework collapse likely within weeks absent mediator breakthrough. Ghalibaf's "fully prepared" statement signals Iran's readiness for escalated hostilities if the stalemate breaks.
+Iran's rejection + Hormuz closure make Apr 22 hostilities resumption highly likely — watch for a Pakistan MoU before Tuesday or any maritime incident within 24h.
 
 ## Sources
 
-- AP News: https://apnews.com/hub/iran
 - AP Live: https://apnews.com/live/iran-war-israel-trump-04-18-2026
-- Strait of Hormuz Explainer: https://apnews.com/article/the-worlds-most-important-21-miles-0000019d2fbfd29daffdefffc72e0000
-- Ceasefire Explainer: https://apnews.com/article/lebanon-israel-hezbollah-ceasefire-united-states-e0412bb734d09aef492051c1730b5821
+- AP Enrichment: https://apnews.com/article/iran-enriched-uranium-nuclear-facilities-hit-trump-b8101bbae0ff43e6ab6d34a71c1a7444
+- AP Army Enlistment: https://apnews.com/article/army-enlistment-age-35-iran-fear-1f7f04e714f39345b8e94309f31e671c
+- AP Death Toll: https://apnews.com/article/iran-death-toll-war-journalists-290493f3e766095536a7935187657728
 - Al Jazeera Live: https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed
