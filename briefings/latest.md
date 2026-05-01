@@ -1,27 +1,27 @@
 ---
-date: 2026-04-30
+date: 2026-05-01
 ---
 
 ## Status
 
-US-Iran war Day 62–63 — oil surged past $120/bbl (Brent) after Trump met oil executives at the White House and signaled an extended Hormuz blockade. WSJ reported he told aides to plan for months. War cost hit $25B per Hegseth. Iran lost 1M+ jobs; inflation at 53.7%; rial at record low. Tehran still betting Trump blinks first.
+US-Iran war Day 64–65 — Brent held above $120/bbl after Trump met Chevron CEO Wirth; WSJ reported he told aides to plan extended Hormuz blockade. Hegseth testified, denying insider trading, arguing 60-day War Powers limit paused during ceasefire. Top defense official confirmed Russian operational involvement. Trump floated multilateral maritime initiative to restore Strait access.
 
 ## Other Fronts
 
-**Lebanon** — Israeli double-tap strike on Majdal Zoun killed 3 rescue workers responding to the first hit; 103 health workers dead since war began. **Gaza** — Israeli navy seized 7 aid vessels in int'l waters near Crete. **Ukraine** — drone struck an oil pumping station near Perm, 1,500km inside Russia. Kremlin scrapped military vehicles from May 9 Victory Day parade citing Ukraine drone threat. **Germany** — Trump threatened to cut ~36,000 troops after Merz said US was "humiliated" by Iran negotiators; Merz walked it back. **AWS Bahrain** — data center damaged by conflict, offline for months.
+**Ukraine** — SBU drones hit Lukoil refinery in Perm, 1,500km deep. In 90-min call, Putin proposed 1-day ceasefire for May 9; Trump backed it. **Lebanon** — Israeli strikes killed 9 including 2 children despite truce; Hezbollah retaliated with drone on Bint Jbeil. **Gaza** — Israel intercepted 22 flotilla boats near Crete, detained 175; Italy's Meloni demanded release of 24 Italians. **NATO** — Trump hinted troop cuts in Italy and Spain, expanding beyond Germany.
 
-## Key Development
+## Key Developments
 
-Trump told Iran to "just give up" on Truth Social. Ghalibaf dismissed the pressure campaign. Iran negotiator Mottaki said talks pointless if US demands zero enrichment. The channel is now phone-only — envoys stopped flying to Pakistan. The World Bank forecast 24% energy price surge if strait reopens by May — worst since 2022.
+**Putin-Trump Call** — Putin claimed Russia holds "strategic initiative." ISW assessed Moscow trying to convince Trump it's closer to victory than reality. Zelensky: "a few hours of security for a parade?" **Hegseth Hearing** — Panel chairman decried "axis of aggressors." Protester disrupted. **Hormuz Initiative** — US seeking multilateral maritime coalition to reopen strait — first strategy beyond blockade alone.
 
 ## Diplomatic/Military Posture
 
-US doubling down on blockade economics, testing Iran's breaking point. Tehran counters with strategic patience, gambling Trump won't sustain $120 oil through midterms. EU capitals debated Article 42.7 as Pentagon reportedly examined options against allies insufficient on Iran — including suspending Spain from NATO.
+Washington dual-track: extended blockade plus Hormuz coalition, betting Iran's 53.7% inflation and 2M job losses break before $120+ oil hits US consumers. Tehran dual-track too — seized tanker near Qeshm while signaling openness to Oman/Switzerland humanitarian truce. Putin's gambit tests whether Ukraine diplomacy decouples from Iran crisis.
 
 ## Bottom Line
 
-The next 72 hours test whether $120+ oil and a cratering economy force Iran to concede on enrichment before Trump's extended blockade triggers a recession — watch for any Iranian nuclear facility alert spike.
+The Putin-Trump call and Hormuz initiative mark the most significant diplomatic activity in weeks — watch whether May 9 ceasefire yields real negotiations or a symbolic pause.
 
 ## Sources
 
-AP News (Iran war live Apr 28-30, Iran economy/hearing), Al Jazeera (Gaza flotilla, Lebanon), BBC (Germany troops, Ukraine drones), WSJ (extended blockade), Reuters (oil prices)
+AP News (Apr 30 live — Hegseth, Hormuz initiative, Russian role in Iran), BBC (Putin-Trump call, Ukraine Perm strike, Lebanon violations, Gaza flotilla), WSJ (extended blockade)
