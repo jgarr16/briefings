@@ -1,27 +1,31 @@
 ---
-date: 2026-05-02
+date: 2026-05-03
 ---
 
 ## Status
 
-US-Iran war Day 66 — Brent at $122–124, 4 CSG converging in Gulf by mid-May. CENTCOM escorted 3 commercial vessels through Hormuz under armed guard. Hegseth testified: "degrade" IRGC navy, not regime change. Iran's Araghchi opened Oman mediation conditional on US operations halt. China launched Joint Sword-2026B around Taiwan — 80 aircraft, 20 ships, live-fire inside ADIZ, simulated strikes on Kaohsiung and Hualien.
+US-Iran war Day 67 — Iran sent 14-point proposal via Pakistan dropping precondition of Hormuz lift, retaining enrichment and strait "control mechanism." Trump skeptical. US approved $8.6B emergency arms to Gulf allies. Israel pounds Lebanon. China blocked sanctions on five refineries importing Iranian crude. Spirit Airlines shut down citing war-driven oil costs.
 
 ## Other Fronts
 
-**Ukraine** — Zelensky rejected Putin's May 9 ceasefire: "cynical PR exercise." EU 15th sanctions hit evasion via UAE, Türkiye, Kyrgyzstan. **Hezbollah** — Qassem warned precision strikes anywhere in Israel if Gaza expands. **Sudan** — RSF captured Al-Maliha, controls most Darfur except El Fasher. **North Korea** — Kim tested KN-24/23, 400km into Sea of Japan.
+**Ukraine** — ISW: Russia lost net 116 km² in April (first net loss since Aug 2024). Advance rate fell to 2.9 km²/day vs 9.76 in early 2025; mud, Telegram/Starlink restrictions cited. Ukrainian drone struck Engels-2 fuel depot. **Taiwan** — PLA dual-axis drills north/south; 14 median line crossings May 1. US confirmed $550M LRASM sale. **Sudan** — RSF mass killing ~180 in Kutum; worst Darfur atrocity since Jan.
 
 ## Key Developments
 
-**Putin-Trump Call Aftermath** — ISW assessed Putin timed proposal to fracture US-Ukraine alignment. Zelensky's categorical rejection removes ceasefire option without territorial preconditions. Trump kept door open for follow-up call. **EU Defense Fund** — Commission proposed €80B joint procurement; Germany-France split on debt vs national contributions.
+**Iran's 14-Point** — Leaked text: dropped Hormuz-lift precondition but demands nuclear sovereignty and strait control. Analysts assess gap with US full-surrender demand "far, far apart." Pakistan as mediator. Tactical softening only.
+
+**US $8.6B Emergency Sales** — State Dept bypassed Congress via emergency finding. Signals extended Gulf enforcement posture.
+
+**China Defies Iran Sanctions** — Commerce Ministry called US sanctions on five "teapot" refineries unlawful. Tests secondary-sanction enforcement during active war.
 
 ## Diplomatic/Military Posture
 
-Washington triaging Hormuz escalation (largest CSG deployment since 2003) against ~10,000-troop Europe reduction to feed CENTCOM, while China runs parallel exercises signaling operational independence from Russia theater. Iran talks conditionally while IRGC boarded two more tankers May 1.
+Washington holds 4-CSG convergence against Tehran's diplomatic buying time. Israel's Lebanon campaign escalates independent of US-Iran track. China teapot defiance tests sanctions credibility. Ukraine enters ground-drying window — can it hold without resumed US aid.
 
 ## Bottom Line
 
-Four CSGs in the Gulf with no diplomatic off-ramp and Brent above $122 by mid-May is the highest-risk window since hostilities began — one engagement between CENTCOM convoys and IRGC fast boats could trigger a wider exchange.
+Brent above $122, Spirit's collapse as first economic casualty, and 4-CSG window converge — one IRGC-CENTCOM contact breaks the ceasefire.
 
 ## Sources
 
-AP (Hegseth, Hormuz convoy), Reuters (Putin-Trump aftermath, Iran/Oman, EU 15th sanctions, AUKUS), BBC (Zelensky rejection, Sudan), Al Jazeera (Qassem warning, Gaza flotilla), WSJ (Europe reduction), Bloomberg (Brent), ISW (Joint Sword-2026B), CENTCOM
+AP (Trump/Iran, $8.6B, Spirit, Sudan), Al Jazeera (14-point text, analyst assessment, Lebanon), ISW (Russia net loss, April assessment), Reuters (Engels strike, China teapot), Breaking Defense (LRASM), BBC (PLA drills)
