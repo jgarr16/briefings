@@ -1,31 +1,33 @@
 ---
-date: 2026-05-03
+date: 2026-05-04
 ---
 
 ## Status
 
-US-Iran war Day 67 — Iran sent 14-point proposal via Pakistan dropping precondition of Hormuz lift, retaining enrichment and strait "control mechanism." Trump skeptical. US approved $8.6B emergency arms to Gulf allies. Israel pounds Lebanon. China blocked sanctions on five refineries importing Iranian crude. Spirit Airlines shut down citing war-driven oil costs.
+US-Iran war Day 68 — US launched "Project Freedom," military escort of stranded ships through Strait of Hormuz. Iran warns any force entering "will be targeted," a ceasefire violation. Tanker struck off UAE. Trump reviewing 14-point proposal via Pakistan but signals "it won't be acceptable." Brent flat ~$108 — analysts deem insufficient to resolve supply gap.
 
 ## Other Fronts
 
-**Ukraine** — ISW: Russia lost net 116 km² in April (first net loss since Aug 2024). Advance rate fell to 2.9 km²/day vs 9.76 in early 2025; mud, Telegram/Starlink restrictions cited. Ukrainian drone struck Engels-2 fuel depot. **Taiwan** — PLA dual-axis drills north/south; 14 median line crossings May 1. US confirmed $550M LRASM sale. **Sudan** — RSF mass killing ~180 in Kutum; worst Darfur atrocity since Jan.
+**Ukraine** — Struck Russia's largest Baltic oil port at Primorsk plus two shadow-fleet tankers. Zelenskyy: "One more Kalibr carrier out of action." Russia claims front-line gains; drone killed 2 in Kherson. **Gaza** — Israel threatens war resumption unless Hamas disarms; IDF controls 59% of Strip; 828 killed since October truce. **Sudan** — RSF drone kills 5 near Khartoum.
 
 ## Key Developments
 
-**Iran's 14-Point** — Leaked text: dropped Hormuz-lift precondition but demands nuclear sovereignty and strait control. Analysts assess gap with US full-surrender demand "far, far apart." Pakistan as mediator. Tactical softening only.
+**Project Freedom Day One** — CENTCOM activates destroyers, 100+ aircraft, 15,000 personnel. Iran's Gen. Abdollahi: "any foreign military force attempting to enter will be targeted." Tanker hit off UAE hours after launch.
 
-**US $8.6B Emergency Sales** — State Dept bypassed Congress via emergency finding. Signals extended Gulf enforcement posture.
+**Trump Reviews 14-Point Plan** — After calling Iranian leadership "disjointed" and threatening to "blast the hell out of them," Trump now reviewing revised proposal. Pakistan sole mediator.
 
-**China Defies Iran Sanctions** — Commerce Ministry called US sanctions on five "teapot" refineries unlawful. Tests secondary-sanction enforcement during active war.
+**5,000 Troops From Germany** — Pentagon confirms 14% reduction over 6-12 months, retaliatory for Merz criticizing Iran strategy. Sen. Reed warns of "irreversible alliance damage."
+
+**Eurozone Inflation 3%** — Energy +10.9% YoY; growth 0.1% QoQ. Japan PM calls oil crisis "enormous impact," signing energy deals.
 
 ## Diplomatic/Military Posture
 
-Washington holds 4-CSG convergence against Tehran's diplomatic buying time. Israel's Lebanon campaign escalates independent of US-Iran track. China teapot defiance tests sanctions credibility. Ukraine enters ground-drying window — can it hold without resumed US aid.
+Washington negotiates and prepares to force strait open simultaneously — live contact could shatter ceasefire. Iran reads Project Freedom as violation but may calibrate to avoid handing casus belli. Germany drawdown punishes allied dissent.
 
 ## Bottom Line
 
-Brent above $122, Spirit's collapse as first economic casualty, and 4-CSG window converge — one IRGC-CENTCOM contact breaks the ceasefire.
+One IRGC-CENTCOM contact — tanker already hit off UAE — breaks the ceasefire and returns US to full combat operations in the Gulf.
 
 ## Sources
 
-AP (Trump/Iran, $8.6B, Spirit, Sudan), Al Jazeera (14-point text, analyst assessment, Lebanon), ISW (Russia net loss, April assessment), Reuters (Engels strike, China teapot), Breaking Defense (LRASM), BBC (PLA drills)
+AP (Project Freedom, tanker strikes, Trump proposal, Germany withdrawal, eurozone inflation, Ukraine Primorsk, Sudan RSF), Al Jazeera (Iran warning, oil analysis, Japan PM, Gaza truce), UKMTO
