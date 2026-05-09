@@ -1,27 +1,23 @@
 ---
-date: 2026-05-08
+date: 2026-05-09
 ---
 
-**Status: US-Iran ceasefire near collapse after Hormuz clash**
+**Status: US-Iran clash in Hormuz; both sides blame each other**
 
-Iran attacked 3 US destroyers May 7-8 with missiles, drones, swarming boats. CENTCOM struck Iranian C2/ISR and launch sites. Iran claims US struck first—tanker, Qeshm I., Bandar Khamir, Sirik. UAE engaged Iranian fire May 8—first direct Gulf involvement. Trump says ceasefire holds but warns: "Deal signed, FAST!" Iran's Rezaei: "finger on trigger." Brent spiked 7.5% to $103.70 (~$101, +40% pre-war). 14.5M bbl/day offline. Pakistan mediating 14-point MOU Iran dismisses as "wish list."
+Iran attacked 3 US destroyers May 7-8 with missiles and swarming boats; CENTCOM destroyed Iranian vessels and launch sites. Iran claims US struck first. Trump: ceasefire "in place" but warns of escalation. FM Araghchi: US opts for "reckless military adventure" each time diplomacy is on table. US disabled 2 Iranian tankers breaching blockade (Centcom: 70+ blocked). Brent rose ~3% to ~$103. Iran's reply to US deal expected May 9.
 
-**Other Fronts: Russia V-Day truce shattered; Gaza talks deadlocked**
+**Other Fronts**
 
-Russia's May 8-10 ceasefire—broken day one. Kremlin: 264 Ukrainian drones downed; 13 airports halted after Rostov ATC strike. Zelenskyy: >140 attacks, >850 drones. Ukraine hit Yaroslavl oil facility. Russia's May 9 parade—first time in ~20 yrs—shows no tanks or missiles due to drone threat. Kyiv proposed open-ended ceasefire May 6; Russia ignored.
+Trump announces 3-day Russia-Ukraine ceasefire (May 9-11) plus 1,000-for-1,000 POW swap—both sides agreed. Mutual violations within hours: Zelenskyy reports >140 attacks, >850 drones; Russia says 264 drones downed. Victory Day parade proceeds with no military hardware first time in ~20 years. Russia warns massive strike on Kyiv if disturbed. EU's Costa opens door to bloc-level Russia talks with Zelenskyy backing. Greek military examines possible Ukrainian naval drone with explosives found in Ionian Sea.
 
-Gaza: Cairo talks deadlocked. Israeli strike killed son of Hamas negotiator. Adviser: "Hamas won't disarm." 846 killed since October ceasefire. US may greenlight expanded operations.
-
-**EU ultimatum; Japan protests; S. Asia heatwave**
-
-Trump set EU July 4 deadline to zero tariffs—talks stalled May 6. Japan's largest anti-war protests after arms export ban lifted Apr 21. S. Asia: 45-50°C; 10+ dead Pakistan.
+Israeli settlers set fire to homes and cars across multiple West Bank villages May 9. Libya's Zawiya refinery (120k bpd) halted after armed clashes. ASEAN leaders agree fuel-sharing framework to ease Iran war impact; details unclear. International cyber attack breaches Canvas LMS used by thousands of schools worldwide.
 
 **Diplomatic/Military Posture**
 
-Both sides struck major blows without renouncing ceasefire—neither wants full resumption alone, both hold redlines precluding compromise. Russia evacuated diplomats from Kyiv, signaling post-V-Day strikes. No Ukraine off-ramp visible.
+Iran delays deal response as US blockade tightens—neither wants ceasefire collapse but both escalate. Ukraine truce holds by thread through Victory Day weekend; post-May 11 risk of Russian strikes on Kyiv (diplomats evacuated). EU exploring independent negotiating track signals transatlantic drift. German finance minister blames Iran war for €70bn tax revenue downgrade.
 
-**Bottom Line:** US-Iran ceasefire eroding by the hour—next 48 hours of Hormuz calm-or-clash determines whether Pakistan mediation salvages a deal or collapses into full hostilities.
+**Bottom Line:** Iran's response to US deal proposal due May 9 determines whether Hormuz de-escalation holds or the ceasefire collapses into full hostilities within 72 hours.
 
 **Sources**
-- BBC: c626zyywxjno; c86dp85g59xo; cd6p5l3n2q3o; cp3pyk4nw3lo; c4g93v8jqnyo
-- AJ: iran-war-day-70; russia-ukraine-trade-fire; ukraines-daring-assaults; oil-prices-jump; seafarers; southeast-asias-leaders; heatwave
+- BBC: c202zn5gg0lo; c86dp85g59xo; c99lpn9ze8ro; cx217expnvvo; cwy2d0v3p2po
+- AJ: iran-war-live-2026-5-9; trump-3-day-ceasefire; russia-ukraine-trade-fire; west-bank-settlers; libya-refinery; asean-summit-iran-war
