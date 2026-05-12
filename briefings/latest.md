@@ -1,26 +1,26 @@
 ---
-date: 2026-05-11
+date: 2026-05-12
 ---
 
-**Status: US-Iran diplomacy stalls after Trump rejects Tehran's counter-proposal**
+**Status: US-Iran ceasefire at "1% chance" as Trump departs for China summit**
 
-Trump dismissed Iran's peace response (via Pakistan May 10) as "totally unacceptable." Iran demanded end of war, lifted blockade, Hormuz sovereignty, war reparations. US proposed nuclear suspension, sanctions relief, free transit. Khamenei issued "decisive directives" for continued ops. Brent jumped 4.1% to ~$106. UAE shot down 2 Iranian drones; Kuwait reported incursions. Bahrain arrested 41 alleged IRGC-linked operatives. UK sending warship; Iran warns of "decisive response" to any European deployment.
+Trump rated the 30-day truce as nearly dead after rejecting Iran's 14-point counter-proposal as a "piece of garbage." Iran demands end of war, lifted blockade, Hormuz sovereignty, war reparations. UK/France host 40-nation Hormuz security meeting today — Iran warns of "decisive response" to any European naval deployment. US released 53M barrels from SPR; Trump proposed gas tax suspension as pump prices top $4.50. Brent ~$106.
 
 **Other Fronts**
 
-Putin says Ukraine war "coming to an end" — ceasefire expires midnight, weakened by mutual violations. Israeli strikes killed 51 in Lebanon (24h), including 2 medics. West Bank: armed settlers forced family to exhume father's body; coordinated attacks injured 10 across 4 villages. Hungary's Magyar sworn in, ending 16 years of Orbán rule.
+Ukraine 72-hr ceasefire expired midnight — mutual violations, no monitoring mechanism. Israeli strikes killed 10+ in southern Lebanon; IDF issued evacuation orders for 9 villages. Knesset passed October 7 tribunal law 93-0, enabling death penalty with public broadcasting.
 
 **Key Developments**
 
-Trump travels to China May 13-15 — first US visit in ~decade, tests tariff truce and China's Iran leverage. Asia energy crisis deepens: $299bn projected loss, 8.8M at risk of poverty. Modi urges WFH, no gold for year, halve fertilizer. Iran food inflation hits 115% YoY under blockade.
+Trump lands in China May 13 for first presidential visit since 2017 — Taiwan, Iran leverage, and tariff truce on table. EU sanctioned 7 Israeli settlers (Orbán block removed). Hungary returned $82M seized gold to Ukraine. UK PM Starmer faces Labour rebellion: 70+ MPs demand resignation timetable.
 
 **Diplomatic/Military Posture**
 
-No off-ramp visible: US-Iran deadlocked on Hormuz sovereignty vs. nuclear dismantlement. Ukraine truce expires tonight — elevated strike risk on Kyiv. Europe floats independent Iran channel as Macron pitches "security mission coordinated with Tehran," straining transatlantic alignment.
+No off-ramp visible: Hormuz remains closed, 40-nation security meeting signals Western escalation readiness. Ukraine truce collapsed without monitoring. Trump-Xi test determines whether China pressures Iran toward concessions or Hormuz closure deepens global energy crisis past August. US quietly negotiating 3 new Greenland bases for Arctic surveillance — designating them US sovereign territory.
 
-**Bottom Line:** Trump-Xi summit May 13 determines whether China pushes Iran toward concessions or Hormuz closure enters month three with diplomacy exhausted and oil above $105.
+**Bottom Line:** Trump-Xi summit May 13-15 is the single inflection point — if Beijing refuses to lean on Iran, ceasefire dies and Hormuz closure enters month three with diplomatic channels exhausted and SPR draws accelerating.
 
 **Sources**
-- BBC: clypgz9e5pmo; ckgp4ev4yg4o; cn8p4j2jzwwo; cjrpnjpl39po; c3rz75rgn8zo
-- AJ: iran-war-live-2026-5-11; 2026/5/10/putin; 2026/5/10/medics; 2026/5/10/food
-- AP: iran-response; asia-energy; ukraine-truce; settler-violence
+- BBC: cvgznxn18zgo; ckgp4ev4yg4o; ceqprgen1nyo; c202wp2rl09o; cx21669452lo
+- AJ: iran-war-live-2026-5-12; 2026/5/12/tribunal; 2026/5/12/settler-sanctions
+- AP: iran-china-summit; ukraine-ceasefire-expired; israel-tribunal; hungary-gold
