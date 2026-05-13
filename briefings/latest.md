@@ -1,26 +1,26 @@
 ---
-date: 2026-05-12
+date: 2026-05-13
 ---
 
-**Status: US-Iran ceasefire at "1% chance" as Trump departs for China summit**
+**Status: Trump en route to Beijing as Hormuz UN resolution hits 112 co-sponsors**
 
-Trump rated the 30-day truce as nearly dead after rejecting Iran's 14-point counter-proposal as a "piece of garbage." Iran demands end of war, lifted blockade, Hormuz sovereignty, war reparations. UK/France host 40-nation Hormuz security meeting today — Iran warns of "decisive response" to any European naval deployment. US released 53M barrels from SPR; Trump proposed gas tax suspension as pump prices top $4.50. Brent ~$106.
+Trump departs Washington with Iran truce at zero momentum — rejected Tehran's 14-point offer, then contradicted himself on needing Xi's help. Lands Beijing Wednesday. Bahrain-US UN resolution demanding free Hormuz navigation drew 112 co-sponsors of 193 UN members — China/Russia vetoed first draft in April; may again. Iran DM: US seeks "capitulation, not peace."
 
 **Other Fronts**
 
-Ukraine 72-hr ceasefire expired midnight — mutual violations, no monitoring mechanism. Israeli strikes killed 10+ in southern Lebanon; IDF issued evacuation orders for 9 villages. Knesset passed October 7 tribunal law 93-0, enabling death penalty with public broadcasting.
+Ukraine 72-hr truce collapsed — Russia launched 200+ drones, killed 6; Ukraine struck gas facilities in Orenburg 1,500km inside Russia. Putin test-fired Sarmat ICBM ("Satan II"), claims 35,000km range, 4x Western warhead — service end-2026. New START lapsed Feb. Serbia held first-ever joint exercise with NATO (600 troops, 9 nations, through May 23).
 
 **Key Developments**
 
-Trump lands in China May 13 for first presidential visit since 2017 — Taiwan, Iran leverage, and tariff truce on table. EU sanctioned 7 Israeli settlers (Orbán block removed). Hungary returned $82M seized gold to Ukraine. UK PM Starmer faces Labour rebellion: 70+ MPs demand resignation timetable.
+Hegseth grilled: Iran war cost revised to $29B (up from $25B), excluding facility repairs. GOP pressed munitions depletion, allied strain. US CPI 3.8% YoY, highest in 3 years — gas +28% since Feb. Real wages fell YoY first time since 2023. BRICS meets Delhi May 14 — Iran, UAE both attend; bloc strained by war. 5 European states boycott Eurovision over Israel's Gaza participation.
 
 **Diplomatic/Military Posture**
 
-No off-ramp visible: Hormuz remains closed, 40-nation security meeting signals Western escalation readiness. Ukraine truce collapsed without monitoring. Trump-Xi test determines whether China pressures Iran toward concessions or Hormuz closure deepens global energy crisis past August. US quietly negotiating 3 new Greenland bases for Arctic surveillance — designating them US sovereign territory.
+No off-ramp: China holds Iran leverage Trump publicly dismisses but privately needs. Hormuz closure month 3 with 112-nation UN resolution signaling alarm, but China/Russia veto blocks enforcement. Russia Sarmat test + UKR deep-strike escalation widen strategic competition beyond Gulf. Inflation into real-wage erosion tightens domestic pressure on Trump.
 
-**Bottom Line:** Trump-Xi summit May 13-15 is the single inflection point — if Beijing refuses to lean on Iran, ceasefire dies and Hormuz closure enters month three with diplomatic channels exhausted and SPR draws accelerating.
+**Bottom Line:** Trump-Xi working lunch May 15 is the decisive pivot — if Xi refuses to pressure Iran on Hormuz, war enters month 3 without off-ramp, CPI above 4%, SPR draws accelerating.
 
 **Sources**
-- BBC: cvgznxn18zgo; ckgp4ev4yg4o; ceqprgen1nyo; c202wp2rl09o; cx21669452lo
-- AJ: iran-war-live-2026-5-12; 2026/5/12/tribunal; 2026/5/12/settler-sanctions
-- AP: iran-china-summit; ukraine-ceasefire-expired; israel-tribunal; hungary-gold
+- AP: trump-xi-arrival; hegseth-iran-war-congress; us-inflation-iran
+- AJ: trump-to-china-liveblog; bahrain-hormuz-resolution; sarmat-missile-test; serbia-nato-exercise; ukraine-gas-facilities
+- BBC: trump-beijing-summit; iran-ceasefire-collapse; sarmat-test
