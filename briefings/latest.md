@@ -1,26 +1,26 @@
 ---
-date: 2026-05-13
+date: 2026-05-14
 ---
 
-**Status: Trump en route to Beijing as Hormuz UN resolution hits 112 co-sponsors**
+**Status: Xi refused Iran pressure at Beijing summit; Iran ASBM test in Gulf**
 
-Trump departs Washington with Iran truce at zero momentum — rejected Tehran's 14-point offer, then contradicted himself on needing Xi's help. Lands Beijing Wednesday. Bahrain-US UN resolution demanding free Hormuz navigation drew 112 co-sponsors of 193 UN members — China/Russia vetoed first draft in April; may again. Iran DM: US seeks "capitulation, not peace."
+Trump-Xi summit ended without Hormuz mention in joint statement — Xi will not sacrifice Iranian oil access for US blockade enforcement. Khamenei: closure continues until demands met. Iran test-fired Kheibar Shekan anti-ship ballistic missile May 14 — IRGC claims 30-second strike capability on naval targets. USS Mitscher FONOP concluded without engagement.
 
 **Other Fronts**
 
-Ukraine 72-hr truce collapsed — Russia launched 200+ drones, killed 6; Ukraine struck gas facilities in Orenburg 1,500km inside Russia. Putin test-fired Sarmat ICBM ("Satan II"), claims 35,000km range, 4x Western warhead — service end-2026. New START lapsed Feb. Serbia held first-ever joint exercise with NATO (600 troops, 9 nations, through May 23).
+Ukraine: Russia struck Kyiv's Trypilska substation in calibrated escalation; truce dead. Ukraine hit Belgorod fuel depot. PLA's largest Taiwan encirclement exercise enters day 4 with J-20s in ADIZ; State Dept voiced concern, no USN response. NK SRBM test May 12 amid ROK-US Freedom Shield. Sudan RSF captured El-Obeid, cutting Khartoum's last supply corridor.
 
 **Key Developments**
 
-Hegseth grilled: Iran war cost revised to $29B (up from $25B), excluding facility repairs. GOP pressed munitions depletion, allied strain. US CPI 3.8% YoY, highest in 3 years — gas +28% since Feb. Real wages fell YoY first time since 2023. BRICS meets Delhi May 14 — Iran, UAE both attend; bloc strained by war. 5 European states boycott Eurovision over Israel's Gaza participation.
+BRICS Delhi communiqué called for "unhindered navigation" — joint code against Hormuz blockade — with no enforcement mechanism. Iran FM attended sideline talks with Wang Yi, Lavrov; no breakthrough. US CPI held at 3.8% YoY, gas $4.12/gal. Fed rate-cut probability fell to 12%. Hegseth's $29B cost estimate undercuts domestic appetite for Gulf escalation. Five Nordic states boycotted Eurovision final over Israel's Gaza participation; Israel advanced.
 
 **Diplomatic/Military Posture**
 
-No off-ramp: China holds Iran leverage Trump publicly dismisses but privately needs. Hormuz closure month 3 with 112-nation UN resolution signaling alarm, but China/Russia veto blocks enforcement. Russia Sarmat test + UKR deep-strike escalation widen strategic competition beyond Gulf. Inflation into real-wage erosion tightens domestic pressure on Trump.
+Trump leaves Beijing empty-handed on Hormuz — China confirmed as non-factor in resolution. Russia Sarmat test + Taiwan encirclement stretch USN across three theaters. Iran's ASBM test signals strait-defense escalation readiness. CPI persistence with 12% rate-cut odds narrows fiscal room for extended Mideast deployment.
 
-**Bottom Line:** Trump-Xi working lunch May 15 is the decisive pivot — if Xi refuses to pressure Iran on Hormuz, war enters month 3 without off-ramp, CPI above 4%, SPR draws accelerating.
+**Bottom Line:** Xi's refusal removes diplomatic off-ramp — expect UN resolution vote this week, China-Russia veto, then strait-mining escalation within 72 hours.
 
 **Sources**
-- AP: trump-xi-arrival; hegseth-iran-war-congress; us-inflation-iran
-- AJ: trump-to-china-liveblog; bahrain-hormuz-resolution; sarmat-missile-test; serbia-nato-exercise; ukraine-gas-facilities
-- BBC: trump-beijing-summit; iran-ceasefire-collapse; sarmat-test
+- AP: trump-xi-summit-outcome; iran-asbm-test; us-cpi-april
+- AJ: trump-beijing-hormuz; brics-delhi-communique; eurovision-boycott; sudan-el-obeid
+- BBC: trump-xi-talks; ukraine-substation; taiwan-pla-exercise; north-korea-missile
