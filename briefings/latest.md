@@ -1,25 +1,26 @@
 ---
-date: 2026-05-15
+date: 2026-05-16
 ---
 
-**Status: Ship seized off Fujairah; Iran opens Hormuz for cooperating ships; Kyiv toll 24**
+**Status: Trump-Xi summit ends; Trump warns Taiwan off independence; 6 killed in Lebanon as 45-day truce extended**
 
-Ship 38 nm NE of Fujairah seized, heading Iranian waters; Indian-flagged cargo sunk off Oman, perps unknown. Araghchi at BRICS+ accused UAE of war complicity. Tehran opened Hormuz for ships cooperating with Iranian naval forces — 30+ vessels transited. Trump on Fox: Xi offered strait help, pledged no arms to Iran; AP notes Beijing has shown little public interest. Senate war powers failed 49-50 — Murkowski first GOP no.
+Trump concluded two-day Beijing summit with no trade breakthrough, signaling he may stall $11B+$14B Taiwan arms -- "last thing we need is a war 9,500 miles away." Xi warned Taiwan mishandling could trigger conflict. Taiwan deputy FM demanded clarification. On Hormuz, both sides agreed strait must stay open; Xi offered no verifiable enforcement.
 
 **Other Fronts**
 
-Russia destroyed 9-story Kyiv building (24 dead, 3 children); 1,560+ drones since Wednesday. UN convoy drone-struck in Kherson. Latvian PM resigned after Progressives pulled support over Ukrainian drones on Baltic soil. Israel-Lebanon 3rd round US-brokered talks in DC deemed "positive."
+Ukraine/Russia exchanged 205 POWs as Kyiv mourned 24 dead. Ukraine hit Ryazan oil refinery. PH Senate erupted in gunfire during ICC arrest attempt (no injuries). DR Congo Ebola: 80 dead, 246 cases, spread to Uganda.
 
 **Key Developments**
 
-Xi to Trump: Taiwan independence and peace "as irreconcilable as fire and water"; Trump left Beijing without Hormuz enforcement deal. House petition hit 218 forcing Ukraine aid vote ($1B+ $8B loans); Johnson skeptical. Russia wanted-listed UK's Ben Wallace. CIA's Ratcliffe met Cuba's Diaz-Canel, who is open to US aid during fuel crisis.
+US-Nigerian forces killed ISWAP deputy al-Mainuki in Lake Chad Basin -- first time a security agency hit an ISWAP leader this senior. DOJ prepares to indict Raul Castro over 1996 shootdown, escalating Cuba pressure. Israel struck civil defense center in Harouf (6 dead, 3 paramedics) as US announced 45-day Lebanon truce extension; 12,000+ UNIFIL violations under prior truce.
 
 **Diplomatic/Military Posture**
 
-Iran's selective reopening tests if the coalition can enforce universal blockade without splitting commercial interests. Xi's no-arms pledge unverifiable, contradicts existing China-Iran oil. Kyiv building strike signals Putin escalating urban terror as peace-deal chip. Latvian resignation exposes Baltic vulnerability to Russian EW diverting Ukrainian drones.
+Trump consulting Xi on Taiwan arms violates the 1982 Six Assurances -- a hedge prioritizing Hormuz deconfliction over Taipei deterrence. Lebanon extension's immediate breach signals continued violations; security track May 29. Castro indictment sets stage for regime-change playbook but analysts see no Pentagon appetite for Cuba boots-on-ground.
 
-**Bottom Line:** Iran's calibrated reopening pressures coalition cohesion just as the House Ukraine vote reveals two-theater spending appetite — watch the floor vote this week and UKMTO findings on the Fujairah seizure.
+**Bottom Line:** Three concurrent theaters (Iran, Lebanon, Cuba) stretch coalition bandwidth as Trump's Taiwan posture shift raises ally concerns -- watch House Ukraine aid floor vote week May 19 and Lebanon security track May 29.
 
 **Sources**
-- AP: ship-seized-fujairah; kyiv-toll; trump-xi-hormuz; war-powers; latvia-pm; cia-cuba; ukraine-petition
-- AJ: iran-brics-uae; israel-lebanon-talks; un-convoy-kherson; wallace-wanted
+- AP: trump-xi-summit-takeaways; taiwan-arms-package; isis-nigeria; raul-castro-indictment; iran-hormuz-ship-seized; war-powers-murkowski; philippines-senate-gunfire
+- BBC: trump-taiwan-warning; lebanon-ceasefire-extension; ukraine-pow-swap-kyiv-strike
+- AJ: lebanon-live-may16; kataib-hezbollah-charges; ebola-drc
