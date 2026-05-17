@@ -1,26 +1,26 @@
 ---
-date: 2026-05-16
+date: 2026-05-17
 ---
 
-**Status: Trump-Xi summit ends; Trump warns Taiwan off independence; 6 killed in Lebanon as 45-day truce extended**
+**Status: Iran to toll Hormuz; Putin-Xi summit May 19; Ukraine kills 3 in Moscow's largest drone strike; Hamas military wing chief dead**
 
-Trump concluded two-day Beijing summit with no trade breakthrough, signaling he may stall $11B+$14B Taiwan arms -- "last thing we need is a war 9,500 miles away." Xi warned Taiwan mishandling could trigger conflict. Taiwan deputy FM demanded clarification. On Hormuz, both sides agreed strait must stay open; Xi offered no verifiable enforcement.
+Iran announced a toll mechanism for Hormuz passage — European states already negotiating with IRGC navy. Trump warned Iran faces "a very bad time" without a deal, and signaled the $14B Taiwan arms package is leverage to get China to pressure Iran. BRICS foreign ministers failed to issue a joint statement in Delhi over Middle East fractures; Pakistan mediated in Tehran. USS Ford returned to Virginia after record 11-month deployment.
 
 **Other Fronts**
 
-Ukraine/Russia exchanged 205 POWs as Kyiv mourned 24 dead. Ukraine hit Ryazan oil refinery. PH Senate erupted in gunfire during ICC arrest attempt (no injuries). DR Congo Ebola: 80 dead, 246 cases, spread to Uganda.
+Putin visits Xi May 19-20, days after Trump's summit — deepened alignment despite outreach. Venezuela deported Maduro ally Alex Saab to the US, fracturing ruling coalition. WHO declared DRC Ebola a global emergency (300+ suspected, 88 dead, confirmed in Kinshasa). Sudan drones killed 880 civilians Jan-Apr — 80% of all conflict deaths.
 
 **Key Developments**
 
-US-Nigerian forces killed ISWAP deputy al-Mainuki in Lake Chad Basin -- first time a security agency hit an ISWAP leader this senior. DOJ prepares to indict Raul Castro over 1996 shootdown, escalating Cuba pressure. Israel struck civil defense center in Harouf (6 dead, 3 paramedics) as US announced 45-day Lebanon truce extension; 12,000+ UNIFIL violations under prior truce.
+Hamas military wing leader Izz al-Din al-Haddad killed in Gaza strike — Israel's most significant Qassam decapitation of the war. Ukraine hit Moscow with 556 drones, killing 3 at the city's oil refinery; Russia returned 528 Ukrainian bodies. Hezbollah fiber-optic tethered FPV drones ($300-500, Chinese-sourced) evading Israeli defenses — BBC: IDF has no effective countermeasure.
 
 **Diplomatic/Military Posture**
 
-Trump consulting Xi on Taiwan arms violates the 1982 Six Assurances -- a hedge prioritizing Hormuz deconfliction over Taipei deterrence. Lebanon extension's immediate breach signals continued violations; security track May 29. Castro indictment sets stage for regime-change playbook but analysts see no Pentagon appetite for Cuba boots-on-ground.
+Iran's toll gambit shifts from blockade to institutionalized transit fee — a de facto Hormuz tax. BRICS fracture weakens anti-US bloc coherence. UAE accelerating Hormuz bypass pipeline (2027 target). Putin-Xi summit blocks Trump's cross-pressure strategy on Iran.
 
-**Bottom Line:** Three concurrent theaters (Iran, Lebanon, Cuba) stretch coalition bandwidth as Trump's Taiwan posture shift raises ally concerns -- watch House Ukraine aid floor vote week May 19 and Lebanon security track May 29.
+**Bottom Line:** Iran's toll mechanism and failed BRICS joint statement remove diplomatic off-ramps — watch Putin-Xi readout May 19 for new military coordination signals.
 
 **Sources**
-- AP: trump-xi-summit-takeaways; taiwan-arms-package; isis-nigeria; raul-castro-indictment; iran-hormuz-ship-seized; war-powers-murkowski; philippines-senate-gunfire
-- BBC: trump-taiwan-warning; lebanon-ceasefire-extension; ukraine-pow-swap-kyiv-strike
-- AJ: lebanon-live-may16; kataib-hezbollah-charges; ebola-drc
+- AP: taiwan-trump-arms; putin-china-visit; brics-delhi; venezuela-saab; hamas-alhaddad; congo-ebola; sudan-drones; ford-carrier-return
+- BBC: ukraine-moscow-drone-strike; hezbollah-fpv-drones
+- AJ: iran-war-day-79; hormuz-toll; uae-pipeline
