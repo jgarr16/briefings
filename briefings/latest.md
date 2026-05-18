@@ -1,26 +1,26 @@
 ---
-date: 2026-05-17
+date: 2026-05-18
 ---
 
-**Status: Iran to toll Hormuz; Putin-Xi summit May 19; Ukraine kills 3 in Moscow's largest drone strike; Hamas military wing chief dead**
+**Status: Drone hits UAE nuclear plant; Trump warns "clock is ticking"; Saudi intercepts three from Iraq; Iran-Oman talk Hormuz transit**
 
-Iran announced a toll mechanism for Hormuz passage — European states already negotiating with IRGC navy. Trump warned Iran faces "a very bad time" without a deal, and signaled the $14B Taiwan arms package is leverage to get China to pressure Iran. BRICS foreign ministers failed to issue a joint statement in Delhi over Middle East fractures; Pakistan mediated in Tehran. USS Ford returned to Virginia after record 11-month deployment.
+A drone strike hit an electrical generator outside the Barakah Nuclear Plant perimeter — UAE called it a "dangerous escalation." Saudi intercepted three drones entering from Iraq. Iran confirmed talks with Oman on a Hormuz transit mechanism; US-Iran talks continue through Pakistan. Trump warned Iran "the clock is ticking" after his Netanyahu call; reports suggest US and Israel may hit Iranian energy sites.
 
 **Other Fronts**
 
-Putin visits Xi May 19-20, days after Trump's summit — deepened alignment despite outreach. Venezuela deported Maduro ally Alex Saab to the US, fracturing ruling coalition. WHO declared DRC Ebola a global emergency (300+ suspected, 88 dead, confirmed in Kinshasa). Sudan drones killed 880 civilians Jan-Apr — 80% of all conflict deaths.
+Putin arrives Beijing May 18 for summit with Xi. Ukraine hit Moscow with its largest drone attack in a year (556 intercepted, 3 killed); Russia struck back with 287 drones on Ukraine. UK PM Starmer faces slow-motion coup — Streeting announced leadership bid. WHO declared Ebola a global emergency (246 cases, 80 dead, confirmed in Uganda).
 
 **Key Developments**
 
-Hamas military wing leader Izz al-Din al-Haddad killed in Gaza strike — Israel's most significant Qassam decapitation of the war. Ukraine hit Moscow with 556 drones, killing 3 at the city's oil refinery; Russia returned 528 Ukrainian bodies. Hezbollah fiber-optic tethered FPV drones ($300-500, Chinese-sourced) evading Israeli defenses — BBC: IDF has no effective countermeasure.
+Barakah strike — first kinetic attack on a nuclear site in the Gulf War; IAEA expressed "grave concern." US demanded Iran keep only one nuclear site and transfer enriched uranium; Iran demanded Hormuz sovereignty guarantees and war compensation. Israeli covert outposts in Iraq's western desert revealed by NYT. DOJ prepares Raúl Castro indictment over 1996 shootdown, escalating Cuba pressure.
 
 **Diplomatic/Military Posture**
 
-Iran's toll gambit shifts from blockade to institutionalized transit fee — a de facto Hormuz tax. BRICS fracture weakens anti-US bloc coherence. UAE accelerating Hormuz bypass pipeline (2027 target). Putin-Xi summit blocks Trump's cross-pressure strategy on Iran.
+Lindsey Graham urges Trump to hit Iranian energy. Russia's envoy Ulyanov suggests Iran appoint envoy to Moscow — Moscow wants deeper broker role. UK leadership crisis and Cuba focus suggest Washington bandwidth constraints.
 
-**Bottom Line:** Iran's toll mechanism and failed BRICS joint statement remove diplomatic off-ramps — watch Putin-Xi readout May 19 for new military coordination signals.
+**Bottom Line:** Barakah strike and stalled talks remove diplomatic cushion — watch Saudi/UAE response and Putin-Xi joint statement for escalation signals.
 
 **Sources**
-- AP: taiwan-trump-arms; putin-china-visit; brics-delhi; venezuela-saab; hamas-alhaddad; congo-ebola; sudan-drones; ford-carrier-return
-- BBC: ukraine-moscow-drone-strike; hezbollah-fpv-drones
-- AJ: iran-war-day-79; hormuz-toll; uae-pipeline
+- AP: uae-nuclear-drones; trump-clock-ticking; raul-castro-indictment; congo-ebola-uganda
+- BBC: ukraine-moscow-drone-strike; uae-barakah-strike; trump-iran-clock-ticking
+- AJ: iran-war-day-80; iran-live-may18; hormuz-oman-transit
