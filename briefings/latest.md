@@ -1,25 +1,26 @@
 ---
-date: 2026-05-22
+date: 2026-05-23
 ---
 
-**Status: Iran talks show momentum; US pauses $14bn Taiwan arms; Rubio warns Cuba; Trump Poland flip bewilders NATO**
+**Status: Iran talks stall; NATO eyes Hormuz; Gabbard quits; Putin vows retaliation; Rubio lands in India**
 
-Pakistan-mediated talks advancing — draft texts exchanged, senior Iranian official says deal close. Rubio sees "good signs"; Trump warns "very drastic" action if Iran keeps uranium. US lost $1bn in Reaper drones (25+ MQ-9s). USS Lincoln at peak readiness. Trump-Netanyahu call tense — Netanyahu wants war resumed, Trump favors diplomacy. China may pay Iran's Hormuz administrative fee.
+Iran's FM says differences "deep and significant" as Pakistan army chief Munir arrives in Tehran for third mediation. Rubio acknowledges only "slight progress" — Tehran demands full war halt. IRGC says 30+ vessels passed under its coordination — Iran asserting it controls the strait's "new reality."
 
 **Other Fronts**
 
-US pause on $14bn Taiwan arms (conserved for Iran war) — McConnell "distressed"; Taiwan says will keep pursuing. Trump considering call to Taiwan's Lai. Trump sending 5,000 troops to Poland after ordering 5,000 out of Europe — NATO "bewildered," US defense officials also confused. Rubio at NATO Sweden today. Cuba: Trump will "be the one" to intervene; Rubio says diplomacy "not high." Turkish court ousts CHP leader Ozel — Borsa down 6%.
+Putin vows retaliation after Ukraine hit Russia's Rubicon drone unit in Starobilsk — Russia says dormitory, 10 dead; Ukraine says military target. Bipartisan senators push Hegseth for $600M Ukraine aid. Israel struck south Lebanon; 3,111 dead since March 2. Gabbard resigns DNI June 30 — husband's cancer. China mine blast kills 90+. Congo Ebola "very high."
 
 **Key Developments**
 
-Iran talks progress tested by Trump's ultimatum and Netanyahu's war push. Taiwan arms pause opens second crisis front. Trump's troop flip erodes NATO trust before Quad.
+Iran talks show little convergence — Tehran hardens on Hormuz control and full ceasefire. NATO ministers concluded with Rutte warning Iran is "holding the global economy hostage," discussing assets to secure the Strait. Rubio's India visit aims to sell US energy amid the oil shock hitting India's 80%-import-dependent economy. Trump's contradictory troop moves (5,000 to Poland after canceling 4,000, pulling 5,000 from Germany) left NATO "bewildered."
 
-**Posture**
+**Diplomatic/Military Posture**
 
-Rubio carries Iran posture to NATO, then Quad India — seeking burden-sharing amid Reaper depletion. France hints windfall tax on energy firms profiting from Hormuz closure. Russia-Belarus nuclear drills wrap.
+Ukraine intensifies deep strikes in occupied territory and Russia — Novorossiysk, Starobilsk, and the FSB HQ in Kherson — signaling escalation ahead of talks. Bipartisan Congress frustration grows: Ukraine aid stuck, Iran war costs unaccounted. Gabbard's exit removes an anti-interventionist voice; her deputy Lukas aligns with Trump's tempo.
 
-**Bottom Line:** The next 48 hours determine whether Iran accepts a deal framework or Trump pivots to "drastic action" — with Taiwan, Cuba, and NATO trust stretching US credibility across three fronts.
+**Bottom Line:** Pakistan's mediation is the last active track with momentum, but Iran's demands for a full-war halt and Hormuz control — plus a potential Trump pivot to "drastic action" within days — keep ceasefire collapse or deal as the 48-hour trigger.
 
 **Sources**
-AP: nato-trump-troops-europe-poland-confusion; trump-rubio-cuba-castro-intervention; nato-us-troops-redeployment-trump-germany
-AJ: iran-war-day-84-us-iran-talks-advance; us-pausing-14bn-arms-sale-to-taiwan; us-raises-threat-of-military-action-against-cuba; turkish-court-ousts-leader-of-main-opposition-party
+AP: iran-us-rubio-talks; nato-trump-troops-europe-poland-confusion; gabbard-resigns; congress-ukraine-funding-russia
+BBC: rubio-visits-india-sell-energy; putin-retaliation-ukraine-starobilsk
+AJ: iran-war-day-85-tehran-major-gaps-remain
