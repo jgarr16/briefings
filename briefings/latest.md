@@ -1,26 +1,31 @@
 ---
-date: 2026-05-23
+date: 2026-05-24
 ---
 
-**Status: Iran talks stall; NATO eyes Hormuz; Gabbard quits; Putin vows retaliation; Rubio lands in India**
+## Status
 
-Iran's FM says differences "deep and significant" as Pakistan army chief Munir arrives in Tehran for third mediation. Rubio acknowledges only "slight progress" — Tehran demands full war halt. IRGC says 30+ vessels passed under its coordination — Iran asserting it controls the strait's "new reality."
+Russia hit Kyiv with 600 drones and 90 missiles overnight — the war's largest combined aerial assault — killing four and wounding 56. Moscow used the hypersonic Oreshnik for a third time. Ukraine struck a Russian-occupied college in Starobilsk (Luhansk), killing 21 per Moscow; Kyiv says it hit a military unit. Putin ordered retaliation proposals; pro-Kremlin voices urge strikes on Europe.
 
-**Other Fronts**
+## Other Fronts
 
-Putin vows retaliation after Ukraine hit Russia's Rubicon drone unit in Starobilsk — Russia says dormitory, 10 dead; Ukraine says military target. Bipartisan senators push Hegseth for $600M Ukraine aid. Israel struck south Lebanon; 3,111 dead since March 2. Gabbard resigns DNI June 30 — husband's cancer. China mine blast kills 90+. Congo Ebola "very high."
+**DRC.** Ebola (Bundibugyo strain) now ~180 dead, ~800 cases. Residents torched an MSF tent in Mongbwalu and stormed a center in Rwampara over burial disputes. WHO upgraded risk.  
+**Pakistan.** BLA bombed a train in Quetta, wounding 30+.  
+**China.** Shanxi coal mine blast killed at least 82 — worst mining disaster in 16 years.
 
-**Key Developments**
+## Key Development
 
-Iran talks show little convergence — Tehran hardens on Hormuz control and full ceasefire. NATO ministers concluded with Rutte warning Iran is "holding the global economy hostage," discussing assets to secure the Strait. Rubio's India visit aims to sell US energy amid the oil shock hitting India's 80%-import-dependent economy. Trump's contradictory troop moves (5,000 to Poland after canceling 4,000, pulling 5,000 from Germany) left NATO "bewildered."
+Trump declared an Iran deal "largely negotiated" — MoU to end the war, reopen Hormuz, lift the port blockade. Pakistan brokered. Two-month nuclear talks would follow. Complication: Trump posted a U.S. flag over Iran's map on Truth Social, which analysts assess undermines Iranian domestic consent.
 
-**Diplomatic/Military Posture**
+## Diplomatic/Military Posture
 
-Ukraine intensifies deep strikes in occupied territory and Russia — Novorossiysk, Starobilsk, and the FSB HQ in Kherson — signaling escalation ahead of talks. Bipartisan Congress frustration grows: Ukraine aid stuck, Iran war costs unaccounted. Gabbard's exit removes an anti-interventionist voice; her deputy Lukas aligns with Trump's tempo.
+NATO allies confused after Trump announced 5,000 troops to Poland weeks after ordering 5,000 out of Europe. Rubio acknowledged eventual reductions. In New Delhi, he reiterated no nuclear Iran. Tehran offered to dilute enriched uranium to a third party, rejecting U.S. custody.
 
-**Bottom Line:** Pakistan's mediation is the last active track with momentum, but Iran's demands for a full-war halt and Hormuz control — plus a potential Trump pivot to "drastic action" within days — keep ceasefire collapse or deal as the 48-hour trigger.
+## Bottom Line
 
-**Sources**
-AP: iran-us-rubio-talks; nato-trump-troops-europe-poland-confusion; gabbard-resigns; congress-ukraine-funding-russia
-BBC: rubio-visits-india-sell-energy; putin-retaliation-ukraine-starobilsk
-AJ: iran-war-day-85-tehran-major-gaps-remain
+Iran deal likely within days, but Trump's social-media theatrics and Russia's Oreshnik-plus-reprisal escalation create cross-pressure that could delay the nuclear track or trigger a pre-announcement spoiler.
+
+## Sources
+
+AP: russia-ukraine-war-kyiv-missile-drone-attack; iran-united-states-war-ceasefire-negotiations-hormuz; nato-trump-troops-europe-poland-confusion; congo-ebola-outbreak-who-spread-response; pakistan-train-bombing-quetta  
+BBC: articles/cvgz05jyrrpo  
+AJ: news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc; news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran
