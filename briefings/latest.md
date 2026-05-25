@@ -1,31 +1,29 @@
 ---
-date: 2026-05-24
+date: 2026-05-25
 ---
 
 ## Status
 
-Russia hit Kyiv with 600 drones and 90 missiles overnight — the war's largest combined aerial assault — killing four and wounding 56. Moscow used the hypersonic Oreshnik for a third time. Ukraine struck a Russian-occupied college in Starobilsk (Luhansk), killing 21 per Moscow; Kyiv says it hit a military unit. Putin ordered retaliation proposals; pro-Kremlin voices urge strikes on Europe.
+US-Iran deal framework "largely negotiated" — Rubio says signing possible Monday. Terms: 60-day ceasefire, gradual Hormuz reopening, Iran surrenders HEU stockpile (Russia offered to take it). Trump says "not to rush"; blockade stays until signed. Iranian FM: sides "very close and very far."
 
 ## Other Fronts
 
-**DRC.** Ebola (Bundibugyo strain) now ~180 dead, ~800 cases. Residents torched an MSF tent in Mongbwalu and stormed a center in Rwampara over burial disputes. WHO upgraded risk.  
-**Pakistan.** BLA bombed a train in Quetta, wounding 30+.  
-**China.** Shanxi coal mine blast killed at least 82 — worst mining disaster in 16 years.
+**Ukraine**: Russia hit Kyiv with 90 missiles + 600 drones; 4 dead, ~100 wounded. Oreshnik hypersonic used. Ukraine struck Belgorod energy infrastructure. **Pakistan**: BLA suicide bomber hit military-personnel train in Quetta — at least 20 killed, 70 wounded. **Lebanon**: Israeli strikes killed 6; 16 evacuation orders. Hezbollah retaliated with drones/rockets. **NATO**: Trump pivoted from pulling 5,000 troops from Europe to promising 5,000 to Poland — allies "bewildered." US defense officials also confused. **Russia/UK**: RAF jet carrying Defence Secretary Healey had GPS jammed near Russian border. **Congo**: Third Ebola center stormed in a week.
 
 ## Key Development
 
-Trump declared an Iran deal "largely negotiated" — MoU to end the war, reopen Hormuz, lift the port blockade. Pakistan brokered. Two-month nuclear talks would follow. Complication: Trump posted a U.S. flag over Iran's map on Truth Social, which analysts assess undermines Iranian domestic consent.
+Deal architecture: Iran ends proxy ops (Hezbollah, Houthis), surrenders enriched uranium in exchange for port blockade lift and Hormuz reopening. Israel gets self-defense carveout for Lebanon. GOP critics (Cruz, Wicker, Graham) call it too lenient — Trump dismisses as "losers." Khamenei's undisclosed location and injuries slowing sign-off, per US intel. Oil falling; Asian markets up.
 
 ## Diplomatic/Military Posture
 
-NATO allies confused after Trump announced 5,000 troops to Poland weeks after ordering 5,000 out of Europe. Rubio acknowledged eventual reductions. In New Delhi, he reiterated no nuclear Iran. Tehran offered to dilute enriched uranium to a third party, rejecting U.S. custody.
+Rubio in India: "significant progress, not final." Wicker warns Epic Fury gains "would be for naught." Deal defers sanctions relief scope and frozen-funds release. Tehran signaling "not imminent" even as text finalizes — standard last-minute posturing.
 
 ## Bottom Line
 
-Iran deal likely within days, but Trump's social-media theatrics and Russia's Oreshnik-plus-reprisal escalation create cross-pressure that could delay the nuclear track or trigger a pre-announcement spoiler.
+If signed this week, the Iran deal would be the most consequential Middle East diplomatic shift since the Abraham Accords — watch for Monday announcement.
 
 ## Sources
 
-AP: russia-ukraine-war-kyiv-missile-drone-attack; iran-united-states-war-ceasefire-negotiations-hormuz; nato-trump-troops-europe-poland-confusion; congo-ebola-outbreak-who-spread-response; pakistan-train-bombing-quetta  
-BBC: articles/cvgz05jyrrpo  
-AJ: news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc; news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran
+AP: iran-us-war-ceasefire-negotiations-hormuz; nato-trump-troops-europe-poland-confusion; ebola-congo-mongbwalu-funeral-bodies-attack; colombia-election-violence-drones
+BBC: cglpp2yk336o; clyp6831yp5o; cm2pkd58xldo; clyp0jrxv7ro
+AJ: israeli-strikes-kill-six-in-southern-lebanon
