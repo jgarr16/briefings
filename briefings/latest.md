@@ -1,29 +1,29 @@
 ---
-date: 2026-05-26
+date: 2026-05-27
 ---
 
 ## Status
 
-US-Iran deal text nearly complete in Qatar — Rubio says "a few days" from signing. But US struck missile sites and mine-laying boats Monday; IRGC downed a US Reaper drone Tuesday. Trump ties deal to Saudi, Pakistan joining Abraham Accords. GOP critics (Cruz, Wicker, Graham) pan as too lenient.
+Trump meets Cabinet Wednesday as Iran deal teeters — uranium handover, Hormuz reopening, 60-day implementation nearly final. US Monday strikes on Hormozgan and IRGC downing a US Reaper drone inflamed Tehran's "deep suspicion." Netanyahu's Lebanon escalation — 31 killed, 100+ Hezbollah sites hit — adds pressure. Israel killed new Hamas chief Mohammed Odeh in Gaza City despite ceasefire.
 
 ## Other Fronts
 
-**Ukraine**: Russia threatens "systematic" Kyiv strikes, tells foreign nationals to evacuate. Lavrov urged Rubio to pull US diplomats. Saturday barrage (90 missiles, 600 drones, Oreshnik) killed 4, wounded 100. **Israel/Lebanon**: Netanyahu vows to "smite" Hezbollah — residents flee Beirut; Hezbollah fired 1,000+ drones since April ceasefire. **North Korea**: Fired close-range ballistic missile. SK's Lee pushes for nuclear-powered sub. **Sudan**: HRW: UAE trained Colombian mercs for RSF. **Quad**: New Delhi meeting; analysts say alliance drifting toward irrelevance.
+**Ukraine**: EU meets in Cyprus to explore Russia mediator (Draghi, Merkel, Stubb); Kyiv wants "new dynamics" after US talks stalled. Russia threatens systematic Kyiv strikes. **UK cyber**: GCHQ warns Russia relentlessly targeting critical infrastructure; AI narrows defense window. **Sudan**: HRW: UAE-trained Colombian mercs for RSF. **Senegal**: Lawmakers elect opposition Sonko speaker. **DRC**: Ebola isolates Bunia; flight suspension, Uganda border curbs.
 
 ## Key Development
 
-Deal enforcement contested — Rubio says Hormuz "will be open one way or the other." Khamenei declared Gulf states no longer "a shield" for US bases. Trump's Accords expansion adds complexity. Iran silent after strikes — internal debate on final terms.
+Israel-Lebanon ceasefire effectively dead — Netanyahu ordered IDF to "seize dominant terrain." Hezbollah fired projectiles into northern Israel overnight. Israel killed Odeh — second decapitation of Hamas military wing this month. Two-front escalation complicates US-Iran talks: Iran views Israeli ops as US-enabled aggression. UK Ofgem raises energy cap 13% (July) — war's global toll hits $2,505/year.
 
 ## Diplomatic/Military Posture
 
-US strikes while negotiating — "self-defense" allows escalation without abandoning talks. Hezbollah spoiler: 1,700+ projectiles since ceasefire; US warns Israel won't absorb indefinitely. Russia exploiting US Iran distraction via Lavrov-Rubio call. Khamenei's rhetoric signals post-deal realignment, not collapse.
+US strikes while negotiating erode Tehran trust. EU Ukraine mediation bid signals US pivot to Iran theater. Hormuz reopening takes weeks post-deal. GOP critics (Cruz, Wicker, Graham) narrow Rubio's signing window.
 
 ## Bottom Line
 
-Watch Rubio's return and Qatari outcome in 48–72 hours — US strikes and drone shootdown are tactical, but GOP opposition narrows the signing window.
+Trump Cabinet outcome and Rubio's Qatar return decide — Israeli escalation spoils deal; Hormuz stays closed through summer peak if talks collapse.
 
 ## Sources
 
-AP: iran-deal-trump-israel-abrams; iran-war-trump-agreement-republicans-criticism; israel-lebanon-netanyahu-hezbollah; koreas-launch-projectile; sudan-war-military-rsf-uae-colombian-mercenaries; russia-ukraine-war-kyiv-missile-drone-attack
-AJ: rubio-says-iran-deal-could-take-days; iran-war-live-israel-pounds-lebanon; quad-alliance-drifts-toward-irrelevance; israel-escalates-gaza-attacks
-BBC: russia-threatens-more-kyiv-strikes; us-launches-new-strikes-iran
+AP: trump-iran-nuclear-cabinet-meeting; iran-us-war-ceasefire-negotiations-hormuz; uk-cyberattacks-warning-gchq; lebanon-israel-hezbollah-war-strike; congo-ebola-bunia; senegal-sonko-speaker; sudan-war-military-rsf-uae
+BBC: lebanon-strikes-kill-dozens; gaza-hamas-military-wing-chief-killed; eu-russia-mediator-ukraine
+AJ: deep-suspicion-us-iran-ponders-agreement; iran-war-live-israel-lebanon-kills-31
