@@ -1,29 +1,31 @@
 ---
-date: 2026-05-28
+date: 2026-05-29
 ---
 
 ## Status
 
-Trump Cabinet produced no deal — US struck Bandar Abbas drone station, IRGC retaliated, Kuwait faced missile/drone attack. Iran war Day 90: third US-Iran exchange in two weeks, ceasefire holds nominally. Treasury sanctioned Iran's Persian Gulf Strait Authority ($2M/vessel tolls). Netanyahu expanded Lebanon ground ops — largest evacuation since April 17 (14% of territory, 300 towns). Israeli strikes killed 8 in Tyre, hit Sidon displaced. Hezbollah drone killed Israeli soldier. US-Lebanon-Israel security talks Friday in Washington.
+US-Iran negotiators reached tentative 60-day ceasefire MoU — Trump has not signed. Renewed exchanges (US struck Bandar Abbas; IRGC hit Kuwait, intercepted). Vance: "very close" but enrichment unresolved. Netanyahu directed IDF to 70% Gaza control, contradicting October ceasefire — confirmed 60% held. Israel ordered largest Lebanon evacuation since April 17 (14% territory, 300 towns). Russian drone struck Romanian apartment in Galati — first civilian injuries on NATO soil (two wounded, 70 evacuated).
 
 ## Other Fronts
 
-**Ukraine**: Zelenskyy wrote Trump requesting Patriot PAC-3s — warns deliveries "no longer keeping up." Lavrov warned Rubio of "systemic strikes" on Kyiv. **DRC Ebola**: 904 cases, 220 deaths; Uganda closed border. **Europe**: Record May heatwave — UK 35.1°C at Kew.
+**Ukraine**: NATO condemned Russia over Galati. Romania scrambled F-16s with 4 min warning. Zelenskyy still awaiting Patriots. GCHQ: ~500K Russian soldiers killed. **DRC Ebola**: 904 cases, Uganda border closed.
 
 ## Key Developments
 
-Iran-US ceasefire fraying — US strikes, IRGC retaliation, Kuwait under fire, but no party calling it collapsed. Trump rejects leaked deal, insists "no sanctions relief." Lapid: deal "bad for Israel, bad for the region." Gaza Stabilization Force in jeopardy — Indonesia's 8,000-troop pledge on hold; zero contributions.
+MoU framework: Iran removes Hormuz mines within 30 days, lifts tolls, allows unrestricted passage; US lifts blockade, issues sanction waivers, opens nuclear talks. Trump holding out on enrichment language. Axios: Trump briefed but didn't sign — will take days. Tasnim denies finalization. Bessent: oil could "come down very quickly" — PCE at 3.8%, $4.42/gal, gas up 92% since Feb.
+
+Netanyahu abandoning October framework — strikes killed Hamas commander Asleem and military wing head Odeh. Gaza toll: 72,742+. Washington talks (US-Lebanon-Israel) still Friday. Romania requests accelerated NATO anti-drone transfers.
 
 ## Diplomatic/Military Posture
 
-Trump threatens Oman over Hormuz, tightens sanctions while negotiating — Tehran reads as bad faith. Friday talks could decouple Lebanon from Iran; Hezbollah insists on linkage. Oil volatility signals traders pricing no-deal.
+Trump weighing deal vs. PCE high but insisting on enrichment concessions Iran won't make. Vance signals good-faith talks; Bessent cautions against getting ahead. Netanyahu's Gaza/Lebanon expansions signal betting on prolonged multi-front conflict regardless of US-Iran.
 
 ## Bottom Line
 
-Friday's Washington security talks are the next trigger — failure to de-escalate Lebanon collapses Iran's precondition for Hormuz reopening; oil stays above $90 through June.
+Trump's MoU decision within 48 hours determines next phase: yes opens Hormuz and drops oil; no resumes full combat and tests whether Gulf allies or inflation force course correction.
 
 ## Sources
 
-AP: trump-iran-nuclear-cabinet-meeting; iran-us-war-oil-may-28; lebanon-israel-hezbollah-airstrikes-tyre-washington-talks; zelenskyy-trump-patriot-missiles; europe-heatwave-temperature-records; israel-gaza-stabilization-force; iran-war-trump-sanctions-strait-hormuz; israel-netanyahu-lapid-iran-elections-coalition
-BBC: lebanon-strikes-evacuation-orders; us-strikes-iran-military-site; ebola-drc-catastrophic-collision
-AJ: iran-us-trade-attacks-trump-rejects-hormuz-deal; whats-happening-iran-war-day-90
+AP: iran-us-war-oil-may-28-2026; russia-ukraine-war-romania-drone; gaza-hamas-israel-netanyahu-eid
+BBC: us-iran-very-close-to-deal-vance; nato-condemns-russian-drone-romania-apartment; netanyahu-idf-increase-control-gaza-70
+AJ: whats-happening-iran-war-day-91
