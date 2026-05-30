@@ -1,31 +1,29 @@
 ---
-date: 2026-05-29
+date: 2026-05-30
 ---
 
 ## Status
 
-US-Iran negotiators reached tentative 60-day ceasefire MoU — Trump has not signed. Renewed exchanges (US struck Bandar Abbas; IRGC hit Kuwait, intercepted). Vance: "very close" but enrichment unresolved. Netanyahu directed IDF to 70% Gaza control, contradicting October ceasefire — confirmed 60% held. Israel ordered largest Lebanon evacuation since April 17 (14% territory, 300 towns). Russian drone struck Romanian apartment in Galati — first civilian injuries on NATO soil (two wounded, 70 evacuated).
+Trump held two-hour Situation Room meeting Friday — no decision on the Iran MoU; senior official: signs only if "redlines" satisfied. Iran says deal "not finalized"; Qalibaf: "no concessions through talks, only through missiles." Israel crossed the Litani River for first time in 20 years, ordering four more Lebanese villages evacuated toward Sidon. Putin warned of "systematic" missile strikes on Kyiv, called for embassy evacuations — ground advance has stalled.
 
 ## Other Fronts
 
-**Ukraine**: NATO condemned Russia over Galati. Romania scrambled F-16s with 4 min warning. Zelenskyy still awaiting Patriots. GCHQ: ~500K Russian soldiers killed. **DRC Ebola**: 904 cases, Uganda border closed.
+**UN blacklisted** Israel (31 verified cases) and Russia (POW abuse) — Israel severs contact with Guterres. **Poland**: Nawrocki moves to revoke Zelenskyy's top honor over UPA unit renaming (WWII massacres of ~100K Poles). **Shangri-La**: Hegseth softened China line post-Xi, demanded allies hit 3.5% GDP; To Lam warned Hormuz showed one flashpoint disrupts global trade. **Rwanda**: Nuclear MoU with Russia signed May 19 — Moscow opening as Western leverage fades.
 
 ## Key Developments
 
-MoU framework: Iran removes Hormuz mines within 30 days, lifts tolls, allows unrestricted passage; US lifts blockade, issues sanction waivers, opens nuclear talks. Trump holding out on enrichment language. Axios: Trump briefed but didn't sign — will take days. Tasnim denies finalization. Bessent: oil could "come down very quickly" — PCE at 3.8%, $4.42/gal, gas up 92% since Feb.
-
-Netanyahu abandoning October framework — strikes killed Hamas commander Asleem and military wing head Odeh. Gaza toll: 72,742+. Washington talks (US-Lebanon-Israel) still Friday. Romania requests accelerated NATO anti-drone transfers.
+No Trump decision signals internal split: Vance deal-ready, Bessent warns. Qalibaf's posturing is standard but Baghaei's public denial is harder to retract. Israel's Litani crossing escalates geometrically — 14% of Lebanon under displacement, ground forces beyond security buffer since 2006. Putin betting aerial escalation reverses domestic war fatigue; ISW says Russian advances stagnated, Ukraine reclaiming ground.
 
 ## Diplomatic/Military Posture
 
-Trump weighing deal vs. PCE high but insisting on enrichment concessions Iran won't make. Vance signals good-faith talks; Bessent cautions against getting ahead. Netanyahu's Gaza/Lebanon expansions signal betting on prolonged multi-front conflict regardless of US-Iran.
+Trump's indecision reflects White House split: Iran demands sequential action (US lifts first), Trump wants enrichment in writing. Israel committed to multi-front expansion regardless of US-Iran outcome. Hegseth's soft China line signals US capacity constraints but reduces Taiwan risk.
 
 ## Bottom Line
 
-Trump's MoU decision within 48 hours determines next phase: yes opens Hormuz and drops oil; no resumes full combat and tests whether Gulf allies or inflation force course correction.
+Trump's MoU signature or veto within 48 hours determines whether Hormuz reopens and oil drops, or the US resumes full combat with no off-ramp before midterms.
 
 ## Sources
 
-AP: iran-us-war-oil-may-28-2026; russia-ukraine-war-romania-drone; gaza-hamas-israel-netanyahu-eid
-BBC: us-iran-very-close-to-deal-vance; nato-condemns-russian-drone-romania-apartment; netanyahu-idf-increase-control-gaza-70
-AJ: whats-happening-iran-war-day-91
+AP: trump-iran-deal-ponders; hegseth-china-shangrila; israel-soldiers-gaza-yellow-line; putin-ukraine-escalation
+BBC: us-not-turning-back-asia-hegseth; israel-un-sexual-violence
+AJ: iran-war-live-day-92; poland-zelenskyy-honour-strip; rwanda-russia-nuclear-deal
