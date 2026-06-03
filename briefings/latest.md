@@ -1,29 +1,28 @@
 ---
-date: 2026-06-02
+date: 2026-06-03
 ---
 
 ## Status
 
-CENTCOM bombed Iranian radar/drone sites at Goruk and Qeshm after Iran downed a US MQ-1 Predator June 1; IRGC retaliated targeting US forces in Kuwait — intercepted by Kuwaiti air defenses. Iran has not responded to the latest US proposal, citing distrust. Israel struck Jabal Amel Hospital in Tyre (4 dead, 50 wounded) and killed 8 more in southern Lebanon June 2.
+CENTCOM struck an Iranian ground control station on Qeshm Island overnight June 2/3 after disabling a tanker for ignoring the blockade. IRGC retaliated with missiles and drones at Kuwait and Bahrain — Kuwait International Airport hit directly, flights suspended. Ghalibaf warned Tehran could abandon US talks if Israel's Lebanon campaign persists. Israel struck southern Lebanon but did not hit Beirut after Trump's partial truce — Hezbollah held fire on cities but struck IDF in the south.
 
 ## Other Fronts
 
-**Ukraine**: Russia launched 73 missiles and 656 drones overnight — 13 killed (9 Dnipro, 4 Kyiv). Zelensky pleaded for Patriot missiles, depleted by US-Iran war. **Armenia**: Pashinyan rejected Putin's demand for an EU referendum; Moscow recalled its ambassador, banned Armenian seafood ahead of June 7 elections. **Colombia**: Far-right de la Espriella (43.74%) faces Cepeda (40.90%) in June 21 runoff. **Denmark**: Frederiksen formed minority government after 60-day deadlock.
+**Ukraine**: Kyiv hit the St. Petersburg oil terminal and Tambov weapons plant overnight — timed to Putin's Economic Forum. A Ukrainian drone struck a Moscow-Simferopol bus in Donetsk, killing 7. Russia launched 198 drones back. NATO chief Rutte arrived in Kyiv unannounced.
 
 ## Key Developments
 
-Trump claimed Israel and Hezbollah agreed to dial back fighting — Netanyahu immediately contradicted: Beirut strikes will proceed if Hezbollah fires on Israeli cities. Rubio's de-escalation roadmap accepted in principle but fighting rages. Iran's Ghalibaf warned Tehran could halt negotiations if Israel's Lebanon campaign persists — linking the theaters.
+Kuwait's airport strike is the first direct Iranian hit on Gulf civilian infrastructure — drones bypassed air defenses causing "significant material damage." Rubio testified no sanctions relief for Hormuz reopening; any relief conditioned on nuclear concessions. Trump requested edits to draft peace terms on Hormuz and HEU — Iran's FM dismissed "constantly changing views." Ukraine's St. Petersburg strike is Kyiv's deepest commercial-target attack inside Russia, exploiting the war's distraction for a reputational blow.
 
 ## Diplomatic/Military Posture
 
-Trump's claimed truce that neither side honors signals a White House scrambling for a win, not managing de-escalation. The April 8 framework is hollowing through daily violations. Ukraine's Patriot shortage, diverted to Iran, opened the door for Russia's largest strike in months — a gap Moscow is exploiting.
+The Lebanon truce cratered on day two — Israel still hits the south, Hezbollah still fires at IDF. Iran linked the theaters as a precondition. Rubio's testimony revealed no off-ramp: maximalist demands, no de-escalation incentives, as Tehran probes Gulf civilian defense gaps. Zelensky shifting to economic-pressure strategy as Patriot air defense erodes.
 
 ## Bottom Line
 
-If Iran's Lebanon precondition blocks a deal within 30 days, expect synchronized escalation: Russian exploitation of Ukraine's air-defense gap, Israeli deepening in Lebanon, and IRGC retaliation — with Hormuz closure as the economic tripwire.
+If Iran's Lebanon precondition hardens this week, expect synchronized escalation: IRGC strikes on Gulf civilian infrastructure, Russian exploitation of Ukraine's air-defense gap, and Hormuz closure — with Kuwait airport lowering the cost.
 
 ## Sources
 
-AP: us-bombs-iran-kuwait-strikes; lebanon-israel-hezbollah-netanyahu-dahiyeh
-BBC: russia-ukraine-war-kyiv-drones-missiles
-AJ: iran-war-live-trump-talks-to-hezbollah-israel; armenia-pm-rejects-russia-eu-referendum; colombia-presidential-election
+BBC: us-iran-new-strikes-kuwait-airport; israel-strikes-lebanon-partial-truce-hezbollah; drone-bus-russia-occupied-ukraine
+AP: iran-us-israel-war-strikes
