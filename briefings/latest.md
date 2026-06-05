@@ -1,29 +1,29 @@
 ---
-date: 2026-06-04
+date: 2026-06-05
 ---
 
 ## Status
 
-US-Israel-Lebanon deal June 4: ceasefire contingent on Hezbollah "complete cessation" and evacuation south of Litani into pilot LAF zones. Katz hailed it — but an Israeli drone struck Lebanon hours later; IDF warned residents away from Zahrani River. Hezbollah unsigned. Iran's Araghchi: Beirut strike triggers "full resumption"; talks show "no tangible progress."
+Hezbollah rejected the US-brokered Lebanon ceasefire June 4 — Qassem called it a "farce," northern Israel remains a target. Israel struck through the night; Lebanon toll hit 3,526. Iran's Rezaei: draft MOU has "ambiguities." Trump: uranium "entombed" — no deal needed. Oman's Mina al-Fahal terminal suspended crude loading after a drone blast.
 
 ## Other Fronts
 
-**Ukraine**: Kyiv's St. Petersburg oil terminal strike clouded Putin's forum — flights diverted, internet cut. Russia retaliated on Kyiv, killing 23. **North Korea**: Kim unveiled a uranium enrichment plant, vowing "exponential" nuclear growth. **Iraq**: Asaib Ahl al-Haq and Imam Ali Brigades will hand weapons to the state — structural shift under PM al-Zaidi.
+**Ukraine**: Zelensky published an open letter to Putin proposing talks, acknowledging the US is "focused on Iran." Putin non-committal, repeated surrender demands. Russia struck a food plant outside Kyiv, killing 4. **China-NK**: Xi visits Pyongyang June 8-9 — first since 2019, after Kim unveiled a uranium enrichment plant. Beijing reasserting influence as Kim courts Moscow. **Somalia**: Mogadishu clashes over election delays — main road sealed.
 
 ## Key Developments
 
-House passed war powers resolution 215-208 — four Republicans joined Democrats. Symbolic but first to pass, signaling eroding GOP support as fuel prices bite. Trump acknowledged calling Netanyahu "crazy" over Lebanon — public US-Israel friction Iran is watching. Trump says deal could come "over the weekend" but admitted "slightly provoking" recent strikes.
+Iran struck Kuwait International Airport June 4 — Shahed drone hit the passenger terminal, killing 1, wounding dozens, briefly closing the airfield. CENTCOM downed Iranian drones over Kuwait and struck an Iranian ground station on Qeshm Island. Trump called the ceasefire "shooting in a more moderate manner." House Armed Services Committee rejected stripping Section 224 from NDAA — deepening US-Israel military integration beyond appropriations.
 
 ## Diplomatic/Military Posture
 
-Lebanon deal is 4th iteration — no enforcement, Hezbollah unsigned. Iran's Lebanon-Hormuz precondition conflicts with Trump's split-track. House vote and Trump's Netanyahu outburst show domestic pressure outpacing Tehran's willingness to concede. Iraq militia disarmament could isolate Iran's proxy network.
+Iran fights on three tracks (Hormuz, Lebanon, direct Gulf strikes) while signaling the deal is insufficient. The Kuwait airport strike brought the war to a GCC state directly. Xi's Pyongyang visit and Zelensky's letter signal Washington is Iran-saturated, creating openings for realignment. Section 224's survival shows congressional Israel support still overwhelming despite shifting opinion.
 
 ## Bottom Line
 
-If Iran rejects the Lebanon ceasefire by June 22 and Hezbollah resumes city strikes, expect House pressure to accelerate — forcing Trump to choose between a weekend deal or deeper entanglement before midterm fuel backlash.
+If Iran's MOU reservations harden into rejection and Gulf strikes persist, expect GCC states to press Washington for acceptable terms by mid-June, irrespective of Hezbollah.
 
 ## Sources
 
-AP: trump-iran-war-nuclear-deal; north-korea-kim-nuclear-uranium; lebanon-hezbollah-israel-tyre-khaldeh-beirut; russia-putin-ukraine-st-petersburg-forum; iraq-iran-us-shiite-militia
-BBC: israel-lebanon-ceasefire-hezbollah; us-house-iran-war-vote
-AJ: israel-lebanon-ceasefire-conditional
+AP: xi-north-korea-kim; kuwait-drone-airport-iran; lebanon-hezbollah-israel-tyre-khaldeh-beirut
+BBC: zelensky-putin-letter; hezbollah-rejects-ceasefire
+AJ: iran-war-day-98; democrat-fails-block-israel-cooperation; mogadishu-clashes
