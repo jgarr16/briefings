@@ -1,29 +1,29 @@
 ---
-date: 2026-06-05
+date: 2026-06-06
 ---
 
 ## Status
 
-Hezbollah rejected the US-brokered Lebanon ceasefire June 4 — Qassem called it a "farce," northern Israel remains a target. Israel struck through the night; Lebanon toll hit 3,526. Iran's Rezaei: draft MOU has "ambiguities." Trump: uranium "entombed" — no deal needed. Oman's Mina al-Fahal terminal suspended crude loading after a drone blast.
+US-Iran ceasefire frayed June 5–6: CENTCOM downed 4 Iranian drones over Hormuz, struck radar sites on Goruk/Qeshm; Iran replied with 7 ballistic missiles at Kuwait and Bahrain — 6 intercepted, 1 failed. IRGC claimed hits on Ali Al Salem airbase and 5th Fleet. Hezbollah rejected the Lebanon truce; Israel struck Sahmar (Bekaa). Lebanese MP Mahfoud called to sever ties with Tehran after FM Araghchi told Aoun to pursue Lebanon's "real foe."
 
 ## Other Fronts
 
-**Ukraine**: Zelensky published an open letter to Putin proposing talks, acknowledging the US is "focused on Iran." Putin non-committal, repeated surrender demands. Russia struck a food plant outside Kyiv, killing 4. **China-NK**: Xi visits Pyongyang June 8-9 — first since 2019, after Kim unveiled a uranium enrichment plant. Beijing reasserting influence as Kim courts Moscow. **Somalia**: Mogadishu clashes over election delays — main road sealed.
+**Ukraine**: Putin at SPIEF called Zelensky's open letter "rude," says no meeting unless Kyiv cedes 4 regions and drops NATO aspirations. Ukraine struck 5 cargo ships in Azov (5 Azeri dead); a drone drifted into Romania's Constanta port. Russia hit a Kyiv-area dairy, killing 4. **NK**: Kim ordered 10,000-tonne destroyer ahead of Xi's Pyongyang visit June 8–9. **Gaza**: Israeli drone killed a man in his wedding tent in Khan Younis; 951 killed since Oct ceasefire.
 
 ## Key Developments
 
-Iran struck Kuwait International Airport June 4 — Shahed drone hit the passenger terminal, killing 1, wounding dozens, briefly closing the airfield. CENTCOM downed Iranian drones over Kuwait and struck an Iranian ground station on Qeshm Island. Trump called the ceasefire "shooting in a more moderate manner." House Armed Services Committee rejected stripping Section 224 from NDAA — deepening US-Israel military integration beyond appropriations.
+House passed war powers resolution 215–208 (June 3) to halt US action against Iran — first chamber approval. Then defied Trump again June 4, passing $1B+ Ukraine aid via discharge petition (226–195). Trump left door open to call with Taiwan's Lai, despite Beijing warning.
 
 ## Diplomatic/Military Posture
 
-Iran fights on three tracks (Hormuz, Lebanon, direct Gulf strikes) while signaling the deal is insufficient. The Kuwait airport strike brought the war to a GCC state directly. Xi's Pyongyang visit and Zelensky's letter signal Washington is Iran-saturated, creating openings for realignment. Section 224's survival shows congressional Israel support still overwhelming despite shifting opinion.
+Congress pushes on three fronts — Iran war powers, Ukraine funding, Taiwan arms — while Trump stalls on an Iran deal. Tehran demands sanctions waivers and lifted blockade for Hormuz reopening; refuses to decouple Lebanon. Iran inflation at WWII highs; WFP warns the war pushes millions into food crisis.
 
 ## Bottom Line
 
-If Iran's MOU reservations harden into rejection and Gulf strikes persist, expect GCC states to press Washington for acceptable terms by mid-June, irrespective of Hezbollah.
+If the House war powers resolution gains Senate traction through Xi's June 8 Pyongyang summit, expect Beijing to delay Taiwan arms-sale approval and pressure Tehran to concede — the next 72 hours are decisive.
 
 ## Sources
 
-AP: xi-north-korea-kim; kuwait-drone-airport-iran; lebanon-hezbollah-israel-tyre-khaldeh-beirut
-BBC: zelensky-putin-letter; hezbollah-rejects-ceasefire
-AJ: iran-war-day-98; democrat-fails-block-israel-cooperation; mogadishu-clashes
+AP: iran-war-powers-vote-house; ukraine-congress-aid-trump-discharge-petition; trump-china-taiwan-arms-sales; iran-war-hormuz-drones
+AJ: us-intercepts-iranian-attacks; north-koreas-kim-destroyer; pervasive-fear-gaza-ceasefire; iran-war-live
+BBC: putin-no-point-meeting-zelensky; ukraine-strikes-cargo-ships-romania-drone
