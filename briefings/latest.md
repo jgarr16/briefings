@@ -1,29 +1,29 @@
 ---
-date: 2026-06-06
+date: 2026-06-07
 ---
 
 ## Status
 
-US-Iran ceasefire frayed June 5–6: CENTCOM downed 4 Iranian drones over Hormuz, struck radar sites on Goruk/Qeshm; Iran replied with 7 ballistic missiles at Kuwait and Bahrain — 6 intercepted, 1 failed. IRGC claimed hits on Ali Al Salem airbase and 5th Fleet. Hezbollah rejected the Lebanon truce; Israel struck Sahmar (Bekaa). Lebanese MP Mahfoud called to sever ties with Tehran after FM Araghchi told Aoun to pursue Lebanon's "real foe."
+Day 100: CENTCOM downed 2 Iranian drones over Hormuz June 6; Iran hit back with ballistic missiles at Bahrain and Kuwait — all intercepted. Treasury considers letting Gulf allies draw frozen Iranian assets for war damages. Pakistan's Naqvi arrived in Tehran carrying a letter to Khamenei — first high-level mediation since April 8.
 
 ## Other Fronts
 
-**Ukraine**: Putin at SPIEF called Zelensky's open letter "rude," says no meeting unless Kyiv cedes 4 regions and drops NATO aspirations. Ukraine struck 5 cargo ships in Azov (5 Azeri dead); a drone drifted into Romania's Constanta port. Russia hit a Kyiv-area dairy, killing 4. **NK**: Kim ordered 10,000-tonne destroyer ahead of Xi's Pyongyang visit June 8–9. **Gaza**: Israeli drone killed a man in his wedding tent in Khan Younis; 951 killed since Oct ceasefire.
+**Lebanon**: Israel killed Brig Gen Samer Sabra, Cpt Khoury, and Pte Ghazal near Kfar Tebnit — highest-ranking Lebanese army officer killed in the war. Israel struck 150 Hezbollah sites. Hezbollah hit Israeli command posts in Naqoura. Army chief Haykal left for Pakistan. **Gaza**: Israeli strike on a tent camp killed 8 in Gaza City. **Sudan**: Drone strike on Abu Zaeima market killed 11; 70 killed this week across Kordofan. **Greece**: Palestinian arrested on Crete, suspected of Hamas links and planning attack on Israeli cruise ship.
 
 ## Key Developments
 
-House passed war powers resolution 215–208 (June 3) to halt US action against Iran — first chamber approval. Then defied Trump again June 4, passing $1B+ Ukraine aid via discharge petition (226–195). Trump left door open to call with Taiwan's Lai, despite Beijing warning.
+Pentagon's DIA raised Israeli espionage threat from "high" to "critical" — Mossad surveilled Trump's envoy Witkoff and Pentagon officials to track internal war-end deliberations. Hegseth at D-Day 82 in Normandy called Mediterranean migration an "invasion" — amplifying the NSC's "civilisational erasure" framing.
 
 ## Diplomatic/Military Posture
 
-Congress pushes on three fronts — Iran war powers, Ukraine funding, Taiwan arms — while Trump stalls on an Iran deal. Tehran demands sanctions waivers and lifted blockade for Hormuz reopening; refuses to decouple Lebanon. Iran inflation at WWII highs; WFP warns the war pushes millions into food crisis.
+Xi lands in Pyongyang June 8 — first NK trip since 2019 — signaling alarm over NK's $14.4B weapons pipeline to Russia (since 2023) and a bid to reassert leverage. Iran demands $24B in frozen assets; Treasury's asset-redirection for Gulf allies is a workaround. Iran's World Cup team bases in Mexico; US blocked 15 staffers from visas.
 
 ## Bottom Line
 
-If the House war powers resolution gains Senate traction through Xi's June 8 Pyongyang summit, expect Beijing to delay Taiwan arms-sale approval and pressure Tehran to concede — the next 72 hours are decisive.
+Xi's Pyongyang summit June 8–9 is critical — if Kim pledges more weapons to Russia, mediation collapses; if Xi extracts a pause, Pakistan's track gains an opening within 72 hours.
 
 ## Sources
 
-AP: iran-war-powers-vote-house; ukraine-congress-aid-trump-discharge-petition; trump-china-taiwan-arms-sales; iran-war-hormuz-drones
-AJ: us-intercepts-iranian-attacks; north-koreas-kim-destroyer; pervasive-fear-gaza-ceasefire; iran-war-live
-BBC: putin-no-point-meeting-zelensky; ukraine-strikes-cargo-ships-romania-drone
+AP: iran-us-bahrain-kuwait-missiles-drones; iran-war-assets-gulf-damages
+AJ: iran-war-day-100; pentagon-israel-spying-critical; xi-pyongyang-north-korea; sudan-market-drone-strike
+BBC: hegseth-d-day-normandy; lebanon-general-killed-idf
