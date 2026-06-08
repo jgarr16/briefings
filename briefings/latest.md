@@ -2,11 +2,13 @@
 date: 2026-06-08
 ---
 
-<h2 align="center">EmpowerAI</h2>
+<h1 align="center">EmpowerAI</h1>
 
 <br>
 
 **🟢 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu)
+
+<br>
 
 **🟢 OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job)
 
