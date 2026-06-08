@@ -1,29 +1,29 @@
 ---
-date: 2026-06-07
+date: 2026-06-08
 ---
 
 ## Status
 
-Day 100: CENTCOM downed 2 Iranian drones over Hormuz June 6; Iran hit back with ballistic missiles at Bahrain and Kuwait — all intercepted. Treasury considers letting Gulf allies draw frozen Iranian assets for war damages. Pakistan's Naqvi arrived in Tehran carrying a letter to Khamenei — first high-level mediation since April 8.
+Day 101: Israel struck Beirut's Dahieh June 7 — first Beirut strike since April ceasefire. Iran hit Israeli air bases (Nevatim, Tel Nof). Israel retaliated inside Iran overnight — airstrikes on strategic defense systems and Mahshahr petrochemical facility; explosions in Tehran, Tabriz, Isfahan. Iran launched a second missile wave toward Israel. Oil jumped. Ceasefire framework at risk of collapse.
 
 ## Other Fronts
 
-**Lebanon**: Israel killed Brig Gen Samer Sabra, Cpt Khoury, and Pte Ghazal near Kfar Tebnit — highest-ranking Lebanese army officer killed in the war. Israel struck 150 Hezbollah sites. Hezbollah hit Israeli command posts in Naqoura. Army chief Haykal left for Pakistan. **Gaza**: Israeli strike on a tent camp killed 8 in Gaza City. **Sudan**: Drone strike on Abu Zaeima market killed 11; 70 killed this week across Kordofan. **Greece**: Palestinian arrested on Crete, suspected of Hamas links and planning attack on Israeli cruise ship.
+**Ukraine**: E3 allies set 5 peace conditions in London June 7 — stop fighting, negotiate from current lines, robust guarantees, US involvement, NATO option. Ukrainian drones hit St. Petersburg during Putin's forum — unprecedented reach. Russia struck Chornobyl nuclear storage; radiation stable. **West Bank**: 7-month-old killed by Israeli fire in Hebron — IDF says under review. **Philippines**: 7.8 quake off Mindanao — 19 dead. **Nigeria**: Hundreds of Boko Haram captives freed.
 
 ## Key Developments
 
-Pentagon's DIA raised Israeli espionage threat from "high" to "critical" — Mossad surveilled Trump's envoy Witkoff and Pentagon officials to track internal war-end deliberations. Hegseth at D-Day 82 in Normandy called Mediterranean migration an "invasion" — amplifying the NSC's "civilisational erasure" framing.
+Xi landed in Pyongyang June 8 — first NK trip since 2019 — alongside Kim and Ri Sol Ju at Kim Il Sung Square. Xi and Kim ties at a "historical point." Wang Yi prepared in April. Beijing aims to reassert leverage as Kim's $14.4B weapons pipeline to Russia deepens. Xi's first foreign trip of 2026 signals priority.
 
 ## Diplomatic/Military Posture
 
-Xi lands in Pyongyang June 8 — first NK trip since 2019 — signaling alarm over NK's $14.4B weapons pipeline to Russia (since 2023) and a bid to reassert leverage. Iran demands $24B in frozen assets; Treasury's asset-redirection for Gulf allies is a workaround. Iran's World Cup team bases in Mexico; US blocked 15 staffers from visas.
+Trump called Netanyahu before the Beirut strike urging restraint — Axios reports Trump called Netanyahu "effing crazy" (June 1). Netanyahu ignored the request. The US-brokered Iran-Lebanon linkage framework now violated by both sides. CENTCOM remains in the Gulf but no US intervention yet. Treasury's frozen-asset workaround for Gulf allies still in draft.
 
 ## Bottom Line
 
-Xi's Pyongyang summit June 8–9 is critical — if Kim pledges more weapons to Russia, mediation collapses; if Xi extracts a pause, Pakistan's track gains an opening within 72 hours.
+Iran's "hit Beirut, we hit Israel" equation is operational — the next 48 hours determine sustained exchange or de-escalation before US election-year constraints bite.
 
 ## Sources
 
-AP: iran-us-bahrain-kuwait-missiles-drones; iran-war-assets-gulf-damages
-AJ: iran-war-day-100; pentagon-israel-spying-critical; xi-pyongyang-north-korea; sudan-market-drone-strike
-BBC: hegseth-d-day-normandy; lebanon-general-killed-idf
+AP: israel-strikes-iran-missiles-beirut; xi-pyongyang-visit
+AJ: iran-war-day-101; iran-israel-liveblog; xi-pyongyang-north-korea
+BBC: israel-strikes-iran-strategic-defence; zelensky-e3-peace-conditions; ukraine-drones-st-petersburg
