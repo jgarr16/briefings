@@ -34,6 +34,10 @@ date: 2026-06-08
 
 <br>
 
+**🟢 GovCIO** — [View page →](https://govcio.com/careers/now-hiring-usfk/)
+
+<br>
+
 **🟢 SAM.gov** — [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
 <br>
