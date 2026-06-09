@@ -34,11 +34,16 @@ date: 2026-06-08
 
 <br>
 
-**🟢 GovCIO** — [View page →](https://govcio.com/careers/now-hiring-usfk/)
+**🟢 Contract Tracking**
 
-<br>
+[Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
+[USAspending →](https://www.usaspending.gov/search?hash=aead1a85e5b5639eafcb9c6bcf0af63a)
 
-**🟢 SAM.gov** — [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
+No new SAM.gov postings or USAspending changes.
+
+Keywords: USACISA‑P · CENTRIXS‑K · 1st Signal BDE · USFK C4I · W91QVN
+
+*MAPS awards expected ~Sep 2026*
 
 <br>
 
