@@ -1,9 +1,5 @@
 ---
-date: 2026-06-09
----
-
----
-date: 2026-06-09
+date: 2026-06-10
 ---
 
 <h1 align="center">EmpowerAI</h1>
@@ -43,8 +39,6 @@ date: 2026-06-09
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
 No new postings or awards.
-
-Keywords: USACISA‑P · CENTRIXS‑K · 1st Signal BDE · USFK C4I · W91QVN
 
 *MAPS awards expected ~Sep 2026*
 
