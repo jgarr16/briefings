@@ -1,22 +1,22 @@
 ---
-date: 2026-06-10
+date: 2026-06-11
 ---
 
 <h1 align="center">EmpowerAI</h1>
 
 <br>
 
-**🟢 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu)
+**🟢 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
 <br>
 
-**🟢 OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job)
+**🟢 OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
 
 <br>
 
 **🟢 Latest News**
 
-**USMA Lincoln Hall Modernization** — June 2, 2026 · $60M+ TEIS IV
+**USMA Lincoln Hall Modernization** — June 2, 2026 · USMA West Point modernization project
 [Read more →](https://www.empower.ai/articles/usma-lincoln-hall-modernization)
 
 <br>
