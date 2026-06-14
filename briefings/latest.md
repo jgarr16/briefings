@@ -1,5 +1,5 @@
 ---
-date: 2026-06-13
+date: 2026-06-14
 ---
 
 <h1 align="center">EmpowerAI</h1>
@@ -34,11 +34,11 @@ date: 2026-06-13
 
 <br>
 
-🟢 **Contract Tracking**
+🟡 **Contract Tracking**
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-No new postings or awards.
+USACISA-P assumed full military control of CENTRIXS-K Help Desk (May 7, 2026) — first time transitioned from contractor to fully military-operated. SAIC contract W91QVN25FA418 ended Apr 30. $25-50M recompete (SV/USACISA-P/CNOM/FY26) forecasted w/ Jan 2026 award date — status unclear.
 
 *MAPS awards expected ~Sep 2026*
 
