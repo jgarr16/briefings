@@ -1,27 +1,27 @@
 ---
-date: 2026-06-14
+date: 2026-06-15
 ---
 
 <h1 align="center">EmpowerAI</h1>
 
 <br>
 
-🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+**[🟢] Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
 <br>
 
-🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
+**[🟢] OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
 
 <br>
 
-🟢 **Latest News**
+**[🟢] Latest News**
 
-**Empower AI Awarded TEIS IV Task Order Supporting USMA Lincoln Hall Modernization** — June 2, 2026 · $60M+ award to modernize AV and media environments at West Point
+**Empower AI Awarded TEIS IV Task Order Supporting USMA Lincoln Hall Modernization** — Jun 2, 2026 · Awarded task order for Lincoln Hall modernization at USMA
 [Read more →](https://www.empower.ai/articles/usma-lincoln-hall-modernization)
 
 <br>
 
-🟢 **Leadership Team**
+**[🟢] Leadership Team**
 
 [View team →](https://www.empower.ai/leadership-team)
 
@@ -34,14 +34,14 @@ date: 2026-06-14
 
 <br>
 
-🟡 **Contract Tracking**
+**[🟢] Contract Tracking**
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-USACISA-P assumed full military control of CENTRIXS-K Help Desk (May 7, 2026) — first time transitioned from contractor to fully military-operated. SAIC contract W91QVN25FA418 ended Apr 30. $25-50M recompete (SV/USACISA-P/CNOM/FY26) forecasted w/ Jan 2026 award date — status unclear.
+No new postings or awards.
 
 *MAPS awards expected ~Sep 2026*
 
 <br>
 
-🟢 **Insights** — [Browse all →](https://www.empower.ai/insights)
+**[🟢] Insights** — [Browse all →](https://www.empower.ai/insights)
