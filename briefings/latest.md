@@ -1,5 +1,5 @@
 ---
-date: 2026-06-16
+date: 2026-06-17
 ---
 
 <h1 align="center">EmpowerAI</h1>
@@ -15,6 +15,9 @@ date: 2026-06-16
 <br>
 
 🟢 **Latest News**
+
+**Empower AI Wins $255M DISA J6 Service Delivery Contract to Support Pentagon Enterprise IT** — Jun 16, 2026 · Company retains mission-critical DISA J6 Service Delivery supporting enterprise IT operations for the Pentagon and National Capital Region
+[Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
 
 **USMA Lincoln Hall Modernization** — Jun 2, 2026 · $60M TEIS IV task order supporting AV modernization at West Point
 [Read more →](https://www.empower.ai/articles/usma-lincoln-hall-modernization)
