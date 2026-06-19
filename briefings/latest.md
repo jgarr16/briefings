@@ -1,28 +1,23 @@
 ---
-date: 2026-06-18
+date: 2026-06-19
 ---
 
 <h1 align="center">EmpowerAI</h1>
 
 <br>
 
-🟡 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
 <br>
 
-🟡 **OCONUS C4OPS SME (8517)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8517/job?in_iframe=1)
-
-🟡 **OCONUS Tier 3 Support Lead (8518)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8518/job?in_iframe=1)
+🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
 
 <br>
 
-🔴 **Latest News**
+🟢 **Latest News**
 
-**Empower AI Wins $255M DISA J6 Service Delivery Contract to Support Pentagon Enterprise IT** — June 16, 2026 · Company retains mission-critical DISA J6 Service Delivery supporting enterprise IT operations for the Pentagon and National Capital Region
+**Empower AI Wins $255M DISA J6 Service Delivery Contract to Support Pentagon Enterprise IT** — June 16, 2026 · Company retains mission-critical DISA J6 Service Delivery contract supporting enterprise IT operations for the Pentagon and NCR; total value $255.4M over 5 years.
 [Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
-
-**Empower AI Awarded TEIS IV Task Order Supporting USMA Lincoln Hall Modernization** — June 2, 2026 · Task order supporting modernization at West Point
-[Read more →](https://www.empower.ai/articles/usma-lincoln-hall-modernization)
 
 <br>
 
