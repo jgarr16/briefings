@@ -1,5 +1,5 @@
 ---
-date: 2026-06-20
+date: 2026-06-21
 ---
 
 <h1 align="center">EmpowerAI</h1>
@@ -7,8 +7,6 @@ date: 2026-06-20
 <br>
 
 **🟢 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
-
-9 jobs listed
 
 <br>
 
@@ -18,8 +16,8 @@ date: 2026-06-20
 
 **🟢 Latest News**
 
-**USMA Lincoln Hall Modernization** — June 2, 2026 · Empower AI Awarded TEIS IV Task Order
-[Read more →](https://www.empower.ai/articles/usma-lincoln-hall-modernization)
+**Empower AI Wins $255M DISA J6 Service Delivery Contract to Support Pentagon Enterprise IT** — June 16, 2026 · Company retains DISA J6 contract supporting Pentagon/NCR enterprise IT
+[Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
 
 <br>
 
