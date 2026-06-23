@@ -1,12 +1,14 @@
 ---
-date: 2026-06-22
+date: 2026-06-23
 ---
 
 <h1 align="center">EmpowerAI</h1>
 
 <br>
 
-🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+🟡 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+
+*9 listings — 8348 removed*
 
 <br>
 
