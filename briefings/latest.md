@@ -1,5 +1,5 @@
 ---
-date: 2026-06-30
+date: 2026-07-01
 ---
 
 <h1 align="center">EmpowerAI</h1>
@@ -14,10 +14,10 @@ date: 2026-06-30
 
 <br>
 
-**🟢 Latest News**
+**🟡 Latest News**
 
-**USMA Lincoln Hall Modernization** — Jun 2, 2026 · Empower AI Awarded TEIS IV Task Order Supporting USMA Lincoln Hall Modernization
-[Read more →](https://www.empower.ai/articles/usma-lincoln-hall-modernization)
+**Empower AI Wins $255M DISA J6 Service Delivery Contract to Support Pentagon Enterprise IT** — Jun 16, 2026 · Company retains mission-critical DISA J6 Service Delivery supporting enterprise IT operations for the Pentagon and National Capital Region
+[Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
 
 <br>
 
