@@ -1,5 +1,5 @@
 ---
-date: 2026-07-02
+date: 2026-07-03
 ---
 
 <h1 align="center">EmpowerAI</h1>
@@ -10,13 +10,13 @@ date: 2026-07-02
 
 <br>
 
-🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
+🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
 
 <br>
 
 🟢 **Latest News**
 
-**Empower AI Wins $255M DISA J6 Service Delivery Contract** — Jun 16, 2026 · New contract award for Pentagon enterprise IT support
+**Empower AI Wins $255M DISA J6 Service Delivery Contract to Support Pentagon Enterprise IT** — June 16, 2026 · Company retains mission-critical DISA J6 Service Delivery supporting enterprise IT operations for the Pentagon and NCR
 [Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
 
 <br>
@@ -39,8 +39,6 @@ date: 2026-07-02
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
 No new postings or awards.
-
-*OrangeSlices: SAIC awarded US Army (USACISA-P) Mission Command Network Operations task*
 
 *MAPS awards expected ~Sep 2026*
 
