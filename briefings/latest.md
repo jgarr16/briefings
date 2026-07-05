@@ -1,22 +1,22 @@
 ---
-date: 2026-07-04
+date: 2026-07-05
 ---
 
 <h1 align="center">EmpowerAI</h1>
 
 <br>
 
-🔴 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
 <br>
 
-🔴 **OCONUS C4OPS SME (8517)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8517/job?in_iframe=1)
+🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
 
 <br>
 
 🟢 **Latest News**
 
-**Empower AI Wins $255M DISA J6 Service Delivery Contract** — June 16, 2026 · Contract to support Pentagon Enterprise IT
+**Empower AI Wins $255M DISA J6 Service Delivery Contract to Support Pentagon Enterprise IT** — June 16, 2026 · Company retains mission-critical DISA J6 Service Delivery supporting enterprise IT operations for the Pentagon and National Capital Region (NCR)
 [Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
 
 <br>
@@ -38,7 +38,8 @@ date: 2026-07-04
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-No new postings or awards.
+SAM.gov API returning errors — unable to check for new postings.
+USAspending: no new awards. SAIC W91QVN25FA418 (Mission Command NPS, Aug 2025–Apr 2026) unchanged.
 
 *MAPS awards expected ~Sep 2026*
 
