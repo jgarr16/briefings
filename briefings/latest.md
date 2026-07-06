@@ -1,27 +1,27 @@
 ---
-date: 2026-07-05
+date: 2026-07-06
 ---
 
 <h1 align="center">EmpowerAI</h1>
 
 <br>
 
-🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+**[🟢] Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
 <br>
 
-🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
+**[🟢] OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
 
 <br>
 
-🟢 **Latest News**
+**[🟢] Latest News**
 
-**Empower AI Wins $255M DISA J6 Service Delivery Contract to Support Pentagon Enterprise IT** — June 16, 2026 · Company retains mission-critical DISA J6 Service Delivery supporting enterprise IT operations for the Pentagon and National Capital Region (NCR)
+**Empower AI Wins $255M DISA J6 Service Delivery Contract to Support Pentagon Enterprise IT** — June 16, 2026 · $255M contract to deliver enterprise IT services to the Pentagon.
 [Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
 
 <br>
 
-🟢 **Leadership Team**
+**[🟢] Leadership Team**
 
 [View team →](https://www.empower.ai/leadership-team)
 
@@ -34,15 +34,14 @@ date: 2026-07-05
 
 <br>
 
-🟡 **Contract Tracking**
+**[🟢] Contract Tracking**
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-SAM.gov API returning errors — unable to check for new postings.
-USAspending: no new awards. SAIC W91QVN25FA418 (Mission Command NPS, Aug 2025–Apr 2026) unchanged.
+No new postings or awards.
 
 *MAPS awards expected ~Sep 2026*
 
 <br>
 
-🟢 **Insights** — [Browse all →](https://www.empower.ai/insights)
+**[🟢] Insights** — [Browse all →](https://www.empower.ai/insights)
