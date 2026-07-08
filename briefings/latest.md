@@ -1,23 +1,23 @@
 ---
-date: 2026-07-07
+date: 2026-07-08
 ---
 
 <h1 align="center">EmpowerAI</h1>
 
 <br>
 
-🟡 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
 <br>
 
-🔴 **OCONUS Program Manager (8350)** — No longer listed · [View all jobs →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
 
 <br>
 
-🟢 **Latest News**
+🔴 **Latest News**
 
-**USMA Lincoln Hall Modernization** — June 2, 2026 · Multiple award IDIQ for Lincoln Hall renovation at West Point
-[Read more →](https://www.empower.ai/articles/usma-lincoln-hall-modernization)
+**Empower AI Acquires Highlight Technologies to Accelerate AI-Driven Mission Delivery Across Federal Agencies** — July 7, 2026 · Empower AI acquires Highlight Technologies, Inc. for AI-driven mission delivery across federal agencies
+[Read more →](https://www.empower.ai/)
 
 <br>
 
