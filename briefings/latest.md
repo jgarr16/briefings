@@ -1,5 +1,5 @@
 ---
-date: 2026-07-08
+date: 2026-07-09
 ---
 
 <h1 align="center">EmpowerAI</h1>
@@ -10,14 +10,20 @@ date: 2026-07-08
 
 <br>
 
-🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
+🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
 
 <br>
 
-🔴 **Latest News**
+🟡 **Latest News**
 
-**Empower AI Acquires Highlight Technologies to Accelerate AI-Driven Mission Delivery Across Federal Agencies** — July 7, 2026 · Empower AI acquires Highlight Technologies, Inc. for AI-driven mission delivery across federal agencies
-[Read more →](https://www.empower.ai/)
+**Empower AI Acquires Highlight Technologies** — recent · Acquired Highlight Technologies, expanding capabilities.
+[Read more →](https://www.empower.ai/articles/empower-ai-acquires-highlight-technologies-)
+
+**Empower AI Wins DISA J6 Service Delivery Contract** — recent · Awarded DISA J6 service delivery contract.
+[Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
+
+**USMA Lincoln Hall Modernization** — June 2, 2026 · Modernization project at West Point.
+[Read more →](https://www.empower.ai/articles/usma-lincoln-hall-modernization)
 
 <br>
 
