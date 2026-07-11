@@ -1,10 +1,10 @@
 ---
-date: 2026-07-10
+date: 2026-07-11
 ---
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $3.56 | — |
+| DeepSeek | $3.53 | — |
 | OpenRouter | $13.43 | $16.57 |
 
 <br>
@@ -23,8 +23,8 @@ date: 2026-07-10
 
 🟢 **Latest News**
 
-**USMA Lincoln Hall Modernization** — June 2, 2026 · USMA announces Lincoln Hall modernization project at West Point.
-[Read more →](https://www.empower.ai/articles/usma-lincoln-hall-modernization)
+**Empower AI Acquires Highlight Technologies** — July 7, 2026 · Acquisition expands delivery scale, strengthens AI practice in defense/civilian markets
+[Read more →](https://www.empower.ai/articles/empower-ai-acquires-highlight-technologies-)
 
 <br>
 
@@ -45,10 +45,7 @@ date: 2026-07-10
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-- Between Occupancy Maintenance Service (Camp Humphreys) — Award Notice · Jul 9 (W91QVN)
-- Combat Systems Repair IDIQ (C4I Systems) — Solicitation · Jul 9 (USFK C4I)
-- No Cost Site Visit: 7th AF Network Upgrade, Osan AB — Special Notice · Jun 17 (CENTRIXS-K)
-- SAIC USACISA-P contract W91QVN25FA418 ended Apr 30, 2026
+No new postings or awards.
 
 *MAPS awards expected ~Sep 2026*
 
