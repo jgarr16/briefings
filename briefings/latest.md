@@ -1,10 +1,10 @@
 ---
-date: 2026-07-11
+date: 2026-07-12
 ---
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $3.53 | — |
+| DeepSeek | $3.50 | — |
 | OpenRouter | $13.43 | $16.57 |
 
 <br>
@@ -13,17 +13,21 @@ date: 2026-07-11
 
 <br>
 
-🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+🟢 **Korea Job Postings** — 9 postings (8343-8350, 8517-8518) — No change
+
+[View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
 <br>
 
-🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
+🟢 **OCONUS Program Manager (8350)** — Still open
+
+[Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
 
 <br>
 
 🟢 **Latest News**
 
-**Empower AI Acquires Highlight Technologies** — July 7, 2026 · Acquisition expands delivery scale, strengthens AI practice in defense/civilian markets
+**Empower AI Acquires Highlight Technologies** — July 7, 2026 · Acquisition expands AI practice, delivery scale across defense/civilian markets
 [Read more →](https://www.empower.ai/articles/empower-ai-acquires-highlight-technologies-)
 
 <br>
