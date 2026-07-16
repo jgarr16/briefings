@@ -1,10 +1,10 @@
 ---
-date: 2026-07-15
+date: 2026-07-16
 ---
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $3.47 | — |
+| DeepSeek | $3.41 | — |
 | OpenRouter | $13.43 | $16.57 |
 
 <br>
@@ -13,24 +13,30 @@ date: 2026-07-15
 
 <br>
 
-🟡 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+
+2 active postings (8517, 8518). Tracked job 8350 no longer listed.
 
 <br>
 
-🟡 **OCONUS Program Manager (8350)** — No longer listed · 2 active Korea jobs (8517, 8518)
+🟢 **OCONUS C4OPS SME (8517)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8517/job)
+🟢 **OCONUS Tier 3 Support Lead (8518)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8518/job)
 
 <br>
 
 🟢 **Latest News**
 
-[View all insights →](https://www.empower.ai/insights)
+**Empower AI Acquires Highlight Technologies** — New · Acquisition expands capabilities
+[Read more →](https://www.empower.ai/articles/empower-ai-acquires-highlight-technologies-)
 
-- **Empower AI Secures Next-Generation GSA Enterprise IT Award** — News Releases
-- **Empower AI Acquires Highlight Technologies to Accelerate AI-Driven Mission Delivery Across Federal Agencies**
-- **Empower AI Wins $255M DISA J6 Service Delivery Contract to Support Pentagon Enterprise IT**
-- **Juan Toves Joins Empower AI as Chief Growth Officer**
-- **Empower AI Awarded TEIS IV Task Order Supporting USMA Lincoln Hall Modernization**
+**Empower AI Secures Next-Generation GSA Enterprise IT Award** — New
 [Read more →](https://www.empower.ai/articles/empower-ai-secures-next-generation-gsa-enterprise-it-award)
+
+**Empower AI Wins DISA J6 Service Delivery Contract** — New
+[Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
+
+**Juan Toves Joins Empower AI as Chief Growth Officer** — New
+[Read more →](https://www.empower.ai/articles/juan-toves-joins-empower-ai-as-chief-growth-officer)
 
 <br>
 
