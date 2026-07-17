@@ -1,10 +1,10 @@
 ---
-date: 2026-07-16
+date: 2026-07-17
 ---
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $3.41 | — |
+| DeepSeek | $3.40 | — |
 | OpenRouter | $13.43 | $16.57 |
 
 <br>
@@ -13,30 +13,21 @@ date: 2026-07-16
 
 <br>
 
-🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
-
-2 active postings (8517, 8518). Tracked job 8350 no longer listed.
+🟢 **Korea Job Postings** — 9 active postings (8343-8347, 8349-8350, 8517-8518) — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
 <br>
 
-🟢 **OCONUS C4OPS SME (8517)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8517/job)
-🟢 **OCONUS Tier 3 Support Lead (8518)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8518/job)
+🟢 **OCONUS Program Manager (8350)** — Camp Humphreys, Korea — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job)
 
 <br>
 
 🟢 **Latest News**
 
-**Empower AI Acquires Highlight Technologies** — New · Acquisition expands capabilities
-[Read more →](https://www.empower.ai/articles/empower-ai-acquires-highlight-technologies-)
-
-**Empower AI Secures Next-Generation GSA Enterprise IT Award** — New
+**Empower AI Secures Next Generation GSA Enterprise IT Award** — July 14, 2026 · New GSA enterprise IT contract win
 [Read more →](https://www.empower.ai/articles/empower-ai-secures-next-generation-gsa-enterprise-it-award)
 
-**Empower AI Wins DISA J6 Service Delivery Contract** — New
-[Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
-
-**Juan Toves Joins Empower AI as Chief Growth Officer** — New
-[Read more →](https://www.empower.ai/articles/juan-toves-joins-empower-ai-as-chief-growth-officer)
+**Empower AI Acquires Highlight Technologies** — July 7, 2026 · Acquisition announcement
+[Read more →](https://www.empower.ai/articles/empower-ai-acquires-highlight-technologies-)
 
 <br>
 
