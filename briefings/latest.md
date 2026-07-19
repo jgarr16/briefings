@@ -1,11 +1,11 @@
 ---
-date: 2026-07-18
+date: 2026-07-19
 ---
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $3.34 | — |
-| OpenRouter | $13.43 | $16.57 |
+| DeepSeek | $3.32 | — |
+| OpenRouter | $13.42 | $16.58 |
 
 <br>
 
@@ -23,14 +23,8 @@ date: 2026-07-18
 
 🟢 **Latest News**
 
-**Empower AI Secures Next-Generation GSA Enterprise IT Award** — Jul 14, 2026 · Building on proven partnership
+**Empower AI Secures Next-Generation GSA Enterprise IT Award** — July 14, 2026 · Company selected to advance AI-enabled enterprise IT modernization for the General Services Administration, continuing a flagship federal civilian program.
 [Read more →](https://www.empower.ai/articles/empower-ai-secures-next-generation-gsa-enterprise-it-award)
-
-**Empower AI Acquires Highlight Technologies** — Jul 7, 2026 · Accelerates AI-driven mission delivery across federal agencies
-[Read more →](https://www.empower.ai/articles/empower-ai-acquires-highlight-technologies-)
-
-**Empower AI Wins $255M DISA J6 Service Delivery Contract** — Jun 16, 2026 · Supports Pentagon enterprise IT
-[Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
 
 <br>
 
