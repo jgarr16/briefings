@@ -9,6 +9,14 @@ date: 2026-07-19
 
 <br>
 
+| Number | Balance | Minutes |
+|--------|---------|---------|
+| +1 (707) 945 2971 | $19.94 | 300/300 |
+| +1 (650) 309 9758 | $0 | Unlimited |
+| +1 (650) 390 5537 | $0 | Unlimited |
+
+<br>
+
 <h1 align="center">Daily Briefing</h1>
 
 <br>
