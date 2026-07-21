@@ -1,11 +1,11 @@
 ---
-date: 2026-07-19
+date: 2026-07-21
 ---
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $3.32 | — |
-| OpenRouter | $13.42 | $16.58 |
+| DeepSeek | $3.23 | $0.00 |
+| OpenRouter | $4.33 | $0.07 |
 
 <br>
 
@@ -23,16 +23,24 @@ date: 2026-07-19
 
 🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
+9 jobs across Camp Humphreys, Korea (8343-8350, 8517-8518). No change from baseline.
+
 <br>
 
-🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
+🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job)
 
 <br>
 
 🟢 **Latest News**
 
-**Empower AI Secures Next-Generation GSA Enterprise IT Award** — July 14, 2026 · Company selected to advance AI-enabled enterprise IT modernization for the General Services Administration, continuing a flagship federal civilian program.
+**Empower AI Secures Next-Generation GSA Enterprise IT Award** — July 14, 2026 · $145.6M DIGIT XGen task order to advance AI-enabled enterprise IT modernization for GSA
 [Read more →](https://www.empower.ai/articles/empower-ai-secures-next-generation-gsa-enterprise-it-award)
+
+**Empower AI Acquires Highlight Technologies** — July 7, 2026 · Accelerates AI-driven mission delivery across federal agencies
+[Read more →](https://www.empower.ai/articles/empower-ai-acquires-highlight-technologies-)
+
+**Empower AI Wins $255M DISA J6 Service Delivery Contract** — June 16, 2026 · Supports Pentagon enterprise IT
+[Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
 
 <br>
 
