@@ -1,10 +1,10 @@
 ---
-date: 2026-07-22
+date: 2026-07-23
 ---
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $3.20 | $0.00 |
+| DeepSeek | $3.17 | $0.00 |
 | OpenRouter | $4.33 | $0.07 |
 
 <br>
@@ -21,28 +21,22 @@ date: 2026-07-22
 
 <br>
 
-**🟢 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+**[🟢] Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
 <br>
 
-**🟢 OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
+**[🟢] OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
 
 <br>
 
-**🟢 Latest News**
+**[🟢] Latest News**
 
-**Empower AI Secures Next-Generation GSA Enterprise IT Award, Building on Proven Partnership** — Jul 14, 2026 · Empower AI helps federal agency leaders elevate their workforce productivity.
+**Empower AI Secures Next-Generation GSA Enterprise IT Award, Building on Proven Partnership** — July 14, 2026 · $145.6M DIGIT XGen task order under GSA Alliant 2, evolving enterprise IT support with AI/ML integration across 800+ government installations.
 [Read more →](https://www.empower.ai/articles/empower-ai-secures-next-generation-gsa-enterprise-it-award)
 
-**Empower AI Acquires Highlight Technologies to Accelerate AI-Driven Mission Delivery Across Federal Agencies** — Jul 7, 2026 · Acquisition expands AI capabilities for federal agency delivery.
-[Read more →](https://www.empower.ai/articles/empower-ai-acquires-highlight-technologies-)
-
-**Empower AI Wins $255M DISA J6 Service Delivery Contract to Support Pentagon Enterprise IT** — Jun 16, 2026 · Award to support Pentagon enterprise IT infrastructure.
-[Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
-
 <br>
 
-**🟢 Leadership Team**
+**[🟢] Leadership Team**
 
 [View team →](https://www.empower.ai/leadership-team)
 
@@ -55,7 +49,7 @@ date: 2026-07-22
 
 <br>
 
-**🟢 Contract Tracking**
+**[🟢] Contract Tracking**
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
@@ -65,4 +59,4 @@ No new postings or awards.
 
 <br>
 
-**🟢 Insights** — [Browse all →](https://www.empower.ai/insights)
+**[🟢] Insights** — [Browse all →](https://www.empower.ai/insights)
