@@ -1,10 +1,10 @@
 ---
-date: 2026-07-23
+date: 2026-07-24
 ---
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $3.17 | $0.00 |
+| DeepSeek | $3.16 | n/a |
 | OpenRouter | $4.33 | $0.07 |
 
 <br>
@@ -12,7 +12,7 @@ date: 2026-07-23
 | Number | Balance | Minutes |
 |--------|---------|---------|
 | +1 (707) 945 2971 | $19.94 | 300/300 |
-| +1 (650) 309 9758 | $0 | Unlimited |
+| +1 (650) 309 9758 | $0 | 300/300 |
 | +1 (650) 390 5537 | $0 | Unlimited |
 
 <br>
@@ -21,22 +21,24 @@ date: 2026-07-23
 
 <br>
 
-**[🟢] Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+
+*iCIMS data unavailable via curl (JS-rendered site). Baseline: 9 jobs (8343-8350, 8517-8518). Tracked: 8350.*
 
 <br>
 
-**[🟢] OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
+🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job)
 
 <br>
 
-**[🟢] Latest News**
+🟢 **Latest News**
 
-**Empower AI Secures Next-Generation GSA Enterprise IT Award, Building on Proven Partnership** — July 14, 2026 · $145.6M DIGIT XGen task order under GSA Alliant 2, evolving enterprise IT support with AI/ML integration across 800+ government installations.
-[Read more →](https://www.empower.ai/articles/empower-ai-secures-next-generation-gsa-enterprise-it-award)
+**Juan Toves Joins Empower AI as Chief Growth Officer** — Jul 24, 2026 · Jeff Bohling welcomes Juan Toves to lead enterprise growth strategy, business development, and capture operations across defense and civilian markets.
+[Read more →](https://www.empower.ai/articles/juan-toves-joins-empower-ai-as-chief-growth-officer)
 
 <br>
 
-**[🟢] Leadership Team**
+🟢 **Leadership Team**
 
 [View team →](https://www.empower.ai/leadership-team)
 
@@ -49,7 +51,7 @@ date: 2026-07-23
 
 <br>
 
-**[🟢] Contract Tracking**
+🟢 **Contract Tracking**
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
@@ -57,6 +59,8 @@ No new postings or awards.
 
 *MAPS awards expected ~Sep 2026*
 
+*SAM.gov API unavailable (endpoint changed). USAspending: 3 existing SAIC/GDIT USACISA-P contracts, no new awards.*
+
 <br>
 
-**[🟢] Insights** — [Browse all →](https://www.empower.ai/insights)
+🟢 **Insights** — [Browse all →](https://www.empower.ai/insights)
