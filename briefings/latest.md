@@ -1,18 +1,18 @@
 ---
-date: 2026-07-24
+date: 2026-07-28
 ---
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $3.16 | n/a |
-| OpenRouter | $4.33 | $0.07 |
+| DeepSeek | $3.10 | n/a |
+| OpenRouter | $9.87 | $20.13 |
 
 <br>
 
 | Number | Balance | Minutes |
 |--------|---------|---------|
 | +1 (707) 945 2971 | $19.94 | 300/300 |
-| +1 (650) 309 9758 | $0 | 300/300 |
+| +1 (650) 309 9758 | $0 | 299/300 |
 | +1 (650) 390 5537 | $0 | Unlimited |
 
 <br>
@@ -23,18 +23,26 @@ date: 2026-07-24
 
 🟢 **Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
-*iCIMS data unavailable via curl (JS-rendered site). Baseline: 9 jobs (8343-8350, 8517-8518). Tracked: 8350.*
+9 postings active (8343-8350, 8517-8518) — no change
 
 <br>
 
-🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job)
+🟢 **OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
 
 <br>
 
-🟢 **Latest News**
+🟡 **Latest News**
 
-**Juan Toves Joins Empower AI as Chief Growth Officer** — Jul 24, 2026 · Jeff Bohling welcomes Juan Toves to lead enterprise growth strategy, business development, and capture operations across defense and civilian markets.
-[Read more →](https://www.empower.ai/articles/juan-toves-joins-empower-ai-as-chief-growth-officer)
+**[DIGIT XGen]** Empower AI awarded $145.6M GSA Alliant 2 task order — July 14, 2026
+[Read more →](https://www.empower.ai/articles/empower-ai-secures-next-generation-gsa-enterprise-it-award)
+
+**[Highlight Acquisition]** Empower AI acquires Highlight Technologies — July 7, 2026
+[Read more →](https://www.empower.ai/articles/empower-ai-acquires-highlight-technologies-)
+
+**[DISA J6]** Empower AI wins DISA J6 Service Delivery recompete — June 16, 2026
+[Read more →](https://www.empower.ai/articles/empower-ai-wins-disa-j6-service-delivery-contract-)
+
+Prior baseline: USMA Lincoln Hall Modernization (June 2, 2026) — no longer on homepage
 
 <br>
 
@@ -57,10 +65,14 @@ date: 2026-07-24
 
 No new postings or awards.
 
-*MAPS awards expected ~Sep 2026*
+SAM.gov API unavailable (requires API key). OrangeSlices.ai request blocked.
 
-*SAM.gov API unavailable (endpoint changed). USAspending: 3 existing SAIC/GDIT USACISA-P contracts, no new awards.*
+USAspending: 3 SAIC awards on file for USACISA-P — most recent ended Apr 30, 2026. No new awards detected.
+
+*MAPS awards expected ~Sep 2026*
 
 <br>
 
 🟢 **Insights** — [Browse all →](https://www.empower.ai/insights)
+
+Latest: DIGIT XGen ($145.6M, Jul 14), Highlight acquisition (Jul 7), DISA J6 recompete (Jun 16)
