@@ -2,6 +2,11 @@
 date: 2026-07-30
 ---
 
+**📜 Apostille FAP-D0941244C1** — Submitted to Authority (est. Aug 4)
+[Track →](https://www.federalapostille.org/track-order/)
+
+<br>
+
 | Provider | Balance | Spend |
 |----------|---------|-------|
 | DeepSeek | $3.05 | $0.00 |
