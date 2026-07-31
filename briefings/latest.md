@@ -1,5 +1,5 @@
 ---
-date: 2026-07-31
+date: 2026-08-01
 ---
 
 **📜 Apostille** — Submitted to Authority
@@ -8,14 +8,14 @@ date: 2026-07-31
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $2.97 | n/a |
+| DeepSeek | $2.82 | n/a |
 | OpenRouter | $4.33 | $0.07 |
 
 <br>
 
 | Number | Balance | Minutes |
 |--------|---------|---------|
-| +1 (707) 945 2971 | $19.94 | 300/300 |
+| +1 (707) 945 2971 | $19.94 | 299/300 |
 | +1 (650) 309 9758 | $0 | 298/300 |
 | +1 (650) 390 5537 | $0 | Unlimited |
 
@@ -33,10 +33,10 @@ date: 2026-07-31
 
 <br>
 
-**🟢 Latest News**
+**🟡 Latest News**
 
-**Empower AI Awarded TEIS IV Task Order Supporting USMA Lincoln Hall Modernization** — June 2, 2026 · Modernization of Lincoln Hall at the United States Military Academy (USMA) at West Point.
-[Read more →](https://www.empower.ai/articles/usma-lincoln-hall-modernization)
+**Empower AI Secures Next-Generation GSA Enterprise IT Award** — July 14, 2026 · Next-generation GSA Enterprise IT award.
+[Read more →](https://www.empower.ai/articles/empower-ai-secures-next-generation-gsa-enterprise-it-award)
 
 <br>
 
@@ -56,9 +56,6 @@ date: 2026-07-31
 **🟢 Contract Tracking**
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
-
-SAM.gov Data Bank reporting error (Jul 30, 2026) — search unavailable.
-USAspending: SAIC USACISA-P contract W91QVN25FA418 (2025-08-01 → 2026-04-30) — unchanged.
 
 No new postings or awards.
 
