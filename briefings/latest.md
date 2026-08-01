@@ -1,5 +1,5 @@
 ---
-date: 2026-08-01
+date: 2026-08-02
 ---
 
 **📜 Apostille** — Submitted to Authority
@@ -8,8 +8,8 @@ date: 2026-08-01
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $2.82 | n/a |
-| OpenRouter | $4.33 | $0.07 |
+| DeepSeek | $2.81 | n/a |
+| OpenRouter | $4.32 | $0.08 |
 
 <br>
 
@@ -33,7 +33,7 @@ date: 2026-08-01
 
 <br>
 
-**🟡 Latest News**
+**🟢 Latest News**
 
 **Empower AI Secures Next-Generation GSA Enterprise IT Award** — July 14, 2026 · Next-generation GSA Enterprise IT award.
 [Read more →](https://www.empower.ai/articles/empower-ai-secures-next-generation-gsa-enterprise-it-award)
@@ -53,11 +53,11 @@ date: 2026-08-01
 
 <br>
 
-**🟢 Contract Tracking**
+**🟡 Contract Tracking**
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-No new postings or awards.
+Club Car Golf Cart (1st Signal Brigade) — Combined Synopsis/Solicitation · Aug 1, 2026 · W911S226U3871
 
 *MAPS awards expected ~Sep 2026*
 
