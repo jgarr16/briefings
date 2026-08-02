@@ -1,5 +1,5 @@
 ---
-date: 2026-08-02
+date: 2026-08-03
 ---
 
 **📜 Apostille** — Submitted to Authority
@@ -8,8 +8,8 @@ date: 2026-08-02
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $2.81 | n/a |
-| OpenRouter | $4.32 | $0.08 |
+| DeepSeek | $2.80 | n/a |
+| OpenRouter | $4.26 | $0.14 |
 
 <br>
 
@@ -57,7 +57,7 @@ date: 2026-08-02
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-Club Car Golf Cart (1st Signal Brigade) — Combined Synopsis/Solicitation · Aug 1, 2026 · W911S226U3871
+63--DETECTOR,HEAT (1st Signal Brigade) — Combined Synopsis/Solicitation · Aug 2, 2026 · SPE4A626T11GY
 
 *MAPS awards expected ~Sep 2026*
 
