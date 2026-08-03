@@ -1,5 +1,5 @@
 ---
-date: 2026-08-03
+date: 2026-08-04
 ---
 
 **📜 Apostille** — Submitted to Authority
@@ -8,8 +8,8 @@ date: 2026-08-03
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $2.80 | n/a |
-| OpenRouter | $4.26 | $0.14 |
+| DeepSeek | $2.75 | n/a |
+| OpenRouter | $2.98 | $1.42 |
 
 <br>
 
@@ -53,11 +53,11 @@ date: 2026-08-03
 
 <br>
 
-**🟡 Contract Tracking**
+**🟢 Contract Tracking**
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-63--DETECTOR,HEAT (1st Signal Brigade) — Combined Synopsis/Solicitation · Aug 2, 2026 · SPE4A626T11GY
+No new postings or awards.
 
 *MAPS awards expected ~Sep 2026*
 
