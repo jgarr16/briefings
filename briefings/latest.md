@@ -1,5 +1,5 @@
 ---
-date: 2026-08-04
+date: 2026-08-05
 ---
 
 **📜 Apostille** — Submitted to Authority
@@ -8,8 +8,8 @@ date: 2026-08-04
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $2.75 | n/a |
-| OpenRouter | $2.98 | $1.42 |
+| DeepSeek | $2.74 | n/a |
+| OpenRouter | $0.90 | $3.50 |
 
 <br>
 
