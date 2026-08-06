@@ -1,5 +1,5 @@
 ---
-date: 2026-08-06
+date: 2026-08-07
 ---
 
 **📜 Apostille** — Apostille Issued
@@ -8,16 +8,12 @@ date: 2026-08-06
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $2.73 | n/a |
-| OpenRouter | $0.77 | $3.63 |
+| DeepSeek | $2.71 | n/a |
+| OpenRouter | $0.12 | $4.28 |
 
 <br>
 
-| Number | Balance | Minutes |
-|--------|---------|---------|
-| +1 (707) 945 2971 | $19.94 | 299/300 |
-| +1 (650) 309 9758 | $0 | 298/300 |
-| +1 (650) 390 5537 | $0 | Unlimited |
+Tello: data unavailable
 
 <br>
 
