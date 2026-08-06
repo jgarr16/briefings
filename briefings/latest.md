@@ -2,7 +2,7 @@
 date: 2026-08-06
 ---
 
-**📜 Apostille** — Submitted to Authority
+**📜 Apostille** — Apostille Issued
 
 <br>
 
