@@ -2,7 +2,7 @@
 date: 2026-08-07
 ---
 
-**📜 Apostille** — Apostille Issued
+**📜 Apostille** — Shipped to Customer
 
 <br>
 
