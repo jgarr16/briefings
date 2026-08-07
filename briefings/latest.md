@@ -1,5 +1,5 @@
 ---
-date: 2026-08-07
+date: 2026-08-08
 ---
 
 **📜 Apostille** — Shipped to Customer
@@ -8,12 +8,16 @@ date: 2026-08-07
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $2.71 | n/a |
-| OpenRouter | $0.12 | $4.28 |
+| DeepSeek | $2.70 | n/a |
+| OpenRouter | -$0.08 | $4.48 |
 
 <br>
 
-Tello: data unavailable
+| Number | Balance | Minutes |
+|--------|---------|---------|
+| +1 (707) 945 2971 | $19.94 | 299/300 |
+| +1 (650) 309 9758 | $0 | 298/300 |
+| +1 (650) 390 5537 | $0 | Unlimited |
 
 <br>
 
