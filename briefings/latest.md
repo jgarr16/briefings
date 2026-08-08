@@ -2,10 +2,6 @@
 date: 2026-08-08
 ---
 
-**📜 Apostille** — Shipped to Customer
-
-<br>
-
 | Provider | Balance | Spend |
 |----------|---------|-------|
 | DeepSeek | $2.70 | n/a |
