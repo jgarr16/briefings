@@ -1,6 +1,7 @@
 ---
-date: 2026-08-13
+date: 2026-08-14
 ---
+
 | Account | Balance |
 |---------|---------|
 | John | KRW 41,155 |
@@ -8,7 +9,7 @@ date: 2026-08-13
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $2.31 | n/a |
+| DeepSeek | $2.22 | n/a |
 | OpenRouter | $24.67 | $50.33 |
 
 <br>
@@ -57,7 +58,9 @@ date: 2026-08-13
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-No new postings or awards.
+**USFK TMC Services** — Combined Synopsis/Solicitation · 2026-08-05 · 47QMCB26R0006
+**Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
+**Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Presolicitation · 2026-05-13 · W91QVN26RA023
 
 *MAPS awards expected ~Sep 2026*
 
