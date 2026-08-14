@@ -1,6 +1,7 @@
 ---
-date: 2026-08-14
+date: 2026-08-15
 ---
+
 | Account | Balance |
 |---------|---------|
 | John | KRW 39,496 |
@@ -8,7 +9,7 @@ date: 2026-08-14
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $2.22 | n/a |
+| DeepSeek | $2.20 | n/a |
 | OpenRouter | $24.67 | $50.33 |
 
 <br>
