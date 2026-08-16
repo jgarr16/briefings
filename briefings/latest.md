@@ -4,7 +4,7 @@ date: 2026-08-16
 | Account | Balance |
 |---------|---------|
 | John | KRW 39,496 |
-| Kyong | KRW 25,821 |
+| Kyong | KRW 25,148 |
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
