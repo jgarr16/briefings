@@ -1,6 +1,7 @@
 ---
-date: 2026-08-18
+date: 2026-08-19
 ---
+
 | Account | Balance |
 |---------|---------|
 | John | KRW 39,496 |
@@ -8,7 +9,7 @@ date: 2026-08-18
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $2.16 | n/a |
+| DeepSeek | $2.15 | n/a |
 | OpenRouter | $24.37 | $50.63 |
 
 <br>
@@ -57,6 +58,7 @@ date: 2026-08-18
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**Bulk Petroleum Delivery Service, USFK Wide, South Korea** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
 **USFK TMC Services** — Combined Synopsis/Solicitation · 2026-08-05 · 47QMCB26R0006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Presolicitation · 2026-05-13 · W91QVN26RA023
