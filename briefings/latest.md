@@ -1,5 +1,5 @@
 ---
-date: 2026-08-19
+date: 2026-08-20
 ---
 
 | Account | Balance |
@@ -9,7 +9,7 @@ date: 2026-08-19
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $2.15 | n/a |
+| DeepSeek | $2.12 | n/a |
 | OpenRouter | $24.37 | $50.63 |
 
 <br>
