@@ -4,11 +4,6 @@ date: 2026-08-21
 
 **US Govt Exchange Rate: 1,550.88 KRW/USD** (record 2026-06-30)
 
-| Account | Balance |
-|---------|---------|
-| John | KRW 39,496 |
-| Kyong | KRW 24,901 |
-
 | Provider | Balance | Spend |
 |----------|---------|-------|
 | DeepSeek | $2.09 | n/a |
