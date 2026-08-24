@@ -1,13 +1,13 @@
 ---
-date: 2026-08-24
+date: 2026-08-25
 ---
 
 **US Govt Exchange Rate: 1,550.88 KRW/USD** (record 2026-06-30)
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $1.90 | n/a |
-| OpenRouter | $24.20 | $50.80 |
+| DeepSeek | $1.88 | n/a |
+| OpenRouter | $24.17 | $50.83 |
 
 <br>
 
