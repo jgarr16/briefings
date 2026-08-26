@@ -1,13 +1,13 @@
 ---
-date: 2026-08-26
+date: 2026-08-27
 ---
 
 **US Govt Exchange Rate: 1,550.88 KRW/USD** (record 2026-06-30)
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $1.86 | n/a |
-| OpenRouter | $20.05 | $54.95 |
+| DeepSeek | $1.84 | n/a |
+| OpenRouter | $19.86 | $55.14 |
 
 <br>
 
@@ -56,7 +56,6 @@ date: 2026-08-26
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
 **Bulk Petroleum Delivery Service, USFK Wide, South Korea** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
-**USFK TMC Services** — Combined Synopsis/Solicitation · 2026-08-05 · 47QMCB26R0006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Presolicitation · 2026-05-13 · W91QVN26RA023
 
