@@ -4,6 +4,10 @@ date: 2026-08-31
 
 **US Govt Exchange Rate: 1,550.88 KRW/USD** (record 2026-06-30)
 
+**Mastercard Exchange Rate:**
+- 1 USD = 1,389.66 KRW
+- 1 KRW = 0.0007196 USD
+
 | Provider | Balance | Spend |
 |----------|---------|-------|
 | DeepSeek | $1.70 | n/a |
