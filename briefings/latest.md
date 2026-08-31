@@ -12,6 +12,11 @@ date: 2026-08-31
 
 <br>
 
+**KEB Hana Exchange Rate:**
+- 1 USD = 1,381.60 KRW
+
+<br>
+
 | Provider | Balance | Spend |
 |----------|---------|-------|
 | DeepSeek | $1.70 | n/a |
