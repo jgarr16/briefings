@@ -1,5 +1,5 @@
 ---
-date: 2026-08-31
+date: 2026-09-01
 ---
 
 **US Currency Exchange Rate:**
@@ -13,15 +13,15 @@ date: 2026-08-31
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,355.30 KRW (electronic transfer)
-- 1 USD = 1,344.75 KRW (cash at branch)
+- 1 USD = 1,354.70 KRW (electronic transfer)
+- 1 USD = 1,344.16 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $1.70 | n/a |
-| OpenRouter | $19.69 | $55.31 |
+| DeepSeek | $10.99 | n/a |
+| OpenRouter | $18.84 | $56.16 |
 
 <br>
 
