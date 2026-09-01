@@ -1,5 +1,5 @@
 ---
-date: 2026-09-01
+date: 2026-09-02
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-09-01
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,389.66 KRW
+- 1 USD = 1,388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,354.70 KRW (electronic transfer)
-- 1 USD = 1,344.16 KRW (cash at branch)
+- 1 USD = 1,360.90 KRW (electronic transfer)
+- 1 USD = 1,350.25 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $10.99 | n/a |
-| OpenRouter | $18.84 | $56.16 |
+| DeepSeek | $10.69 | n/a |
+| OpenRouter | $18.44 | $56.56 |
 
 <br>
 
