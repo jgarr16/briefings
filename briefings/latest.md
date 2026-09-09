@@ -1,5 +1,5 @@
 ---
-date: 2026-09-09
+date: 2026-09-10
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-09-09
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1389.66 KRW
+- 1 USD = 1388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,328.80 KRW (electronic transfer)
-- 1 USD = 1,318.42 KRW (cash at branch)
+- 1 USD = 1,327.30 KRW (electronic transfer)
+- 1 USD = 1,316.95 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $10.32 | n/a |
+| DeepSeek | $10.30 | n/a |
 | OpenRouter | $16.11 | $58.89 |
 
 <br>
@@ -69,6 +69,7 @@ date: 2026-09-09
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**Data Center Power and Cooling System Support** — Sources Sought · 2026-09-09 · PANMCC26P0000053327
 **Bulk Petroleum Delivery Service, USFK Wide, South Korea** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Presolicitation · 2026-05-13 · W91QVN26RA023
