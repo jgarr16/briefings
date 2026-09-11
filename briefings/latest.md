@@ -1,5 +1,5 @@
 ---
-date: 2026-09-10
+date: 2026-09-12
 ---
 
 **US Currency Exchange Rate:**
@@ -13,15 +13,15 @@ date: 2026-09-10
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,327.30 KRW (electronic transfer)
-- 1 USD = 1,316.95 KRW (cash at branch)
+- 1 USD = 1,327.20 KRW (electronic transfer)
+- 1 USD = 1,316.85 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $10.30 | n/a |
-| OpenRouter | $16.11 | $58.89 |
+| DeepSeek | $10.26 | n/a |
+| OpenRouter | $14.45 | $60.55 |
 
 <br>
 
@@ -29,7 +29,7 @@ date: 2026-09-10
 |--------|---------|---------|
 | +1 (707) 945 2971 | $19.86 | 300/300 |
 | +1 (650) 309 9758 | $0 | 300/300 |
-| +1 (650) 390 5537 | $0 | Unlimited |
+| +1 (650) 390 5537 | n/a | — |
 
 <br>
 
@@ -69,10 +69,12 @@ date: 2026-09-10
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-**Data Center Power and Cooling System Support** — Sources Sought · 2026-09-09 · PANMCC26P0000053327
+**USFK HQ's VTC Equipment Purchase and Installation Work, Camp Humphreys, Korea** — Solicitation · 2026-09-11 · W91QVN26QA060
+**Emergency Vehicle Lights and Sirens, Camp Humphreys, South Korea** — Solicitation · 2026-09-11 · W51LL526QA017
+**Army Family Housing (AFH) Maintenance Services, Korea** — Sources Sought · 2026-09-11 · W91QVN26RAA86
+**Korea Limited Life Support (KLLS)** — Presolicitation · 2026-09-09 · W90VN926RA999
 **Bulk Petroleum Delivery Service, USFK Wide, South Korea** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
-**Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
-**Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Presolicitation · 2026-05-13 · W91QVN26RA023
+**USFK Travel Management Company (TMC) Services, Seoul** — Justification · 2026-08-27 · 47QMCB26Q0036
 
 *MAPS awards expected ~Sep 2026*
 
