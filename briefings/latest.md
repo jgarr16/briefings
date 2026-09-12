@@ -1,5 +1,5 @@
 ---
-date: 2026-09-12
+date: 2026-09-13
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-09-12
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,327.20 KRW (electronic transfer)
-- 1 USD = 1,316.85 KRW (cash at branch)
+- 1 USD = 1,330.70 KRW (electronic transfer)
+- 1 USD = 1,320.29 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $10.26 | n/a |
+| DeepSeek | $10.22 | n/a |
 | OpenRouter | $14.45 | $60.55 |
 
 <br>
@@ -29,7 +29,7 @@ date: 2026-09-12
 |--------|---------|---------|
 | +1 (707) 945 2971 | $19.86 | 300/300 |
 | +1 (650) 309 9758 | $0 | 300/300 |
-| +1 (650) 390 5537 | n/a | — |
+| +1 (650) 390 5537 | $0 | Unlimited |
 
 <br>
 
@@ -73,8 +73,8 @@ date: 2026-09-12
 **Emergency Vehicle Lights and Sirens, Camp Humphreys, South Korea** — Solicitation · 2026-09-11 · W51LL526QA017
 **Army Family Housing (AFH) Maintenance Services, Korea** — Sources Sought · 2026-09-11 · W91QVN26RAA86
 **Korea Limited Life Support (KLLS)** — Presolicitation · 2026-09-09 · W90VN926RA999
-**Bulk Petroleum Delivery Service, USFK Wide, South Korea** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
 **USFK Travel Management Company (TMC) Services, Seoul** — Justification · 2026-08-27 · 47QMCB26Q0036
+**Bulk Petroleum Delivery Service, USFK Wide, South Korea** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
 
 *MAPS awards expected ~Sep 2026*
 
