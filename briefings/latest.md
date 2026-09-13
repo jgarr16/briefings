@@ -1,5 +1,5 @@
 ---
-date: 2026-09-13
+date: 2026-09-14
 ---
 
 **US Currency Exchange Rate:**
@@ -8,7 +8,7 @@ date: 2026-09-13
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1389.66 KRW
+- 1 USD = 1388.12 KRW
 
 <br>
 
@@ -20,7 +20,7 @@ date: 2026-09-13
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $10.22 | n/a |
+| DeepSeek | $10.19 | n/a |
 | OpenRouter | $14.45 | $60.55 |
 
 <br>
