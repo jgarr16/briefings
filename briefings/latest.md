@@ -1,5 +1,5 @@
 ---
-date: 2026-09-14
+date: 2026-09-15
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-09-14
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,330.70 KRW (electronic transfer)
-- 1 USD = 1,320.29 KRW (cash at branch)
+- 1 USD = 1,333.10 KRW (electronic transfer)
+- 1 USD = 1,322.65 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $10.19 | n/a |
-| OpenRouter | $14.45 | $60.55 |
+| DeepSeek | $10.18 | n/a |
+| OpenRouter | $14.41 | $60.59 |
 
 <br>
 
@@ -69,7 +69,7 @@ date: 2026-09-14
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-**USFK HQ's VTC Equipment Purchase and Installation Work, Camp Humphreys, Korea** — Solicitation · 2026-09-11 · W91QVN26QA060
+**USFK HQ's VTC Equipment Purchase and Installation Work, Camp Humphreys, Korea** — Solicitation · 2026-09-14 · W91QVN26QA060
 **Emergency Vehicle Lights and Sirens, Camp Humphreys, South Korea** — Solicitation · 2026-09-11 · W51LL526QA017
 **Army Family Housing (AFH) Maintenance Services, Korea** — Sources Sought · 2026-09-11 · W91QVN26RAA86
 **Korea Limited Life Support (KLLS)** — Presolicitation · 2026-09-09 · W90VN926RA999
