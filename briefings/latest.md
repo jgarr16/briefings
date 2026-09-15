@@ -1,5 +1,5 @@
 ---
-date: 2026-09-15
+date: 2026-09-16
 ---
 
 **US Currency Exchange Rate:**
@@ -8,26 +8,26 @@ date: 2026-09-15
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1389.66 KRW
+- 1 USD = 1,388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,333.10 KRW (electronic transfer)
-- 1 USD = 1,322.65 KRW (cash at branch)
+- 1 USD = 1,349.40 KRW (electronic transfer)
+- 1 USD = 1,338.86 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $10.18 | n/a |
+| DeepSeek | $10.15 | n/a |
 | OpenRouter | $14.41 | $60.59 |
 
 <br>
 
 | Number | Balance | Minutes |
 |--------|---------|---------|
-| +1 (707) 945 2971 | $19.86 | 300/300 |
+| +1 (707) 945 2971 | $19.73 | 300/300 |
 | +1 (650) 309 9758 | $0 | 300/300 |
 | +1 (650) 390 5537 | $0 | Unlimited |
 
@@ -38,6 +38,8 @@ date: 2026-09-15
 <br>
 
 **🟢 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+
+9 active OCONUS postings (8343–8347, 8349, 8350, 8517, 8518) — unchanged.
 
 <br>
 
@@ -69,14 +71,18 @@ date: 2026-09-15
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-**USFK HQ's VTC Equipment Purchase and Installation Work, Camp Humphreys, Korea** — Solicitation · 2026-09-14 · W91QVN26QA060
-**Emergency Vehicle Lights and Sirens, Camp Humphreys, South Korea** — Solicitation · 2026-09-11 · W51LL526QA017
-**Army Family Housing (AFH) Maintenance Services, Korea** — Sources Sought · 2026-09-11 · W91QVN26RAA86
+**Army Family Housing (AFH) Maintenance Services, Camp Humphreys** — Sources Sought · 2026-09-11 · W91QVN26RAX86
+**Fuel Tank Inspection, Test and Maintenance Service, Osan AB, Korea** — Solicitation · 2026-09-09 · W90VN626QA018
+**GOLAN 45 Ammunition Storage Vessel, Camp Humphreys, South Korea** — Solicitation · 2026-09-09 · W91QVN26RA100
+**Materials Handling System, Osan AB, Republic of Korea** — Award Notice · 2026-09-09 · FA860426CB027
 **Korea Limited Life Support (KLLS)** — Presolicitation · 2026-09-09 · W90VN926RA999
-**USFK Travel Management Company (TMC) Services, Seoul** — Justification · 2026-08-27 · 47QMCB26Q0036
+**Pacific Equipment Set (PES) / Korea Rotational Forces 17 & 18 Support Services** — Combined Synopsis/Solicitation · 2026-09-05 · W90VN917AUG2026
+**USFK Travel Management Company (TMC) Services** — Justification · 2026-08-27 · 47QMCB26Q0036
+**USFK Installation Survey Equipment** — Combined Synopsis/Solicitation · 2026-08-25 · W91QVN26QA051
 **Bulk Petroleum Delivery Service, USFK Wide, South Korea** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
+**IDIQ MATOC for Architect-Engineering Services in Korea** — Sources Sought · 2026-08-14 · W912UM-26-X-1C62
 
-*MAPS awards expected ~Sep 2026*
+*USACISA-P / CENTRIXS-K / CX-K: no active notices. MAPS awards expected ~Sep 2026.*
 
 <br>
 
