@@ -1,5 +1,5 @@
 ---
-date: 2026-09-17
+date: 2026-09-18
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-09-17
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,389.66 KRW
+- 1 USD = 1,388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,354.80 KRW (electronic transfer)
-- 1 USD = 1,344.26 KRW (cash at branch)
+- 1 USD = 1,368.10 KRW (electronic transfer)
+- 1 USD = 1,357.43 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $10.11 | n/a |
+| DeepSeek | $9.89 | n/a |
 | OpenRouter | $14.41 | $60.59 |
 
 <br>
@@ -71,7 +71,9 @@ date: 2026-09-17
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**USFK HQ VTC Equipment Purchase and Installation, Camp Humphreys** — Solicitation (Amd P00003) · 2026-09-14 · W91QVN26QA060
 **Army Family Housing (AFH) Maintenance Services, Camp Humphreys** — Sources Sought · 2026-09-11 · W91QVN26RAA86
+**Emergency Vehicle Lights and Sirens, Camp Humphreys** — Solicitation · 2026-09-11 · W51LL526QA017
 **Korea Limited Life Support (KLLS)** — Presolicitation · 2026-09-09 · W90VN926RA999
 **GOLAN 45 Ammunition Storage Vessel, Camp Humphreys, South Korea** — Solicitation · 2026-09-09 · W91QVN26RA100
 **Fuel Tank Inspection, Test and Maintenance Service, Osan AB, Korea** — Solicitation · 2026-09-09 · W90VN626QA018
@@ -80,13 +82,14 @@ date: 2026-09-17
 **USFK Installation Survey Equipment** — Combined Synopsis/Solicitation · 2026-08-25 · W91QVN26QA051
 **Bulk Petroleum Delivery Service, USFK Wide, South Korea** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
 **Ammunition Storage Vessel, Camp Humphreys, South Korea** — Sources Sought · 2026-08-10 · 20260810SOURCESSOUGHTNOTICE1
+**Operation, Security and Safety of Government Facilities, Korea** — Sources Sought · 2026-08-07 · SPE603-26-R-5X66
 **Materials Handling System, Osan AB, Republic of Korea** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Office Furniture for B6145, Camp Humphreys, South Korea** — Combined Synopsis/Solicitation · 2026-07-15 · W51LL526QA011
 **Fuels Leak Detection Testing, South Korea CY27** — Sources Sought · 2026-06-30 · PANNWD-26-P-0000-031673
 **AI-powered Mosquito Surveillance System (MSS)** — Solicitation · 2026-06-18 · W91QVN26QA029
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*USACISA-P / CENTRIXS-K / CX-K: no active notices. MAPS awards expected ~Sep 2026. PES/KRF (W90VN917AUG2026) and IDIQ A-E MATOC (W912UM-26-X-1C62) closed — retired.*
+*17 active Korea-relevant notices. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards. MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
 
 <br>
 
