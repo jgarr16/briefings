@@ -1,5 +1,5 @@
 ---
-date: 2026-09-18
+date: 2026-09-19
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-09-18
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,388.12 KRW
+- 1 USD = 1,389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,368.10 KRW (electronic transfer)
-- 1 USD = 1,357.43 KRW (cash at branch)
+- 1 USD = 1,372.50 KRW (electronic transfer)
+- 1 USD = 1,361.75 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $9.89 | n/a |
-| OpenRouter | $14.41 | $60.59 |
+| DeepSeek | $8.34 | n/a |
+| OpenRouter | $13.46 | $61.54 |
 
 <br>
 
@@ -71,25 +71,28 @@ date: 2026-09-18
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-**USFK HQ VTC Equipment Purchase and Installation, Camp Humphreys** — Solicitation (Amd P00003) · 2026-09-14 · W91QVN26QA060
-**Army Family Housing (AFH) Maintenance Services, Camp Humphreys** — Sources Sought · 2026-09-11 · W91QVN26RAA86
+**USFK HQ's VTC Equipment Purchase and Installation, Camp Humphreys** — Solicitation (Amd P00003) · 2026-09-14 · W91QVN26QA060
+**Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-09-15 · W912DY26RA093
+**Geotechnical Drilling, In-Situ Testing & Geophysical Investigation, ROK** — Solicitation · 2026-09-14 · W912UM26RA007
 **Emergency Vehicle Lights and Sirens, Camp Humphreys** — Solicitation · 2026-09-11 · W51LL526QA017
+**GOLAN 45 Ammunition Storage Vessel, Camp Humphreys** — Solicitation · 2026-09-09 · W91QVN26RA100
 **Korea Limited Life Support (KLLS)** — Presolicitation · 2026-09-09 · W90VN926RA999
-**GOLAN 45 Ammunition Storage Vessel, Camp Humphreys, South Korea** — Solicitation · 2026-09-09 · W91QVN26RA100
-**Fuel Tank Inspection, Test and Maintenance Service, Osan AB, Korea** — Solicitation · 2026-09-09 · W90VN626QA018
-**Total Maintenance for Critical Facilities, USAG Humphreys & Camp Yongin** — Solicitation · 2026-09-01 · W51LL526RA004
+**Fuel Tank Inspection, Test and Maintenance Service, Osan AB** — Solicitation · 2026-09-09 · W90VN626QA018
+**51st Fighter Wing Mass Notification System (Giant Voice), Osan AB** — Combined Synopsis/Solicitation · 2026-09-03 · W90VN626QA999
+**Active Vehicle Barriers and Control System, Osan AB** — Solicitation · 2026-09-01 · W90VN626QA017
+**H2F Gym Equipment, Camp Hovey** — Solicitation · 2026-09-01 · W51LL526QA014
+**Holistic Fitness Center Equipment, Camp Humphreys** — Solicitation · 2026-08-28 · W91QVN26QA053
 **USFK Travel Management Company (TMC) Services** — Justification · 2026-08-27 · 47QMCB26Q0036
 **USFK Installation Survey Equipment** — Combined Synopsis/Solicitation · 2026-08-25 · W91QVN26QA051
-**Bulk Petroleum Delivery Service, USFK Wide, South Korea** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
-**Ammunition Storage Vessel, Camp Humphreys, South Korea** — Sources Sought · 2026-08-10 · 20260810SOURCESSOUGHTNOTICE1
-**Operation, Security and Safety of Government Facilities, Korea** — Sources Sought · 2026-08-07 · SPE603-26-R-5X66
-**Materials Handling System, Osan AB, Republic of Korea** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
-**Office Furniture for B6145, Camp Humphreys, South Korea** — Combined Synopsis/Solicitation · 2026-07-15 · W51LL526QA011
-**Fuels Leak Detection Testing, South Korea CY27** — Sources Sought · 2026-06-30 · PANNWD-26-P-0000-031673
-**AI-powered Mosquito Surveillance System (MSS)** — Solicitation · 2026-06-18 · W91QVN26QA029
+**Barracks CCTV Purchase/New Installation/Replacement (103 Barracks, Korea-wide)** — Combined Synopsis/Solicitation · 2026-08-20 · W91QVN26RA046
+**Bulk Petroleum Delivery Service, USFK Wide** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
+**Ammunition Storage Vessel, Camp Humphreys** — Sources Sought · 2026-08-10 · 20260810SOURCES
+**Initial Outfitting & Transition (IO&T) Services, AMLC APS-4 Warehouse, Camp Carroll** — Solicitation · 2026-08-10 · W912DY26R1103
+**Operation, Security & Safety of Government Fuel Facilities, South Korea** — Sources Sought · 2026-08-07 · SPE60326R5X66
+**Materials Handling System, Osan AB** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*17 active Korea-relevant notices. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards. MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
+*20 active Korea-relevant notices (SAM.gov search). USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
 
 <br>
 
