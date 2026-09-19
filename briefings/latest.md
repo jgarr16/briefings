@@ -1,5 +1,5 @@
 ---
-date: 2026-09-19
+date: 2026-09-20
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-09-19
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,389.66 KRW
+- 1 USD = 1,388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,372.50 KRW (electronic transfer)
-- 1 USD = 1,361.75 KRW (cash at branch)
+- 1 USD = 1,375.40 KRW (electronic transfer)
+- 1 USD = 1,364.70 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $8.34 | n/a |
-| OpenRouter | $13.46 | $61.54 |
+| DeepSeek | $7.45 | n/a |
+| OpenRouter | $12.70 | $62.30 |
 
 <br>
 
@@ -71,16 +71,26 @@ date: 2026-09-19
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-**USFK HQ's VTC Equipment Purchase and Installation, Camp Humphreys** — Solicitation (Amd P00003) · 2026-09-14 · W91QVN26QA060
+**Cleaning of Food Service Exhaust Fans and Ducts, USAG Yongsan** — Combined Synopsis/Solicitation · 2026-09-18 · W90VN827RA001
+**Office Furniture for KSC** — Combined Synopsis/Solicitation · 2026-09-17 · W91QVN26QA045
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-09-15 · W912DY26RA093
+**USFK HQ's VTC Equipment Purchase and Installation, Camp Humphreys** — Solicitation (Amd P00003) · 2026-09-14 · W91QVN26QA060
 **Geotechnical Drilling, In-Situ Testing & Geophysical Investigation, ROK** — Solicitation · 2026-09-14 · W912UM26RA007
+**Army Family Housing (AFH) Maintenance Services** — Sources Sought · 2026-09-11 · W91QVN26RAA86
 **Emergency Vehicle Lights and Sirens, Camp Humphreys** — Solicitation · 2026-09-11 · W51LL526QA017
-**GOLAN 45 Ammunition Storage Vessel, Camp Humphreys** — Solicitation · 2026-09-09 · W91QVN26RA100
+**Total Maintenance for CP TANGO, K-16, MMS, Camp Yongin** — Solicitation · 2026-09-11 · W51LL526RA006
 **Korea Limited Life Support (KLLS)** — Presolicitation · 2026-09-09 · W90VN926RA999
 **Fuel Tank Inspection, Test and Maintenance Service, Osan AB** — Solicitation · 2026-09-09 · W90VN626QA018
+**GOLAN 45 Ammunition Storage Vessel, Camp Humphreys** — Solicitation · 2026-09-09 · W91QVN26RA100
+**Propane Gas Delivery to Osan AB** — Sources Sought · 2026-09-09 · W90VN626T9988
+**Seoul Chancery, Consular, IMOT, PCC, IPC and ESO Outbuilding Roof Replacements** — Solicitation · 2026-09-04 · 19AQMM26R0342
 **51st Fighter Wing Mass Notification System (Giant Voice), Osan AB** — Combined Synopsis/Solicitation · 2026-09-03 · W90VN626QA999
+**RFI — Innovative Design and Construction Methodologies, Korea** — Sources Sought · 2026-09-02 · W912UM26Z9999
+**Propylene Glycol at Osan AB** — Combined Synopsis/Solicitation · 2026-09-02 · W90VN626QA922
 **Active Vehicle Barriers and Control System, Osan AB** — Solicitation · 2026-09-01 · W90VN626QA017
+**High-Voltage Load Bank Purchase and Installation, South Korea** — Combined Synopsis/Solicitation · 2026-09-01 · W90VN926QA061
 **H2F Gym Equipment, Camp Hovey** — Solicitation · 2026-09-01 · W51LL526QA014
+**Total Maintenance for Critical Facilities, USAG Humphreys and Camp Yongin** — Solicitation · 2026-09-01 · W51LL526RA004
 **Holistic Fitness Center Equipment, Camp Humphreys** — Solicitation · 2026-08-28 · W91QVN26QA053
 **USFK Travel Management Company (TMC) Services** — Justification · 2026-08-27 · 47QMCB26Q0036
 **USFK Installation Survey Equipment** — Combined Synopsis/Solicitation · 2026-08-25 · W91QVN26QA051
@@ -92,7 +102,7 @@ date: 2026-09-19
 **Materials Handling System, Osan AB** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*20 active Korea-relevant notices (SAM.gov search). USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
+*30 active Korea-relevant notices tracked (SAM.gov sweep: 118 active Korea rows). 10 new since last briefing (W90VN827RA001, W91QVN26QA045, W91QVN26RAA86, W51LL526RA006, W90VN626T9988, 19AQMM26R0342, W912UM26Z9999, W90VN626QA922, W90VN926QA061, W51LL526RA004). USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
 
 <br>
 
