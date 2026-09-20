@@ -1,5 +1,5 @@
 ---
-date: 2026-09-20
+date: 2026-09-21
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-09-20
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,388.12 KRW
+- 1 USD = 1,389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,375.40 KRW (electronic transfer)
-- 1 USD = 1,364.70 KRW (cash at branch)
+- 1 USD = 1,376.40 KRW (electronic transfer)
+- 1 USD = 1,365.68 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $7.45 | n/a |
-| OpenRouter | $12.70 | $62.30 |
+| DeepSeek | $7.25 | n/a |
+| OpenRouter | $12.67 | $62.33 |
 
 <br>
 
@@ -102,7 +102,7 @@ date: 2026-09-20
 **Materials Handling System, Osan AB** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*30 active Korea-relevant notices tracked (SAM.gov sweep: 118 active Korea rows). 10 new since last briefing (W90VN827RA001, W91QVN26QA045, W91QVN26RAA86, W51LL526RA006, W90VN626T9988, 19AQMM26R0342, W912UM26Z9999, W90VN626QA922, W90VN926QA061, W51LL526RA004). USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
+*30 active Korea-relevant notices tracked (SAM.gov sweep: 118 active Korea rows). No new notices since last briefing — all 30 re-verified active. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
 
 <br>
 
