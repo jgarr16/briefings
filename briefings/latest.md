@@ -1,5 +1,5 @@
 ---
-date: 2026-09-21
+date: 2026-09-22
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-09-21
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,389.66 KRW
+- 1 USD = 1,388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,376.40 KRW (electronic transfer)
-- 1 USD = 1,365.68 KRW (cash at branch)
+- 1 USD = 1,361.00 KRW (electronic transfer)
+- 1 USD = 1,350.35 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $7.25 | n/a |
-| OpenRouter | $12.67 | $62.33 |
+| DeepSeek | $7.18 | n/a |
+| OpenRouter | $11.27 | $63.73 |
 
 <br>
 
@@ -49,8 +49,8 @@ date: 2026-09-21
 
 **🟢 Latest News**
 
-**Empower AI Secures Next-Generation GSA Enterprise IT Award, Building on Proven Partnership** — July 14, 2026 · Company selected to advance AI-enabled enterprise IT modernization for the General Services Administration, continuing a flagship federal civilian program.
-[Read more →](https://www.empower.ai/articles/empower-ai-secures-next-generation-gsa-enterprise-it-award)
+**How Jennifer Sample Is Equipping Empower AI for the Agentic Era** — September 21, 2026 · CTO Jennifer Sample discusses pre-built mission accelerators, cleared-talent retention and DevSecOps in an ExecutiveBiz interview.
+[Read more →](https://www.empower.ai/articles/equipping-empower-ai-for-the-agentic-era)
 
 <br>
 
@@ -71,8 +71,10 @@ date: 2026-09-21
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**Purchase of Vehicle Maintenance Equipment for KSC Truck Company** — Combined Synopsis/Solicitation · 2026-09-21 · W91QVN26QA048
+**Total Maintenance for Critical Facilities, USAG Humphreys and Camp Yongin** — Solicitation · 2026-09-21 · W51LL526RA004
+**Office Furniture for KSC** — Combined Synopsis/Solicitation · 2026-09-21 · W91QVN26QA045
 **Cleaning of Food Service Exhaust Fans and Ducts, USAG Yongsan** — Combined Synopsis/Solicitation · 2026-09-18 · W90VN827RA001
-**Office Furniture for KSC** — Combined Synopsis/Solicitation · 2026-09-17 · W91QVN26QA045
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-09-15 · W912DY26RA093
 **USFK HQ's VTC Equipment Purchase and Installation, Camp Humphreys** — Solicitation (Amd P00003) · 2026-09-14 · W91QVN26QA060
 **Geotechnical Drilling, In-Situ Testing & Geophysical Investigation, ROK** — Solicitation · 2026-09-14 · W912UM26RA007
@@ -90,19 +92,18 @@ date: 2026-09-21
 **Active Vehicle Barriers and Control System, Osan AB** — Solicitation · 2026-09-01 · W90VN626QA017
 **High-Voltage Load Bank Purchase and Installation, South Korea** — Combined Synopsis/Solicitation · 2026-09-01 · W90VN926QA061
 **H2F Gym Equipment, Camp Hovey** — Solicitation · 2026-09-01 · W51LL526QA014
-**Total Maintenance for Critical Facilities, USAG Humphreys and Camp Yongin** — Solicitation · 2026-09-01 · W51LL526RA004
 **Holistic Fitness Center Equipment, Camp Humphreys** — Solicitation · 2026-08-28 · W91QVN26QA053
 **USFK Travel Management Company (TMC) Services** — Justification · 2026-08-27 · 47QMCB26Q0036
 **USFK Installation Survey Equipment** — Combined Synopsis/Solicitation · 2026-08-25 · W91QVN26QA051
 **Barracks CCTV Purchase/New Installation/Replacement (103 Barracks, Korea-wide)** — Combined Synopsis/Solicitation · 2026-08-20 · W91QVN26RA046
 **Bulk Petroleum Delivery Service, USFK Wide** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
-**Ammunition Storage Vessel, Camp Humphreys** — Sources Sought · 2026-08-10 · 20260810SOURCES
 **Initial Outfitting & Transition (IO&T) Services, AMLC APS-4 Warehouse, Camp Carroll** — Solicitation · 2026-08-10 · W912DY26R1103
+**Ammunition Storage Vessel, Camp Humphreys** — Sources Sought · 2026-08-10 · 20260810SOURCES
 **Operation, Security & Safety of Government Fuel Facilities, South Korea** — Sources Sought · 2026-08-07 · SPE60326R5X66
 **Materials Handling System, Osan AB** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*30 active Korea-relevant notices tracked (SAM.gov sweep: 118 active Korea rows). No new notices since last briefing — all 30 re-verified active. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
+*31 active Korea-relevant notices tracked (SAM.gov sweep: 121 active Korea rows). 1 new since last briefing (W91QVN26QA048). USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
 
 <br>
 
