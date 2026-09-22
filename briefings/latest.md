@@ -1,5 +1,5 @@
 ---
-date: 2026-09-22
+date: 2026-09-23
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-09-22
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,361.00 KRW (electronic transfer)
-- 1 USD = 1,350.35 KRW (cash at branch)
+- 1 USD = 1,346.40 KRW (electronic transfer)
+- 1 USD = 1,335.91 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $7.18 | n/a |
-| OpenRouter | $11.27 | $63.73 |
+| DeepSeek | $7.12 | n/a |
+| OpenRouter | $10.31 | $64.69 |
 
 <br>
 
@@ -71,6 +71,7 @@ date: 2026-09-22
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**Autonomous Kitchen — Robotics-as-a-Service (RaaS), Month-to-Month Lease, South Korea** — Combined Synopsis/Solicitation · 2026-09-22 · W90VN926QA065
 **Purchase of Vehicle Maintenance Equipment for KSC Truck Company** — Combined Synopsis/Solicitation · 2026-09-21 · W91QVN26QA048
 **Total Maintenance for Critical Facilities, USAG Humphreys and Camp Yongin** — Solicitation · 2026-09-21 · W51LL526RA004
 **Office Furniture for KSC** — Combined Synopsis/Solicitation · 2026-09-21 · W91QVN26QA045
@@ -103,7 +104,7 @@ date: 2026-09-22
 **Materials Handling System, Osan AB** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*31 active Korea-relevant notices tracked (SAM.gov sweep: 121 active Korea rows). 1 new since last briefing (W91QVN26QA048). USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
+*32 active Korea-relevant notices tracked (SAM.gov sweep: 119 active Korea rows). 1 new since last briefing (W90VN926QA065). USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
 
 <br>
 
