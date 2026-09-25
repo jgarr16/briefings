@@ -1,5 +1,5 @@
 ---
-date: 2026-09-25
+date: 2026-09-26
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-09-25
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1389.66 KRW
+- 1 USD = 1388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,355.50 KRW (electronic transfer)
-- 1 USD = 1,344.95 KRW (cash at branch)
+- 1 USD = 1,344.10 KRW (electronic transfer)
+- 1 USD = 1,333.65 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $6.86 | n/a |
-| OpenRouter | $4.16 | $70.84 |
+| DeepSeek | $55.87 | n/a |
+| OpenRouter | $3.83 | $71.17 |
 
 <br>
 
@@ -80,7 +80,6 @@ date: 2026-09-25
 **Office furniture for KSC** — Combined Synopsis/Solicitation · 2026-09-21 · W91QVN26QA045
 **Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan Casey** — Combined Synopsis/Solicitation · 2026-09-18 · W90VN827RA001
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-09-15 · W912DY26RA093
-**[SOL Amendment P00003]USFK HQ's VTC Equipment Purchase and Installation Work, Camp Humphreys, Korea** — Solicitation · 2026-09-14 · W91QVN26QA060
 **GEOTECHNICAL DRILLING AND SAMPLING, IN-SITU TESTING, AND GEOPHYSICAL INVESTIGATION AT VARIOUS LOCATIONS, REPUBLIC OF KOREA (ROK)** — Solicitation · 2026-09-14 · W912UM26RA007
 **Army Family Housing (AFH) Maintenance Services** — Sources Sought · 2026-09-11 · W91QVN26RAA86
 **Emergency Vehicle Lights and Sirens, Camp Humphreys, South Korea** — Solicitation · 2026-09-11 · W51LL526QA017
@@ -107,7 +106,7 @@ date: 2026-09-25
 **Materials Handling System at OSAN AB, Republic of Korea** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*35 active Korea-relevant notices tracked (SAM.gov sweep: 225 active Korea rows). 2 new since last briefing: W91QVN26PA054 (VTC equipment award, Camp Humphreys) and W90VN826RA046 (CAC Bldg 3974 repair award, Camp Hovey). USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
+*34 active Korea-relevant notices tracked (SAM.gov sweep: 116 active Korea rows). No new Korea-relevant notices since the last briefing. W91QVN26QA060 (USFK HQ VTC equipment, Amd P00003) retired — now isActive: false, awarded under W91QVN26PA054. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
 
 <br>
 
