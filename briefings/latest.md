@@ -1,5 +1,5 @@
 ---
-date: 2026-09-26
+date: 2026-09-27
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-09-26
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,344.10 KRW (electronic transfer)
-- 1 USD = 1,333.65 KRW (cash at branch)
+- 1 USD = 1,345.70 KRW (electronic transfer)
+- 1 USD = 1,335.22 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $55.87 | n/a |
-| OpenRouter | $3.83 | $71.17 |
+| DeepSeek | $55.79 | n/a |
+| OpenRouter | $3.79 | $71.21 |
 
 <br>
 
@@ -90,23 +90,20 @@ date: 2026-09-26
 **Propane Gas Delivery to Osan AB** — Sources Sought · 2026-09-09 · W90VN626T9988
 **Seoul Chancery, Consular, IMOT, PCC, IPC, and ESO Outbuilding Roof Replacements** — Solicitation · 2026-09-04 · 19AQMM26R0342_Seoul_Roof_Replacements_RFP
 **51st Fighter Wing Mass Notification System (Giant Voice) Maintenance Support, Osan Air Base, Republic of Korea** — Combined Synopsis/Solicitation · 2026-09-03 · W90VN626QA999
-**REQUEST FOR INFORMATION - Exploring Innovative Design and Construction Methodologies with Korean Industry** — Sources Sought · 2026-09-02 · W912UM26Z9999
 **Propylene Glycol at Osan AB** — Combined Synopsis/Solicitation · 2026-09-02 · W90VN626QA922
 **ACTIVE VEHICLE BARRIERS AND ASSOCIATED CONTROL SYSTEM  AT OSAN AIR BASE** — Solicitation · 2026-09-01 · W90VN626QA017
 **Purchase and Installation of High-Voltage Load Bank for South Korea** — Combined Synopsis/Solicitation · 2026-09-01 · W90VN926QA061
 **H2F Gym Equipment for Camp Hovey, South Korea** — Solicitation · 2026-09-01 · W51LL526QA014
 **Variety Types of Equipment For Holistic Fitness Center, Camp Humphreys, South Korea** — Solicitation · 2026-08-28 · W91QVN26QA053
-**United States Forces Korea (USFK) Travel Management Company (TMC) Services** — Justification · 2026-08-27 · 47QMCB26Q0036
 **USFK Installation Survey Equipment** — Combined Synopsis/Solicitation · 2026-08-25 · W91QVN26QA051
 **Barracks CCTV Purchase/New Installation / Replacement on Camp Bonifas, Carroll, Henry, Humphreys, Walker, Yongin and Osan AB (103 Barracks)** — Combined Synopsis/Solicitation · 2026-08-20 · W91QVN26RA046
 **BULK PETROLEUM DELIVERY SERVICE, USFK WIDE, SOUTH KOREA** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
-**Initial Outfitting & Transition (IO&T) Services AMLC APS-4 (Army Prepositioned Stocks) Warehouse, Buildings 765 & 955, Camp Carroll, Republic of Korea** — Solicitation · 2026-08-10 · W912DY26R1103
 **AMMUNITION STORAGE VESSEL Camp Humphreys, South Korea** — Sources Sought · 2026-08-10 · 20260810SOURCESSOUGHTNOTICE1
 **Sources Sought Notice to procure services for the operation, security and safety of Government aviation and ground fuel facilities in South Korea** — Sources Sought · 2026-08-07 · SPE60326R5X66
 **Materials Handling System at OSAN AB, Republic of Korea** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*34 active Korea-relevant notices tracked (SAM.gov sweep: 116 active Korea rows). No new Korea-relevant notices since the last briefing. W91QVN26QA060 (USFK HQ VTC equipment, Amd P00003) retired — now isActive: false, awarded under W91QVN26PA054. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
+*31 active Korea-relevant notices tracked (SAM.gov sweep: 113 active Korea rows). No new Korea-relevant notices since the last briefing. 3 retired — isActive: false, closed 2026-09-26: W912DY26R1103 (IO&T AMLC APS-4), 47QMCB26Q0036 (USFK TMC), W912UM26Z9999 (Korea industry RFI). USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
 
 <br>
 
