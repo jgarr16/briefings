@@ -1,5 +1,5 @@
 ---
-date: 2026-09-28
+date: 2026-09-29
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-09-28
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,345.70 KRW (electronic transfer)
-- 1 USD = 1,335.22 KRW (cash at branch)
+- 1 USD = 1,346.20 KRW (electronic transfer)
+- 1 USD = 1,335.71 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $55.37 | n/a |
+| DeepSeek | $55.26 | n/a |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -71,6 +71,7 @@ date: 2026-09-28
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**Athletic Trainer (AT) Support Personal Services - Korea/Guam** — Sources Sought · 2026-09-28 · PANHCA26P0000033369
 **Autonomous Kitchen – Robotics-as-a-Service (RaaS) -Month To Month Lease- Location: South Korea** — Combined Synopsis/Solicitation · 2026-09-24 · W90VN926QA065
 **Award Notice — USFK HQ's VTC Equipment Purchase and Installation Work, Camp Humphreys** — Award Notice · 2026-09-24 · W91QVN26PA054
 **Award Notice — Repair CAC Bldg 3974, Camp Hovey** — Award Notice · 2026-09-24 · W90VN826RA046
@@ -103,7 +104,7 @@ date: 2026-09-28
 **Materials Handling System at OSAN AB, Republic of Korea** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*31 active Korea-relevant notices tracked (SAM.gov sweep: 113 active Korea rows). No new Korea-relevant notices since the last briefing. W91QVN26QA048 re-verified active via direct solicitation-number query. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: no new USACISA-P articles.*
+*32 active Korea-relevant notices tracked (SAM.gov sweep: 114 active Korea rows). 1 new since last briefing (PANHCA26P0000033369, Athletic Trainer Support — Korea/Guam). W91QVN26QA048 and SPE60326R5X66 re-verified active via direct solicitation-number query. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: data unavailable (HTTP 403) — no new USACISA-P articles.*
 
 <br>
 
