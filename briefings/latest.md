@@ -1,5 +1,5 @@
 ---
-date: 2026-09-30
+date: 2026-10-01
 ---
 
 **US Currency Exchange Rate:**
@@ -8,7 +8,7 @@ date: 2026-09-30
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
@@ -20,7 +20,7 @@ date: 2026-09-30
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $55.24 | n/a |
+| DeepSeek | $55.17 | n/a |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -71,7 +71,9 @@ date: 2026-09-30
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**ACTIVE VEHICLE BARRIERS AND ASSOCIATED CONTROL SYSTEM  AT OSAN AIR BASE** — Presolicitation, Solicitation · 2026-09-30 · W90VN626QA017
 **Total Maintenance Service Contracts with Multiple Award Task Order Contracts** — Sources Sought · 2026-09-29 · W91QVN26RB102
+**SOLICITATION: SPE605-26-R-0219 (KOREA, POST, CAMPS & STATIONS (PC&S) 1.8V)** — Combined Synopsis/Solicitation · 2026-09-29 · SPE60526R0219
 **Laundry and Dry Cleaning Service for Osan Commissary and Osan CDC** — Sources Sought · 2026-09-29 · W90VN626QA991
 **Misawa/Osan/Kadena Instrumentation Training System (MOKITS) Sustainment** — Justification · 2026-09-29 · FA521526C0009
 **Total Maintenance for Critical Facilities at USAG Humphreys and Camp Yongin** — Solicitation · 2026-09-29 · W51LL526RA004
@@ -95,7 +97,6 @@ date: 2026-09-30
 **Seoul Chancery, Consular, IMOT, PCC, IPC, and ESO Outbuilding Roof Replacements** — Solicitation · 2026-09-04 · 19AQMM26R0342_Seoul_Roof_Replacements_RFP
 **51st Fighter Wing Mass Notification System (Giant Voice) Maintenance Support, Osan Air Base, Republic of Korea** — Combined Synopsis/Solicitation · 2026-09-03 · W90VN626QA999
 **Propylene Glycol at Osan AB** — Combined Synopsis/Solicitation · 2026-09-02 · W90VN626QA922
-**ACTIVE VEHICLE BARRIERS AND ASSOCIATED CONTROL SYSTEM  AT OSAN AIR BASE** — Solicitation · 2026-09-01 · W90VN626QA017
 **Purchase and Installation of High-Voltage Load Bank for South Korea** — Combined Synopsis/Solicitation · 2026-09-01 · W90VN926QA061
 **H2F Gym Equipment for Camp Hovey, South Korea** — Solicitation · 2026-09-01 · W51LL526QA014
 **Variety Types of Equipment For Holistic Fitness Center, Camp Humphreys, South Korea** — Solicitation · 2026-08-28 · W91QVN26QA053
@@ -107,7 +108,7 @@ date: 2026-09-30
 **Materials Handling System at OSAN AB, Republic of Korea** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*35 active Korea-relevant notices tracked (SAM.gov sweep: 117 active Korea rows). 3 new since last briefing (W91QVN26RB102, W90VN626QA991, FA521526C0009). W90VN826RA046, W91QVN26QA048, 20260810SOURCESSOUGHTNOTICE1 and SPE60326R5X66 re-verified active via direct solicitation-number query. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: data unavailable (HTTP 403) — no new USACISA-P articles.*
+*36 active Korea-relevant notices tracked (SAM.gov sweep: 119 active Korea rows). 1 new since last briefing (SPE60526R0219). W90VN826RA046, W91QVN26QA048, 20260810SOURCESSOUGHTNOTICE1 and SPE60326R5X66 re-verified active via direct solicitation-number query. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: data unavailable (HTTP 403) — no new USACISA-P articles.*
 
 <br>
 
