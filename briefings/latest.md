@@ -1,5 +1,5 @@
 ---
-date: 2026-10-02
+date: 2026-10-03
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-10-02
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,346.60 KRW (electronic transfer)
-- 1 USD = 1,336.11 KRW (cash at branch)
+- 1 USD = 1,333.90 KRW (electronic transfer)
+- 1 USD = 1,323.53 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $55.11 | n/a |
+| DeepSeek | $55.08 | n/a |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -71,7 +71,10 @@ date: 2026-10-02
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**Department of War Education Activity (DoWEA) Pacific West Region, in Camp Humphreys, Osan AB and Daegu** — Solicitation · 2026-10-02 · W91QVN27RA004
+**Maintenance of Tactical Wheeled Vehicle (411 CSB)** — Solicitation · 2026-10-02 · W51LL526RA013
 **Custodial Services at Kunsan AB** — Combined Synopsis/Solicitation · 2026-10-01 · W90VN727RA001
+**Solicitation for Total Maintenance for CP TANGO, K-16, MMS, Camp Yongin USAG Humphreys** — Solicitation · 2026-10-01 · W51LL526RA006
 **Fuel Tank Inspection, Test and Maintenance Service at Osan AB, Korea** — Solicitation · 2026-10-01 · W90VN626QA018
 **ACTIVE VEHICLE BARRIERS AND ASSOCIATED CONTROL SYSTEM  AT OSAN AIR BASE** — Presolicitation, Solicitation · 2026-09-30 · W90VN626QA017
 **Total Maintenance Service Contracts with Multiple Award Task Order Contracts** — Sources Sought · 2026-09-29 · W91QVN26RB102
@@ -91,7 +94,6 @@ date: 2026-10-02
 **GEOTECHNICAL DRILLING AND SAMPLING, IN-SITU TESTING, AND GEOPHYSICAL INVESTIGATION AT VARIOUS LOCATIONS, REPUBLIC OF KOREA (ROK)** — Solicitation · 2026-09-14 · W912UM26RA007
 **Army Family Housing (AFH) Maintenance Services** — Sources Sought · 2026-09-11 · W91QVN26RAA86
 **Emergency Vehicle Lights and Sirens, Camp Humphreys, South Korea** — Solicitation · 2026-09-11 · W51LL526QA017
-**Solicitation for Total Maintenance for CP TANGO, K-16, MMS, Camp Yongin USAG Humphreys** — Solicitation · 2026-09-11 · W51LL526RA006
 **Korea Limited Life Support (KLLS)** — Presolicitation · 2026-09-09 · W90VN926RA999
 **GOLAN 45 AMMUNITION STORAGE VESSEL Camp Humphreys, South Korea** — Solicitation · 2026-09-09 · W91QVN26RA100
 **Propane Gas Delivery to Osan AB** — Sources Sought · 2026-09-09 · W90VN626T9988
@@ -108,7 +110,7 @@ date: 2026-10-02
 **Materials Handling System at OSAN AB, Republic of Korea** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*36 active Korea-relevant notices tracked (SAM.gov sweep: 116 active Korea rows). 1 new since last briefing (W90VN727RA001). W90VN826RA046, W91QVN26QA048, 20260810SOURCESSOUGHTNOTICE1 and SPE60326R5X66 re-verified active via direct solicitation-number query; 19AQMM26R0342 (Seoul Roof Replacements) inactive — retired. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: data unavailable (HTTP 403) — no new USACISA-P articles.*
+*38 active Korea-relevant notices tracked (SAM.gov sweep: 118 active Korea rows). 2 new since last briefing (W91QVN27RA004, W51LL526RA013); W51LL526RA006 re-published 2026-10-01. W90VN826RA046, W91QVN26QA048, 20260810SOURCESSOUGHTNOTICE1 and SPE60326R5X66 re-verified active via direct solicitation-number query. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: data unavailable (HTTP 403) — no new USACISA-P articles.*
 
 <br>
 
