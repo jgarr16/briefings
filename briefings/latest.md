@@ -1,26 +1,26 @@
 ---
-date: 2026-10-05
+date: 2026-10-06
 ---
 
 **US Currency Exchange Rate:**
-- 1 USD = 1,550.88 KRW
+- 1 USD = 1,355.01 KRW
 
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,389.66 KRW
+- 1 USD = 1,388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,335.80 KRW (electronic transfer)
-- 1 USD = 1,325.40 KRW (cash at branch)
+- 1 USD = 1,330.30 KRW (electronic transfer)
+- 1 USD = 1,319.90 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.98 | n/a |
+| DeepSeek | $54.96 | n/a |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -71,6 +71,7 @@ date: 2026-10-05
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**Autonomous Kitchen – Robotics-as-a-Service (RaaS) -Month To Month Lease- Location: South Korea** — Combined Synopsis/Solicitation · 2026-10-05 · W90VN926QA065
 **Department of War Education Activity (DoWEA) Pacific West Region, in Camp Humphreys, Osan AB and Daegu** — Solicitation · 2026-10-02 · W91QVN27RA004
 **Maintenance of Tactical Wheeled Vehicle (411 CSB)** — Solicitation · 2026-10-02 · W51LL526RA013
 **Total Maintenance for Critical Facilities at USAG Humphreys and Camp Yongin** — Solicitation · 2026-10-02 · W51LL526RA004
@@ -84,7 +85,6 @@ date: 2026-10-05
 **Laundry and Dry Cleaning Service for Osan Commissary and Osan CDC** — Sources Sought · 2026-09-29 · W90VN626QA991
 **Misawa/Osan/Kadena Instrumentation Training System (MOKITS) Sustainment** — Justification · 2026-09-29 · FA521526C0009
 **Athletic Trainer (AT) Support Personal Services - Korea/Guam** — Sources Sought · 2026-09-28 · PANHCA26P0000033369
-**Autonomous Kitchen – Robotics-as-a-Service (RaaS) -Month To Month Lease- Location: South Korea** — Combined Synopsis/Solicitation · 2026-09-24 · W90VN926QA065
 **Award Notice — USFK HQ's VTC Equipment Purchase and Installation Work, Camp Humphreys** — Award Notice · 2026-09-24 · W91QVN26PA054
 **Award Notice — Repair CAC Bldg 3974, Camp Hovey** — Award Notice · 2026-09-24 · W90VN826RA046
 **Trash Removal and Disposal for Busan Area, USAG-Daegu** — Combined Synopsis/Solicitation · 2026-09-23 · W90VN926QA046
