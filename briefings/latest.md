@@ -1,5 +1,5 @@
 ---
-date: 2026-10-08
+date: 2026-10-09
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-10-08
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,326.00 KRW (electronic transfer)
-- 1 USD = 1,315.67 KRW (cash at branch)
+- 1 USD = 1,329.80 KRW (electronic transfer)
+- 1 USD = 1,319.40 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.86 | n/a |
+| DeepSeek | $54.82 | n/a |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -73,15 +73,15 @@ date: 2026-10-08
 
 **Propane Gas Delivery to Osan Air Base** — Combined Synopsis/Solicitation · 2026-10-07 · W90VN627Q1CQ7
 **Autonomous Kitchen – Robotics-as-a-Service (RaaS) -Month To Month Lease- Location: South Korea** — Combined Synopsis/Solicitation · 2026-10-05 · W90VN926QA065
-**Department of War Education Activity (DoWEA) Pacific West Region, in Camp Humphreys, Osan AB and Daegu** — Solicitation · 2026-10-02 · W91QVN27RA004
+**Department of War Education Activity (DoWEA) Pacific West Region, in Camp Humphreys, Osan AB and Daegu** — Solicitation · 2026-10-08 · W91QVN27RA004
 **Maintenance of Tactical Wheeled Vehicle (411 CSB)** — Solicitation · 2026-10-02 · W51LL526RA013
 **Total Maintenance for Critical Facilities at USAG Humphreys and Camp Yongin** — Solicitation · 2026-10-02 · W51LL526RA004
 **SOLICITATION: SPE605-26-R-0219 (KOREA, POST, CAMPS & STATIONS (PC&S) 1.8V)** — Combined Synopsis/Solicitation · 2026-10-02 · SPE60526R0219
 **Custodial Services at Kunsan AB** — Combined Synopsis/Solicitation · 2026-10-01 · W90VN727RA001
-**Solicitation for Total Maintenance for CP TANGO, K-16, MMS, Camp Yongin USAG Humphreys** — Solicitation · 2026-10-01 · W51LL526RA006
+**Solicitation for Total Maintenance for CP TANGO, K-16, MMS, Camp Yongin USAG Humphreys** — Solicitation · 2026-10-08 · W51LL526RA006
 **Fuel Tank Inspection, Test and Maintenance Service at Osan AB, Korea** — Solicitation · 2026-10-01 · W90VN626QA018
 **ACTIVE VEHICLE BARRIERS AND ASSOCIATED CONTROL SYSTEM  AT OSAN AIR BASE** — Presolicitation, Solicitation · 2026-09-30 · W90VN626QA017
-**Purchase of Vehicle Maintenance Equipment for KSC Truck Company** — Combined Synopsis/Solicitation · 2026-09-30 · W91QVN26QA048
+**Purchase of Vehicle Maintenance Equipment for KSC Truck Company** — Combined Synopsis/Solicitation · 2026-10-08 · W91QVN26QA048
 **Total Maintenance Service Contracts with Multiple Award Task Order Contracts** — Sources Sought · 2026-09-29 · W91QVN26RB102
 **Laundry and Dry Cleaning Service for Osan Commissary and Osan CDC** — Sources Sought · 2026-09-29 · W90VN626QA991
 **Misawa/Osan/Kadena Instrumentation Training System (MOKITS) Sustainment** — Justification · 2026-09-29 · FA521526C0009
@@ -111,7 +111,7 @@ date: 2026-10-08
 **Materials Handling System at OSAN AB, Republic of Korea** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*39 active Korea-relevant notices tracked (SAM.gov sweep: 115 active Korea rows). 1 new since last briefing (W90VN627Q1CQ7); W51LL526RA013, W90VN626QA018, W91QVN26QA048, W90VN826RA046, 20260810SOURCESSOUGHTNOTICE1 and SPE60326R5X66 re-verified active via direct solicitation-number query. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: data unavailable (HTTP 403) — no new USACISA-P articles.*
+*39 active Korea-relevant notices tracked (SAM.gov sweep: 115 active Korea rows). 0 new since last briefing; W91QVN27RA004, W51LL526RA006 and W91QVN26QA048 re-published 2026-10-08; W51LL526RA013, W90VN626QA018, W90VN826RA046, 20260810SOURCESSOUGHTNOTICE1 and SPE60326R5X66 re-verified active via direct solicitation-number query. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: data unavailable (HTTP 403) — no new USACISA-P articles.*
 
 <br>
 
