@@ -1,5 +1,5 @@
 ---
-date: 2026-10-10
+date: 2026-10-11
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-10-10
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,329.90 KRW (electronic transfer)
-- 1 USD = 1,319.50 KRW (cash at branch)
+- 1 USD = 1,330.70 KRW (electronic transfer)
+- 1 USD = 1,320.29 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.78 | n/a |
+| DeepSeek | $54.70 | n/a |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -125,7 +125,7 @@ date: 2026-10-10
 **Movement of Government Loaner Furnishings for Commander Fleet Activities, Chinhae (CFAC), South Korea (Base plus 4 options)** — Combined Synopsis/Solicitation · 2026-06-24 · W90VN926QA034
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*52 active Korea-relevant notices tracked. 0 new since last briefing — newest Korea activity 2026-10-08 (W91QVN27RA004, W51LL526RA006, W91QVN26QA048). W90VN626QA922 (Propylene Glycol, Osan AB) converted to Award Notice 2026-09-16. USACISA-P / CENTRIXS-K / CX-K: no active notices (latest USACISA-P action 2020, inactive). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). OrangeSlices: data unavailable (request error).*
+*53 active Korea-relevant notices tracked (SAM.gov sweep: 113 active Korea rows). 0 new since last briefing — newest Korea activity 2026-10-08 (W91QVN27RA004, W51LL526RA006, W91QVN26QA048). USACISA-P / CENTRIXS-K / CX-K: no active notices (latest USACISA-P action 2020, inactive). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). OrangeSlices: no new USACISA-P articles (newest 2025-10-27).*
 
 <br>
 
