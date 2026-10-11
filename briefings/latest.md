@@ -1,5 +1,5 @@
 ---
-date: 2026-10-11
+date: 2026-10-12
 ---
 
 **US Currency Exchange Rate:**
@@ -8,7 +8,7 @@ date: 2026-10-11
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1389.66 KRW
+- 1 USD = 1388.12 KRW
 
 <br>
 
@@ -20,7 +20,7 @@ date: 2026-10-11
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.70 | n/a |
+| DeepSeek | $54.60 | n/a |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -49,21 +49,25 @@ date: 2026-10-11
 
 **🟢 Latest News**
 
-**How Jennifer Sample Is Equipping Empower AI for the Agentic Era** — September 21, 2026 · CTO Jennifer Sample discusses pre-built mission accelerators, cleared-talent retention and DevSecOps in an ExecutiveBiz interview.
-[Read more →](https://www.empower.ai/articles/equipping-empower-ai-for-the-agentic-era)
+**Empower AI wins $205M DCSA IT support contract** — October 8, 2026 · Operational AI for the agency that vets and protects the nation's trusted workforce.
+[Read more →](https://www.empower.ai/insights/empower-ai-wins-205-million-dcsa-contract/)
 
 <br>
 
 **🟢 Leadership Team**
 
-[View team →](https://www.empower.ai/leadership-team)
+[View team →](https://www.empower.ai/company/#leadership)
 
 - CEO — Jeff Bohling
-- Growth — Juan Toves
-- CFO — Pamela Rothka
 - CTO — Jennifer Sample, Ph.D.
-- General Counsel — Jim Rittinger
+- CFO — Pamela Rothka
+- General Counsel & Corporate Secretary — Jim Rittinger
+- Chief Growth Officer — Juan Toves
 - CIO — Vasili Ikonomidis
+- Senior VP, Operations — Carla Harter
+- VP, Human Resources — Laura Evans
+- VP, Military Services Business Unit — Ryan Hopper
+- VP, Federal Civilian — Katie Sutton
 
 <br>
 
@@ -91,7 +95,6 @@ date: 2026-10-11
 **Trash Removal and Disposal for Busan Area, USAG-Daegu** — Combined Synopsis/Solicitation · 2026-09-23 · W90VN926QA046
 **Office furniture for KSC** — Combined Synopsis/Solicitation · 2026-09-21 · W91QVN26QA045
 **Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan Casey** — Combined Synopsis/Solicitation · 2026-09-18 · W90VN827RA001
-**Award Notice — Propylene Glycol at Osan AB** — Award Notice · 2026-09-16 · W90VN626QA922
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-09-15 · W912DY26RA093
 **GEOTECHNICAL DRILLING AND SAMPLING, IN-SITU TESTING, AND GEOPHYSICAL INVESTIGATION AT VARIOUS LOCATIONS, REPUBLIC OF KOREA (ROK)** — Solicitation · 2026-09-14 · W912UM26RA007
 **Emergency Vehicle Lights and Sirens, Camp Humphreys, South Korea** — Solicitation · 2026-09-11 · W51LL526QA017
@@ -100,12 +103,14 @@ date: 2026-10-11
 **GOLAN 45 AMMUNITION STORAGE VESSEL Camp Humphreys, South Korea** — Solicitation · 2026-09-09 · W91QVN26RA100
 **Propane Gas Delivery to Osan AB** — Sources Sought · 2026-09-09 · W90VN626T9988
 **51st Fighter Wing Mass Notification System (Giant Voice) Maintenance Support, Osan Air Base, Republic of Korea** — Combined Synopsis/Solicitation · 2026-09-03 · W90VN626QA999
+**Propylene Glycol at Osan AB** — Combined Synopsis/Solicitation · 2026-09-02 · W90VN626QA922
 **H2F Gym Equipment for Camp Hovey, South Korea** — Solicitation · 2026-09-01 · W51LL526QA014
 **Purchase and Installation of High-Voltage Load Bank for South Korea** — Combined Synopsis/Solicitation · 2026-09-01 · W90VN926QA061
 **Variety Types of Equipment For Holistic Fitness Center, Camp Humphreys, South Korea** — Solicitation · 2026-08-28 · W91QVN26QA053
 **USFK Installation Survey Equipment** — Combined Synopsis/Solicitation · 2026-08-25 · W91QVN26QA051
 **Barracks CCTV Purchase/New Installation / Replacement on Camp Bonifas, Carroll, Henry, Humphreys, Walker, Yongin and Osan AB (103 Barracks)** — Combined Synopsis/Solicitation · 2026-08-20 · W91QVN26RA046
 **BULK PETROLEUM DELIVERY SERVICE, USFK WIDE, SOUTH KOREA** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
+**Award Notification: Custodial Services for Osan Commissary and CDC** — Award Notice, Combined Synopsis/Solicitation · 2026-08-12 · W90VN626QA006
 **AMMUNITION STORAGE VESSEL Camp Humphreys, South Korea** — Sources Sought · 2026-08-10 · 20260810SOURCESSOUGHTNOTICE1
 **Sources Sought Notice to procure services for the operation, security and safety of Government aviation and ground fuel facilities in South Korea** — Sources Sought · 2026-08-07 · SPE603-26-R-5X66
 **Materials Handling System at OSAN AB, Republic of Korea** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
@@ -119,13 +124,12 @@ date: 2026-10-11
 **REPAIR DELUGE FIRE SUPPRESSION SYSTEM, S-1615, KWANGSARI (PWO #307473)** — Award Notice · 2026-07-27 · W90VN826RA025
 **Install 16 FPCON Signs on USAG-Humphreys** — Sources Sought · 2026-07-23 · W91QVN26MXXXX
 **Office Furniture for B6145 at Camp Humphreys, South Korea** — Combined Synopsis/Solicitation · 2026-07-15 · W51LL526QA011
-**Custodial Services for Osan Commissary and CDC AT OSAN AFB, KOREA.** — Combined Synopsis/Solicitation · 2026-07-07 · W90VN626QA006
 **Fuels Leak Detection Testing - South Korea CY27** — Sources Sought · 2026-06-30 · PANNWD-26-P-0000-031673
 **Rental of Two Straight-boom Hot-line Aerial Lift Trucks for DPW USAG Daegu** — Combined Synopsis/Solicitation · 2026-06-25 · W90VN926QA045
 **Movement of Government Loaner Furnishings for Commander Fleet Activities, Chinhae (CFAC), South Korea (Base plus 4 options)** — Combined Synopsis/Solicitation · 2026-06-24 · W90VN926QA034
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*53 active Korea-relevant notices tracked (SAM.gov sweep: 113 active Korea rows). 0 new since last briefing — newest Korea activity 2026-10-08 (W91QVN27RA004, W51LL526RA006, W91QVN26QA048). USACISA-P / CENTRIXS-K / CX-K: no active notices (latest USACISA-P action 2020, inactive). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). OrangeSlices: no new USACISA-P articles (newest 2025-10-27).*
+*53 active Korea-relevant notices tracked (SAM.gov sweep: 113 active Korea rows). 0 new since last briefing — newest Korea activity 2026-10-08 (W91QVN27RA004, W51LL526RA006, W91QVN26QA048). USACISA-P / CENTRIXS-K / CX-K: no active notices (latest USACISA-P action 2020, inactive). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). OrangeSlices: data unavailable (403) — no new USACISA-P articles.*
 
 <br>
 
