@@ -1,5 +1,5 @@
 ---
-date: 2026-10-13
+date: 2026-10-14
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-10-13
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1389.66 KRW
+- 1 USD = 1388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,322.50 KRW (electronic transfer)
-- 1 USD = 1,312.13 KRW (cash at branch)
+- 1 USD = 1,328.70 KRW (electronic transfer)
+- 1 USD = 1,318.32 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.48 | n/a |
+| DeepSeek | $54.44 | n/a |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -64,7 +64,7 @@ date: 2026-10-13
 - General Counsel & Corporate Secretary — Jim Rittinger
 - Chief Growth Officer — Juan Toves
 - CIO — Vasili Ikonomidis
-- Senior VP, Operations — Carla Harter
+- VP, Fourth Estate Business Unit — Carla Harter
 - VP, Human Resources — Laura Evans
 - VP, Military Services Business Unit — Ryan Hopper
 - VP, Federal Civilian — Katie Sutton
@@ -75,6 +75,8 @@ date: 2026-10-13
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**Personal Protective Equipment For MSC-K, South Korea** — Combined Synopsis/Solicitation · 2026-10-13 · W51LL527QA002
+**Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan Casey** — Combined Synopsis/Solicitation · 2026-10-13 · W90VN827RA001
 **Department of War Education Activity (DoWEA) Pacific West Region, in Camp Humphreys, Osan AB and Daegu** — Solicitation · 2026-10-08 · W91QVN27RA004
 **Solicitation for Total Maintenance for CP TANGO, K-16, MMS, Camp Yongin USAG Humphreys** — Solicitation · 2026-10-08 · W51LL526RA006
 **Purchase of Vehicle Maintenance Equipment for KSC Truck Company** — Combined Synopsis/Solicitation · 2026-10-08 · W91QVN26QA048
@@ -94,7 +96,6 @@ date: 2026-10-13
 **Award Notice — Repair CAC Bldg 3974, Camp Hovey** — Award Notice · 2026-09-24 · W90VN826RA046
 **Trash Removal and Disposal for Busan Area, USAG-Daegu** — Combined Synopsis/Solicitation · 2026-09-23 · W90VN926QA046
 **Office furniture for KSC** — Combined Synopsis/Solicitation · 2026-09-21 · W91QVN26QA045
-**Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan Casey** — Combined Synopsis/Solicitation · 2026-09-18 · W90VN827RA001
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-09-15 · W912DY26RA093
 **GEOTECHNICAL DRILLING AND SAMPLING, IN-SITU TESTING, AND GEOPHYSICAL INVESTIGATION AT VARIOUS LOCATIONS, REPUBLIC OF KOREA (ROK)** — Solicitation · 2026-09-14 · W912UM26RA007
 **Emergency Vehicle Lights and Sirens, Camp Humphreys, South Korea** — Solicitation · 2026-09-11 · W51LL526QA017
@@ -129,7 +130,7 @@ date: 2026-10-13
 **Movement of Government Loaner Furnishings for Commander Fleet Activities, Chinhae (CFAC), South Korea (Base plus 4 options)** — Combined Synopsis/Solicitation · 2026-06-24 · W90VN926QA034
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*53 active Korea-relevant notices tracked (SAM.gov sweep: 113 active Korea rows). 0 new since last briefing — newest Korea activity 2026-10-08 (W91QVN27RA004, W51LL526RA006, W91QVN26QA048). USACISA-P / CENTRIXS-K / CX-K: no active notices (latest USACISA-P action 2020, inactive). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). OrangeSlices: data unavailable (403) — no new USACISA-P articles.*
+*54 active Korea-relevant notices tracked (SAM.gov sweep: 113 active Korea rows). 1 new since last briefing — newest Korea activity 2026-10-13 (W51LL527QA002, W90VN827RA001). USACISA-P / CENTRIXS-K / CX-K: no active notices (latest USACISA-P action 2020, inactive). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). OrangeSlices: data unavailable (403) — no new USACISA-P articles.*
 
 <br>
 
