@@ -1,5 +1,5 @@
 ---
-date: 2026-10-15
+date: 2026-10-16
 ---
 
 **US Currency Exchange Rate:**
@@ -8,26 +8,26 @@ date: 2026-10-15
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,389.66 KRW
+- 1 USD = 1388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,331.00 KRW (electronic transfer)
-- 1 USD = 1,320.58 KRW (cash at branch)
+- 1 USD = 1,330.30 KRW (electronic transfer)
+- 1 USD = 1,319.90 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.38 | n/a |
+| DeepSeek | $54.82 | n/a |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
 
 | Number | Balance | Minutes |
 |--------|---------|---------|
-| +1 (707) 945 2971 | $19.73 | 300/300 |
+| +1 (707) 945 2971 | $19.65 | 300/300 |
 | +1 (650) 309 9758 | $0 | 300/300 |
 | +1 (650) 390 5537 | $0 | Unlimited |
 
@@ -56,7 +56,7 @@ date: 2026-10-15
 
 **🟢 Leadership Team**
 
-[View team →](https://www.empower.ai/company/#leadership)
+[View team →](https://www.empower.ai/leadership)
 
 - CEO — Jeff Bohling
 - CTO — Jennifer Sample, Ph.D.
@@ -129,7 +129,7 @@ date: 2026-10-15
 **Movement of Government Loaner Furnishings for Commander Fleet Activities, Chinhae (CFAC), South Korea (Base plus 4 options)** — Combined Synopsis/Solicitation · 2026-06-24 · W90VN926QA034
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*53 active Korea-relevant notices tracked (SAM.gov sweep: 110 active Korea rows). 0 new since last briefing — newest Korea activity 2026-10-13 (W51LL527QA002, W90VN827RA001). USACISA-P / CENTRIXS-K / CX-K: no active notices (latest USACISA-P action 2020, inactive). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). OrangeSlices: data unavailable (403) — no new USACISA-P articles.*
+*53 active Korea-relevant notices tracked. 0 new solicitations since last briefing — newest Korea activity 2026-10-15 (W90VN626QA017 amendment, originally 2026-09-30); newest new posting 2026-10-13 (W51LL527QA002, W90VN827RA001). USACISA-P / CENTRIXS-K / CX-K: no active notices (USACISA-P latest 2020, CENTRIXS-K 2025-06, CX-K 2022 — all inactive). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). OrangeSlices: data unavailable (403) — no new USACISA-P articles.*
 
 <br>
 
