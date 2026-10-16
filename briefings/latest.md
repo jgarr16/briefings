@@ -1,5 +1,5 @@
 ---
-date: 2026-10-16
+date: 2026-10-17
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-10-16
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,330.30 KRW (electronic transfer)
-- 1 USD = 1,319.90 KRW (cash at branch)
+- 1 USD = 1,323.00 KRW (electronic transfer)
+- 1 USD = 1,312.62 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.82 | n/a |
+| DeepSeek | $54.78 | n/a |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -56,7 +56,7 @@ date: 2026-10-16
 
 **🟢 Leadership Team**
 
-[View team →](https://www.empower.ai/leadership)
+[View team →](https://www.empower.ai/company/#leadership)
 
 - CEO — Jeff Bohling
 - CTO — Jennifer Sample, Ph.D.
@@ -75,8 +75,10 @@ date: 2026-10-16
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan Casey** — Combined Synopsis/Solicitation · 2026-10-16 · W90VN827RA001
+**ACTIVE VEHICLE BARRIERS AND ASSOCIATED CONTROL SYSTEM AT OSAN AIR BASE** — Presolicitation, Solicitation · 2026-10-15 · W90VN626QA017
+**Fuel Tank Inspection, Test and Maintenance Service at Osan AB, Korea** — Solicitation · 2026-10-15 · W90VN626QA018
 **Personal Protective Equipment For MSC-K, South Korea** — Combined Synopsis/Solicitation · 2026-10-13 · W51LL527QA002
-**Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan Casey** — Combined Synopsis/Solicitation · 2026-10-13 · W90VN827RA001
 **Department of War Education Activity (DoWEA) Pacific West Region, in Camp Humphreys, Osan AB and Daegu** — Solicitation · 2026-10-08 · W91QVN27RA004
 **Solicitation for Total Maintenance for CP TANGO, K-16, MMS, Camp Yongin USAG Humphreys** — Solicitation · 2026-10-08 · W51LL526RA006
 **Purchase of Vehicle Maintenance Equipment for KSC Truck Company** — Combined Synopsis/Solicitation · 2026-10-08 · W91QVN26QA048
@@ -86,8 +88,6 @@ date: 2026-10-16
 **Maintenance of Tactical Wheeled Vehicle (411 CSB)** — Solicitation · 2026-10-02 · W51LL526RA013
 **Total Maintenance for Critical Facilities at USAG Humphreys and Camp Yongin** — Solicitation · 2026-10-02 · W51LL526RA004
 **Custodial Services at Kunsan AB** — Combined Synopsis/Solicitation · 2026-10-01 · W90VN727RA001
-**Fuel Tank Inspection, Test and Maintenance Service at Osan AB, Korea** — Solicitation · 2026-10-01 · W90VN626QA018
-**ACTIVE VEHICLE BARRIERS AND ASSOCIATED CONTROL SYSTEM AT OSAN AIR BASE** — Solicitation · 2026-09-30 · W90VN626QA017
 **Laundry and Dry Cleaning Service for Osan Commissary and Osan CDC** — Sources Sought · 2026-09-29 · W90VN626QA991
 **Total Maintenance Service Contracts with Multiple Award Task Order Contracts** — Sources Sought · 2026-09-29 · W91QVN26RB102
 **Misawa/Osan/Kadena Instrumentation Training System (MOKITS) Sustainment** — Justification · 2026-09-29 · FA521526C0009
@@ -129,7 +129,7 @@ date: 2026-10-16
 **Movement of Government Loaner Furnishings for Commander Fleet Activities, Chinhae (CFAC), South Korea (Base plus 4 options)** — Combined Synopsis/Solicitation · 2026-06-24 · W90VN926QA034
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*53 active Korea-relevant notices tracked. 0 new solicitations since last briefing — newest Korea activity 2026-10-15 (W90VN626QA017 amendment, originally 2026-09-30); newest new posting 2026-10-13 (W51LL527QA002, W90VN827RA001). USACISA-P / CENTRIXS-K / CX-K: no active notices (USACISA-P latest 2020, CENTRIXS-K 2025-06, CX-K 2022 — all inactive). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). OrangeSlices: data unavailable (403) — no new USACISA-P articles.*
+*53 active Korea-relevant notices tracked (SAM.gov sweep: 111 active Korea rows). 0 new solicitations since last briefing — newest Korea activity 2026-10-16 (W90VN827RA001 amendment); newest new posting 2026-10-13 (W51LL527QA002). USACISA-P / CENTRIXS-K / CX-K: no active notices (USACISA-P latest 2020, CENTRIXS-K 2025-06, CX-K 2022 — all inactive). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: data unavailable (403) — no new USACISA-P articles.*
 
 <br>
 
