@@ -1,5 +1,5 @@
 ---
-date: 2026-10-17
+date: 2026-10-18
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-10-17
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1389.66 KRW
+- 1 USD = 1388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,323.00 KRW (electronic transfer)
-- 1 USD = 1,312.62 KRW (cash at branch)
+- 1 USD = 1,324.70 KRW (electronic transfer)
+- 1 USD = 1,314.39 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.78 | n/a |
+| DeepSeek | $54.71 | — |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -51,6 +51,8 @@ date: 2026-10-17
 
 **Empower AI wins $205M DCSA IT support contract** — October 8, 2026 · Operational AI for the agency that vets and protects the nation's trusted workforce.
 [Read more →](https://www.empower.ai/insights/empower-ai-wins-205-million-dcsa-contract/)
+
+No newer release — Oct 8 still the top item.
 
 <br>
 
@@ -129,8 +131,12 @@ date: 2026-10-17
 **Movement of Government Loaner Furnishings for Commander Fleet Activities, Chinhae (CFAC), South Korea (Base plus 4 options)** — Combined Synopsis/Solicitation · 2026-06-24 · W90VN926QA034
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*53 active Korea-relevant notices tracked (SAM.gov sweep: 111 active Korea rows). 0 new solicitations since last briefing — newest Korea activity 2026-10-16 (W90VN827RA001 amendment); newest new posting 2026-10-13 (W51LL527QA002). USACISA-P / CENTRIXS-K / CX-K: no active notices (USACISA-P latest 2020, CENTRIXS-K 2025-06, CX-K 2022 — all inactive). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01). MAPS awards expected ~Sep 2026. OrangeSlices: data unavailable (403) — no new USACISA-P articles.*
+*53 tracked Korea-relevant notices (SAM.gov sweep: 172 active Korea rows). 0 new solicitations since last briefing — newest Korea activity 2026-10-16 (W90VN827RA001); newest new posting 2026-10-13 (W51LL527QA002). USACISA-P / CENTRIXS-K / CX-K: 0 active notices (all inactive — USACISA-P latest 2020, CENTRIXS-K 2025-06, CX-K 2022). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01, ends 2026-04-30). OrangeSlices: data unavailable (403).*
 
 <br>
 
 **🟢 Insights** — [Browse all →](https://www.empower.ai/insights)
+
+Newest items: *Client Zero: We Use It First* (Sep 24) · *Equipping Empower AI for the agentic era* (Sep 21) · *Empower AI wins $205M DCSA contract* (Oct 8).
+
+<br>
