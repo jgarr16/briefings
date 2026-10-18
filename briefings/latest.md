@@ -1,5 +1,5 @@
 ---
-date: 2026-10-18
+date: 2026-10-19
 ---
 
 **US Currency Exchange Rate:**
@@ -8,7 +8,7 @@ date: 2026-10-18
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1,389.66 KRW
 
 <br>
 
@@ -131,7 +131,7 @@ No newer release — Oct 8 still the top item.
 **Movement of Government Loaner Furnishings for Commander Fleet Activities, Chinhae (CFAC), South Korea (Base plus 4 options)** — Combined Synopsis/Solicitation · 2026-06-24 · W90VN926QA034
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*53 tracked Korea-relevant notices (SAM.gov sweep: 172 active Korea rows). 0 new solicitations since last briefing — newest Korea activity 2026-10-16 (W90VN827RA001); newest new posting 2026-10-13 (W51LL527QA002). USACISA-P / CENTRIXS-K / CX-K: 0 active notices (all inactive — USACISA-P latest 2020, CENTRIXS-K 2025-06, CX-K 2022). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01, ends 2026-04-30). OrangeSlices: data unavailable (403).*
+*53 tracked Korea-relevant notices (SAM.gov sweep: 111 active Korea rows). 0 new solicitations since last briefing — newest Korea activity 2026-10-16 (W90VN827RA001); newest new posting 2026-10-13 (W51LL527QA002). USACISA-P / CENTRIXS-K / CX-K: 0 active notices (all inactive — USACISA-P latest 2020, CENTRIXS-K 2025-06, CX-K 2022). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01, ends 2026-04-30). OrangeSlices: no new USACISA-P articles (2 results, both 2025).*
 
 <br>
 
