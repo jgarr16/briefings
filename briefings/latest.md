@@ -1,5 +1,5 @@
 ---
-date: 2026-10-19
+date: 2026-10-20
 ---
 
 **US Currency Exchange Rate:**
@@ -8,13 +8,13 @@ date: 2026-10-19
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,389.66 KRW
+- 1 USD = 1,388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,324.70 KRW (electronic transfer)
-- 1 USD = 1,314.39 KRW (cash at branch)
+- 1 USD = 1,320.00 KRW (electronic transfer)
+- 1 USD = 1,309.68 KRW (cash at branch)
 
 <br>
 
@@ -77,6 +77,8 @@ No newer release — Oct 8 still the top item.
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**USFK C4I Communication Tower and Facility Maintenance CY27** — Solicitation · 2026-10-19 · W91QVN26QXXXX
+**Purchase two SUVs for Fire Department at Cp Humphreys** — Solicitation · 2026-10-19 · W51LL527QA001
 **Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan Casey** — Combined Synopsis/Solicitation · 2026-10-16 · W90VN827RA001
 **ACTIVE VEHICLE BARRIERS AND ASSOCIATED CONTROL SYSTEM AT OSAN AIR BASE** — Presolicitation, Solicitation · 2026-10-15 · W90VN626QA017
 **Fuel Tank Inspection, Test and Maintenance Service at Osan AB, Korea** — Solicitation · 2026-10-15 · W90VN626QA018
@@ -84,7 +86,7 @@ No newer release — Oct 8 still the top item.
 **Department of War Education Activity (DoWEA) Pacific West Region, in Camp Humphreys, Osan AB and Daegu** — Solicitation · 2026-10-08 · W91QVN27RA004
 **Solicitation for Total Maintenance for CP TANGO, K-16, MMS, Camp Yongin USAG Humphreys** — Solicitation · 2026-10-08 · W51LL526RA006
 **Purchase of Vehicle Maintenance Equipment for KSC Truck Company** — Combined Synopsis/Solicitation · 2026-10-08 · W91QVN26QA048
-**Propane Gas Delivery to Osan Air Base** — Combined Synopsis/Solicitation · 2026-10-07 · W90VN627Q1CQ7
+**Propane Gas Delivery to Osan Air Base** — Combined Synopsis/Solicitation · 2026-10-19 · W90VN627Q1CQ7
 **Autonomous Kitchen – Robotics-as-a-Service (RaaS) -Month To Month Lease- Location: South Korea** — Combined Synopsis/Solicitation · 2026-10-05 · W90VN926QA065
 **SOLICITATION: SPE605-26-R-0219 (KOREA, POST, CAMPS & STATIONS (PC&S) 1.8V)** — Combined Synopsis/Solicitation · 2026-10-02 · SPE60526R0219
 **Maintenance of Tactical Wheeled Vehicle (411 CSB)** — Solicitation · 2026-10-02 · W51LL526RA013
@@ -131,7 +133,7 @@ No newer release — Oct 8 still the top item.
 **Movement of Government Loaner Furnishings for Commander Fleet Activities, Chinhae (CFAC), South Korea (Base plus 4 options)** — Combined Synopsis/Solicitation · 2026-06-24 · W90VN926QA034
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
 
-*53 tracked Korea-relevant notices (SAM.gov sweep: 111 active Korea rows). 0 new solicitations since last briefing — newest Korea activity 2026-10-16 (W90VN827RA001); newest new posting 2026-10-13 (W51LL527QA002). USACISA-P / CENTRIXS-K / CX-K: 0 active notices (all inactive — USACISA-P latest 2020, CENTRIXS-K 2025-06, CX-K 2022). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01, ends 2026-04-30). OrangeSlices: no new USACISA-P articles (2 results, both 2025).*
+*55 tracked Korea-relevant notices (SAM.gov sweep: 112 active Korea rows). 2 new solicitations since last briefing — newest Korea activity 2026-10-19 (W91QVN26QXXXX USFK C4I Communication Tower and Facility Maintenance CY27; W51LL527QA001 Purchase two SUVs for Fire Department at Cp Humphreys). USACISA-P / CENTRIXS-K / CX-K: 0 active notices (all inactive — USACISA-P latest 2020, CENTRIXS-K 2025-06, CX-K 2022). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01, ends 2026-04-30). OrangeSlices: no new USACISA-P articles (site returned 403 this run).*
 
 <br>
 
