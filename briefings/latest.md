@@ -1,5 +1,5 @@
 ---
-date: 2026-10-21
+date: 2026-10-22
 ---
 
 **US Currency Exchange Rate:**
@@ -8,13 +8,13 @@ date: 2026-10-21
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,389.66 KRW
+- 1 USD = 1388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,313.70 KRW (electronic transfer)
-- 1 USD = 1,303.49 KRW (cash at branch)
+- 1 USD = 1,314.00 KRW (electronic transfer)
+- 1 USD = 1,303.78 KRW (cash at branch)
 
 <br>
 
@@ -52,7 +52,7 @@ date: 2026-10-21
 **Empower AI wins $205M DCSA IT support contract** — October 8, 2026 · Operational AI for the agency that vets and protects the nation's trusted workforce.
 [Read more →](https://www.empower.ai/insights/empower-ai-wins-205-million-dcsa-contract/)
 
-No newer release — Oct 8 still the top item.
+No newer release — Oct 8 still the top item (insights newest = Oct 8).
 
 <br>
 
@@ -80,65 +80,63 @@ No newer release — Oct 8 still the top item.
 **Personal Protective Equipment For MSC-K, South Korea** — Combined Synopsis/Solicitation · 2026-10-20 · W51LL527QA002
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-20 · W912DY26RA093
 **USFK C4I Communication Tower and Facility Maintenance CY27** — Solicitation · 2026-10-19 · W91QVN26QXXXX
-**Purchase two SUVs for Fire Department at Cp Humphreys** — Solicitation · 2026-10-19 · W51LL527QA001
 **Propane Gas Delivery to Osan Air Base** — Combined Synopsis/Solicitation · 2026-10-19 · W90VN627Q1CQ7
-**Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan Casey** — Combined Synopsis/Solicitation · 2026-10-16 · W90VN827RA001
-**ACTIVE VEHICLE BARRIERS AND ASSOCIATED CONTROL SYSTEM AT OSAN AIR BASE** — Presolicitation, Solicitation · 2026-10-15 · W90VN626QA017
-**Fuel Tank Inspection, Test and Maintenance Service at Osan AB, Korea** — Solicitation · 2026-10-15 · W90VN626QA018
-**Department of War Education Activity (DoWEA) Pacific West Region, in Camp Humphreys, Osan AB and Daegu** — Solicitation · 2026-10-08 · W91QVN27RA004
-**Solicitation for Total Maintenance for CP TANGO, K-16, MMS, Camp Yongin USAG Humphreys** — Solicitation · 2026-10-08 · W51LL526RA006
-**Purchase of Vehicle Maintenance Equipment for KSC Truck Company** — Combined Synopsis/Solicitation · 2026-10-08 · W91QVN26QA048
+**USNS SACAGAWEA (T-AKE 2) VOYAGE REPAIR AVAILABILITY KR** — Presolicitation · 2026-10-18 · N62649_MSCOK_27001
+**COOK SERVICES** — Presolicitation · 2026-10-16 · 19KS7027Q0005
 **Autonomous Kitchen – Robotics-as-a-Service (RaaS) -Month To Month Lease- Location: South Korea** — Combined Synopsis/Solicitation · 2026-10-05 · W90VN926QA065
 **SOLICITATION: SPE605-26-R-0219 (KOREA, POST, CAMPS & STATIONS (PC&S) 1.8V)** — Combined Synopsis/Solicitation · 2026-10-02 · SPE60526R0219
-**Maintenance of Tactical Wheeled Vehicle (411 CSB)** — Solicitation · 2026-10-02 · W51LL526RA013
-**Total Maintenance for Critical Facilities at USAG Humphreys and Camp Yongin** — Solicitation · 2026-10-02 · W51LL526RA004
 **Custodial Services at Kunsan AB** — Combined Synopsis/Solicitation · 2026-10-01 · W90VN727RA001
-**Laundry and Dry Cleaning Service for Osan Commissary and Osan CDC** — Sources Sought · 2026-09-29 · W90VN626QA991
-**Total Maintenance Service Contracts with Multiple Award Task Order Contracts** — Sources Sought · 2026-09-29 · W91QVN26RB102
-**Misawa/Osan/Kadena Instrumentation Training System (MOKITS) Sustainment** — Justification · 2026-09-29 · FA521526C0009
 **Athletic Trainer (AT) Support Personal Services - Korea/Guam** — Sources Sought · 2026-09-28 · PANHCA26P0000033369
-**Award Notice — Repair CAC Bldg 3974, Camp Hovey** — Award Notice · 2026-09-24 · W90VN826RA046
-**Trash Removal and Disposal for Busan Area, USAG-Daegu** — Combined Synopsis/Solicitation · 2026-09-23 · W90VN926QA046
-**Office furniture for KSC** — Combined Synopsis/Solicitation · 2026-09-21 · W91QVN26QA045
 **GEOTECHNICAL DRILLING AND SAMPLING, IN-SITU TESTING, AND GEOPHYSICAL INVESTIGATION AT VARIOUS LOCATIONS, REPUBLIC OF KOREA (ROK)** — Solicitation · 2026-09-14 · W912UM26RA007
 **Emergency Vehicle Lights and Sirens, Camp Humphreys, South Korea** — Solicitation · 2026-09-11 · W51LL526QA017
-**Army Family Housing (AFH) Maintenance Services** — Sources Sought · 2026-09-11 · W91QVN26RAA86
 **Korea Limited Life Support (KLLS)** — Presolicitation · 2026-09-09 · W90VN926RA999
 **GOLAN 45 AMMUNITION STORAGE VESSEL Camp Humphreys, South Korea** — Solicitation · 2026-09-09 · W91QVN26RA100
-**Propane Gas Delivery to Osan AB** — Sources Sought · 2026-09-09 · W90VN626T9988
 **51st Fighter Wing Mass Notification System (Giant Voice) Maintenance Support, Osan Air Base, Republic of Korea** — Combined Synopsis/Solicitation · 2026-09-03 · W90VN626QA999
-**Propylene Glycol at Osan AB** — Combined Synopsis/Solicitation · 2026-09-02 · W90VN626QA922
-**H2F Gym Equipment for Camp Hovey, South Korea** — Solicitation · 2026-09-01 · W51LL526QA014
 **Purchase and Installation of High-Voltage Load Bank for South Korea** — Combined Synopsis/Solicitation · 2026-09-01 · W90VN926QA061
+**H2F Gym Equipment for Camp Hovey, South Korea** — Solicitation · 2026-09-01 · W51LL526QA014
 **Variety Types of Equipment For Holistic Fitness Center, Camp Humphreys, South Korea** — Solicitation · 2026-08-28 · W91QVN26QA053
-**USFK Installation Survey Equipment** — Combined Synopsis/Solicitation · 2026-08-25 · W91QVN26QA051
-**Barracks CCTV Purchase/New Installation / Replacement on Camp Bonifas, Carroll, Henry, Humphreys, Walker, Yongin and Osan AB (103 Barracks)** — Combined Synopsis/Solicitation · 2026-08-20 · W91QVN26RA046
+**Cargo-sized X-Ray Relocation and Maintenance Service** — Combined Synopsis/Solicitation · 2026-08-20 · W91QVN26RA096
+**Repair 3rd Generation HAS.** — Award Notice · 2026-08-19 · W90VN726RA017
 **BULK PETROLEUM DELIVERY SERVICE, USFK WIDE, SOUTH KOREA** — Combined Synopsis/Solicitation · 2026-08-18 · W90VN926RA074
-**Award Notification: Custodial Services for Osan Commissary and CDC** — Award Notice, Combined Synopsis/Solicitation · 2026-08-12 · W90VN626QA006
+**RFQ PERSONAL PROTECTIVE EQUIPMENT PURCHASE** — Combined Synopsis/Solicitation · 2026-08-12 · W90VN926QA058
 **AMMUNITION STORAGE VESSEL Camp Humphreys, South Korea** — Sources Sought · 2026-08-10 · 20260810SOURCESSOUGHTNOTICE1
-**Sources Sought Notice to procure services for the operation, security and safety of Government aviation and ground fuel facilities in South Korea** — Sources Sought · 2026-08-07 · SPE603-26-R-5X66
+**Sources Sought Notice to procure services for the operation, security and safety of Government aviation and ground fuel facilities in South Korea** — Sources Sought · 2026-08-07 · SPE60326R5X66
+**Repair Dispatch Center** — Combined Synopsis/Solicitation · 2026-08-05 · W90VN826RA042
 **Materials Handling System at OSAN AB, Republic of Korea** — Combined Synopsis/Solicitation · 2026-08-04 · FA860426QB006
 **(LCS) GROUND MAINTENANCE SERVICES, USAG-DAEGU AREA WIDE, KOREA** — Combined Synopsis/Solicitation · 2026-08-04 · W90VN926QA049
 **REPAIR WEB BUILDING S-2141 AND 2140, CAMP CASEY** — Combined Synopsis/Solicitation · 2026-08-03 · W90VN826RA037
-**Presolicitation Notice - Illumina NextSeq 2000 Sequencing System** — Presolicitation · 2026-08-03 · HT942726QJBS4
 **REPAIR CO HQS OFFICE BUILDING S-3683, CAMP HOVEY** — Combined Synopsis/Solicitation · 2026-07-30 · W90VN826RA041
-**Sources Sought Notice to Procure Services for the Operation, Security, and Safety of Government Aviation and Ground Fuel Facilities at Kadena AB, Japan; Misawa AB, Japan and Osan AB, Korea** — Sources Sought · 2026-07-29 · SPE603-26-R-5X65
+**Sources Sought Notice to Procure Services for the Operation, Security, and Safety of Government Aviation and Ground Fuel Facilities at Kadena AB, Japan; Misawa AB, Japan and Osan AB, Korea** — Sources Sought · 2026-07-29 · SPE60326R5X65
+**Vindicator V5 Hardware Upgrade.** — Combined Synopsis/Solicitation · 2026-07-28 · W90VN726QA009
 **Personal Protective Equipment (PPE) Camp Humphreys, South Korea** — Solicitation · 2026-07-28 · W91QVN26QA046
+**Auto Mechanic Tool Set RFQ : Updated w/ RFI Answers** — Combined Synopsis/Solicitation · 2026-07-28 · W90VN926QA055
 **Repair Deteriorated Road and Paving Camp Casey and Hovey** — Award Notice · 2026-07-27 · W90VN826RA033
 **REPAIR DELUGE FIRE SUPPRESSION SYSTEM, S-1615, KWANGSARI (PWO #307473)** — Award Notice · 2026-07-27 · W90VN826RA025
-**Install 16 FPCON Signs on USAG-Humphreys** — Sources Sought · 2026-07-23 · W91QVN26MXXXX
+**Air Filters** — Solicitation · 2026-07-23 · W91QVN26QA043
+**REPAIR MAINTENANCE SHOP TO USE TEMF S-3505, CP HOVEY** — Combined Synopsis/Solicitation · 2026-07-22 · W90VN826RA039
 **Office Furniture for B6145 at Camp Humphreys, South Korea** — Combined Synopsis/Solicitation · 2026-07-15 · W51LL526QA011
-**Fuels Leak Detection Testing - South Korea CY27** — Sources Sought · 2026-06-30 · PANNWD-26-P-0000-031673
-**Rental of Two Straight-boom Hot-line Aerial Lift Trucks for DPW USAG Daegu** — Combined Synopsis/Solicitation · 2026-06-25 · W90VN926QA045
+**Custodial Services for Osan Commissary and CDC AT OSAN AFB, KOREA.** — Combined Synopsis/Solicitation · 2026-07-07 · W90VN626QA006
+**Fuels Leak Detection Testing - South Korea CY27** — Sources Sought · 2026-06-30 · PANNWD26P0000031673
 **Movement of Government Loaner Furnishings for Commander Fleet Activities, Chinhae (CFAC), South Korea (Base plus 4 options)** — Combined Synopsis/Solicitation · 2026-06-24 · W90VN926QA034
+**AI-powered Mosquito Surveillance System (MSS)** — Solicitation · 2026-06-18 · W91QVN26QA029
+**Maintenance and Warehousing of War Reserve Materiel and In-use Assets at MOBs and COBS, Republic of Korea** — Solicitation · 2026-06-16 · W91QVN26RXXXX
 **Contract Security Guard (CSG) Services for U.S. Forces Korea (USFK)** — Solicitation · 2026-06-08 · W91QVN26RA023
+**Solicitation Amendment_26RA004_SWM svc., Kunsan AB.Revised PWS. Change Line Items** — Solicitation · 2026-06-02 · W90VN726RA004
+**Repair South Loop Taxiway** — Award Notice · 2026-06-01 · W90VN726RA010
+**Call for Requests for On-Ramping of New Applicants; Revalidating Existing Prequalified Contractors Currently In the 2025 Far East District Prequalification List** — Solicitation · 2026-05-26 · W912UM26R9999
+**HVAC Ducts Cleaning Service of GFOQs and SOQs at Camp Humphreys.** — Combined Synopsis/Solicitation · 2026-05-05 · W91QVN26QA020
+**Aircraft Rescue and Firefighter Certification Training** — Solicitation · 2026-05-05 · W90VN826RA027
+**CY26LCS, MATOC NON-WORK PLAN, W90VN726RA016, Upgrade Drainage** — Combined Synopsis/Solicitation · 2026-04-30 · W90VN726RA016
+**CNC Mill and Lathe Machines; Industrial Band Saw for Camp Humphreys, Korea** — Solicitation · 2026-04-30 · W90VN626QA003
+**Mass Notification System (Giant Voice) Maintenance Support Services for 51st Fighter Wing Communications Squadron / RCO-Osan** — Sources Sought · 2026-04-28 · W90VN626Q9998
+**Land Mobile Radio (LMR) Maintenance Support Services for 51st Fighter Wing Communications Squadron** — Sources Sought · 2026-04-28 · W90VN626Q9999
 
-*55 tracked Korea-relevant notices (SAM.gov sweep: 112 active Korea rows). 0 new solicitations since last briefing; 2 re-posted 2026-10-20 (W51LL527QA002 Personal Protective Equipment For MSC-K, W912DY26RA093 Medical Repair and Renewal Korea). USACISA-P / CENTRIXS-K / CX-K: 0 active notices (all inactive — USACISA-P latest 2020, CENTRIXS-K 2025-06, CX-K 2022). USAspending: no new SAIC/USACISA-P awards (latest start 2025-08-01, ends 2026-04-30). OrangeSlices: no new USACISA-P articles (site returned 403 this run).*
+*53 tracked Korea-relevant notices (SAM.gov sweep of q=Korea, 3x100 latest-modified). 0 new solicitations since last briefing — newest publish dates are 2026-10-20 (W912DY26RA093 Medical Repair and Renewal Korea, W51LL527QA002 Personal Protective Equipment MSC-K), both already reported. USACISA-P / CENTRIXS-K / CX-K: 0 active (1 / 7 / 3 total, all inactive). USAspending: no new SAIC/USACISA-P awards (latest 2025-08-01 → 2026-04-30). OrangeSlices: no new USACISA-P articles (403 this run).*
 
 <br>
 
 **🟢 Insights** — [Browse all →](https://www.empower.ai/insights)
 
-Newest items: *From Client Zero to governed autonomy* (Sep 24) · *Jennifer Sample on the agentic era* (Sep 21) · *Empower AI wins $205M DCSA contract* (Oct 8).
+Newest items: *Empower AI wins $205M DCSA contract* (Oct 8) · 3 posts Oct 6 · *Wash100 / ISG Provider Lens* (Oct 5, Sep 21).
 
 <br>
