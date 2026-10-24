@@ -1,5 +1,5 @@
 ---
-date: 2026-10-24
+date: 2026-10-25
 ---
 
 **US Currency Exchange Rate:**
@@ -8,13 +8,13 @@ date: 2026-10-24
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,313.50 KRW (electronic transfer)
-- 1 USD = 1,303.19 KRW (cash at branch)
+- 1 USD = 1,313.90 KRW (electronic transfer)
+- 1 USD = 1,303.68 KRW (cash at branch)
 
 <br>
 
@@ -77,17 +77,18 @@ No newer release — Oct 8 still the top item.
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan-Casey** — Combined Synopsis/Solicitation · 2026-10-23 · W90VN827RA001
+**90-Day Tanker Time Charter** — Solicitation · 2026-10-23 · N3220527R6014
+**Agile Professional Services (APS)** — Combined Synopsis/Solicitation · 2026-10-23 · W900KK-26-R-A023
 **Custodial Services at Kunsan AB** — Combined Synopsis/Solicitation · 2026-10-22 · W90VN727RA001
 **Personal Protective Equipment For MSC-K, South Korea** — Combined Synopsis/Solicitation · 2026-10-22 · W51LL527QA002
-**Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-22 · W912DY26RA093
-**DLA, BULK PETROLEUM DELIVERY SERVICE, USFK WIDE** — Award Notice · 2026-10-21 · W90VN926RA074
-**90-Day Tanker Time Charter** — Presolicitation · 2026-10-21 · N3220527R6014
-**Agile Professional Services (APS)** — Combined Synopsis/Solicitation · 2026-10-20 · W900KK-26-R-A023
+**DLA, BULK PETROLEUM DELIVERY SERVICE, USFK WIDE, SOUTH KOREA** — Award Notice, Combined Synopsis/Solicitation · 2026-10-21 · W90VN926RA074
+**Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **USFK C4I Communication Tower and Facility Maintenance CY27** — Solicitation · 2026-10-19 · W91QVN26QXXXX (offers due Nov 18)
 **Propane Gas Delivery to Osan Air Base** — Combined Synopsis/Solicitation · 2026-10-19 · W90VN627Q1CQ7
-**Active Vehicle Barriers at Osan Air Base** — Solicitation · 2026-10-15 · W90VN626QA017 (closing extended to Oct 29)
+**Active Vehicle Barriers and Associated Control System at Osan Air Base** — Presolicitation, Solicitation · 2026-10-15 · W90VN626QA017 (closing extended to Oct 29)
 
-*Query sweep: USACISA-P 0 active · CENTRIXS-K 0 active · CX-K 0 active · 1st Signal Brigade 0 active · USFK C4I 1 active · W91QVN 26 active · "Korea" keyword 132 active. Newest Oct 22 rows were already tracked — no new Korea-specific notice. USAspending: no new SAIC/USACISA-P award; latest still W91QVN25FA418 (2025-08-01 → 2026-04-30), expired with no successor posted. MAPS awards expected ~Sep 2026 — still not visible. OrangeSlices: site returning request error (no USACISA-P check). NAICS 541512/513/519 filters: SAM UI applies no filter (returns unfiltered 45,386).*
+*10 active Korea-relevant notices tracked (SAM.gov sweep: 111 active Korea rows across 26 queries, 399 active total). 1 new since last briefing (W90VN827RA001); N3220527R6014 and W900KK-26-R-A023 still active, dates advanced to 2026-10-23. USACISA-P / CENTRIXS-K / CX-K: no active notices. USAspending: no new SAIC/USACISA-P award — latest still W91QVN25FA418 (2025-08-01 → 2026-04-30), expired with no successor posted. MAPS awards expected ~Sep 2026 — still not visible. OrangeSlices: site returning request error (no USACISA-P check).*
 
 <br>
 
