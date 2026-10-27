@@ -1,5 +1,5 @@
 ---
-date: 2026-10-27
+date: 2026-10-28
 ---
 
 **US Currency Exchange Rate:**
@@ -8,13 +8,13 @@ date: 2026-10-27
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1389.66 KRW
+- 1 USD = 1388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,313.10 KRW (electronic transfer)
-- 1 USD = 1,302.80 KRW (cash at branch)
+- 1 USD = 1,314.30 KRW (electronic transfer)
+- 1 USD = 1,304.08 KRW (cash at branch)
 
 <br>
 
@@ -58,7 +58,7 @@ No newer release — Oct 8 still the top item.
 
 **🟢 Leadership Team**
 
-[View team →](https://www.empower.ai/company/leadership/jeff-bohling/)
+[View team →](https://www.empower.ai/company/#leadership)
 
 - CEO — Jeff Bohling
 - CTO — Jennifer Sample, Ph.D.
@@ -77,18 +77,20 @@ No newer release — Oct 8 still the top item.
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
+**30 Ton Heavy Duty Wrecker** — Combined Synopsis/Solicitation · 2026-10-27 · W91QVN27QA001
+**Personal Protective Equipment for 75KSC Truck Co.** — Solicitation · 2026-10-26 · W90VN927QA003
+**Active Vehicle Barriers and Associated Control System at Osan Air Base** — Presolicitation, Solicitation · 2026-10-26 · W90VN626QA017 (closing Nov 4)
 **Agile Professional Services (APS)** — Combined Synopsis/Solicitation · 2026-10-26 · W900KK-26-R-A023 (offers due Oct 28)
-**Active Vehicle Barriers and Associated Control System at Osan Air Base** — Solicitation · 2026-10-26 · W90VN626QA017 (closing extended to Nov 4)
-**Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan-Casey** — Combined Synopsis/Solicitation · 2026-10-23 · W90VN827RA001
 **90-Day Tanker Time Charter** — Solicitation · 2026-10-23 · N3220527R6014 (offers due Oct 28)
+**Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan-Casey** — Combined Synopsis/Solicitation · 2026-10-23 · W90VN827RA001
 **Custodial Services at Kunsan AB** — Combined Synopsis/Solicitation · 2026-10-22 · W90VN727RA001
 **Personal Protective Equipment For MSC-K, South Korea** — Combined Synopsis/Solicitation · 2026-10-22 · W51LL527QA002
-**Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **DLA, BULK PETROLEUM DELIVERY SERVICE, USFK WIDE, SOUTH KOREA** — Award Notice · 2026-10-21 · W90VN926RA074
+**Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **USFK C4I Communication Tower and Facility Maintenance CY27** — Solicitation · 2026-10-19 · W91QVN26QXXXX (offers due Nov 18)
-**Propane Gas Delivery to Osan Air Base** — Combined Synopsis/Solicitation · 2026-10-19 · W90VN627Q1CQ7 (due Oct 25)
+**Propane Gas Delivery to Osan Air Base** — Combined Synopsis/Solicitation · 2026-10-19 · W90VN627Q1CQ7
 
-*10 active Korea-relevant notices tracked (SAM.gov sweep: USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 · USFK C4I 22 · W91QVN 26 · Korea 129 active). No new notice; 2 tracked ones re-modified 2026-10-26 (W900KK-26-R-A023, W90VN626QA017 — barriers closing moved Oct 29 → Nov 4). NAICS 541512/541519 × Korea: no new (541513: 0). USAspending: no new SAIC/USACISA-P award — latest still W91QVN25FA418 (2025-08-01 → 2026-04-30), expired with no successor posted. MAPS awards expected ~Sep 2026 — still not visible. OrangeSlices: 2 USACISA-P hits, both old (SAIC ITES-3S).*
+*12 active Korea-relevant notices tracked (SAM.gov sweep: 113 active Korea rows; USACISA-P 0 · CENTRIXS-K 0 · CX-K 0). 2 new since last briefing (W91QVN27QA001, W90VN927QA003); W90VN626QA017 now shows Presolicitation+Solicitation. USAspending: no new SAIC/USACISA-P award — latest still W91QVN25FA418 (2025-08-01 → 2026-04-30), expired with no successor posted. MAPS awards expected ~Sep 2026 — still not visible. OrangeSlices: USACISA-P search 403 (data unavailable), no new articles.*
 
 <br>
 
