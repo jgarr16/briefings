@@ -1,5 +1,5 @@
 ---
-date: 2026-10-28
+date: 2026-10-29
 ---
 
 **US Currency Exchange Rate:**
@@ -8,13 +8,13 @@ date: 2026-10-28
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = data unavailable
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,314.30 KRW (electronic transfer)
-- 1 USD = 1,304.08 KRW (cash at branch)
+- 1 USD = 1,330.60 KRW (electronic transfer)
+- 1 USD = 1,320.19 KRW (cash at branch)
 
 <br>
 
@@ -47,7 +47,7 @@ date: 2026-10-28
 
 <br>
 
-**🟢 Latest News**
+**🟡 Latest News**
 
 **Empower AI wins $205M DCSA IT support contract** — October 8, 2026 · Operational AI for the agency that vets and protects the nation's trusted workforce.
 [Read more →](https://www.empower.ai/insights/empower-ai-wins-205-million-dcsa-contract/)
@@ -73,24 +73,23 @@ No newer release — Oct 8 still the top item.
 
 <br>
 
-**🟢 Contract Tracking**
+**🟡 Contract Tracking**
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
 
-**30 Ton Heavy Duty Wrecker** — Combined Synopsis/Solicitation · 2026-10-27 · W91QVN27QA001
-**Personal Protective Equipment for 75KSC Truck Co.** — Solicitation · 2026-10-26 · W90VN927QA003
-**Active Vehicle Barriers and Associated Control System at Osan Air Base** — Presolicitation, Solicitation · 2026-10-26 · W90VN626QA017 (closing Nov 4)
-**Agile Professional Services (APS)** — Combined Synopsis/Solicitation · 2026-10-26 · W900KK-26-R-A023 (offers due Oct 28)
-**90-Day Tanker Time Charter** — Solicitation · 2026-10-23 · N3220527R6014 (offers due Oct 28)
-**Cleaning of Food Service Exhaust Fans and Ducts for Dining Facilities in USAG Yongsan-Casey** — Combined Synopsis/Solicitation · 2026-10-23 · W90VN827RA001
-**Custodial Services at Kunsan AB** — Combined Synopsis/Solicitation · 2026-10-22 · W90VN727RA001
-**Personal Protective Equipment For MSC-K, South Korea** — Combined Synopsis/Solicitation · 2026-10-22 · W51LL527QA002
-**DLA, BULK PETROLEUM DELIVERY SERVICE, USFK WIDE, SOUTH KOREA** — Award Notice · 2026-10-21 · W90VN926RA074
+**⚡ TEIS IV On-Ramp Opportunity** — Combined Synopsis/Solicitation · 2026-10-28 · W91RUS27RA001 · *new — ACC-APG on-ramp to the USAISEC vehicle Empower AI already holds TEIS IV task orders on*
+**⚡ Logistic Support for Daegu, Gwangju, Suwon, Cheongju, Sacheon** — Sources Sought · 2026-10-28 · W91QVN27RA991 · *new*
+**⚡ War Reserve Material (WRM) Equipment Maintenance Service** — Sources Sought · 2026-10-28 · W91QVN27RA992 · *new*
+**⚡ DoWEA Pacific West Region (Camp Humphreys, Osan AB, Daegu)** — Solicitation · 2026-10-27 · W91QVN27RA004
+**Propane Gas Delivery to Osan Air Base** — Combined Synopsis/Solicitation · 2026-10-28 · W90VN627Q1CQ7 (updated)
+**Active Vehicle Barriers and Associated Control System at Osan AB** — Solicitation · 2026-10-26 · W90VN626QA017 (closing Nov 4)
+**USFK C4I Communication Tower and Facility Maintenance CY27** — Solicitation · 2026-10-19 · W91QVN26QXXXX (41st Signal Bn C4I ISP/OSP; offers due Nov 18)
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
-**USFK C4I Communication Tower and Facility Maintenance CY27** — Solicitation · 2026-10-19 · W91QVN26QXXXX (offers due Nov 18)
-**Propane Gas Delivery to Osan Air Base** — Combined Synopsis/Solicitation · 2026-10-19 · W90VN627Q1CQ7
+**Custodial Services at Kunsan AB** — Combined Synopsis/Solicitation · 2026-10-22 · W90VN727RA001
+**Personal Protective Equipment for MSC-K** — Combined Synopsis/Solicitation · 2026-10-22 · W51LL527QA002
+**DLA Bulk Petroleum Delivery, USFK-wide** — Award Notice · 2026-10-21 · W90VN926RA074
 
-*12 active Korea-relevant notices tracked (SAM.gov sweep: 113 active Korea rows; USACISA-P 0 · CENTRIXS-K 0 · CX-K 0). 2 new since last briefing (W91QVN27QA001, W90VN927QA003); W90VN626QA017 now shows Presolicitation+Solicitation. USAspending: no new SAIC/USACISA-P award — latest still W91QVN25FA418 (2025-08-01 → 2026-04-30), expired with no successor posted. MAPS awards expected ~Sep 2026 — still not visible. OrangeSlices: USACISA-P search 403 (data unavailable), no new articles.*
+*133 active Korea rows in SAM.gov sweep; USACISA-P 0 · CENTRIXS-K 0 · CX-K 0. 3 new notices since last briefing (W91RUS27RA001, W91QVN27RA991, W91QVN27RA992). USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. MAPS awards still not visible. OrangeSlices: USACISA-P search blocked (403 / request error), no articles retrieved.*
 
 <br>
 
