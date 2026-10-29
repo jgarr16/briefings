@@ -1,5 +1,5 @@
 ---
-date: 2026-10-29
+date: 2026-10-30
 ---
 
 **US Currency Exchange Rate:**
@@ -8,13 +8,13 @@ date: 2026-10-29
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = data unavailable
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,330.60 KRW (electronic transfer)
-- 1 USD = 1,320.19 KRW (cash at branch)
+- 1 USD = 1,327.20 KRW (electronic transfer)
+- 1 USD = 1,316.85 KRW (cash at branch)
 
 <br>
 
@@ -47,7 +47,7 @@ date: 2026-10-29
 
 <br>
 
-**🟡 Latest News**
+**🟢 Latest News**
 
 **Empower AI wins $205M DCSA IT support contract** — October 8, 2026 · Operational AI for the agency that vets and protects the nation's trusted workforce.
 [Read more →](https://www.empower.ai/insights/empower-ai-wins-205-million-dcsa-contract/)
@@ -73,28 +73,27 @@ No newer release — Oct 8 still the top item.
 
 <br>
 
-**🟡 Contract Tracking**
+**🟢 Contract Tracking**
 
-[Search SAM.gov →](https://sam.gov/search/opp?keywords=USACISA-P&sort=-modifiedDate)
+[Search SAM.gov →](https://sam.gov/search/opp?keywords=Korea&sort=-modifiedDate)
 
-**⚡ TEIS IV On-Ramp Opportunity** — Combined Synopsis/Solicitation · 2026-10-28 · W91RUS27RA001 · *new — ACC-APG on-ramp to the USAISEC vehicle Empower AI already holds TEIS IV task orders on*
-**⚡ Logistic Support for Daegu, Gwangju, Suwon, Cheongju, Sacheon** — Sources Sought · 2026-10-28 · W91QVN27RA991 · *new*
-**⚡ War Reserve Material (WRM) Equipment Maintenance Service** — Sources Sought · 2026-10-28 · W91QVN27RA992 · *new*
-**⚡ DoWEA Pacific West Region (Camp Humphreys, Osan AB, Daegu)** — Solicitation · 2026-10-27 · W91QVN27RA004
-**Propane Gas Delivery to Osan Air Base** — Combined Synopsis/Solicitation · 2026-10-28 · W90VN627Q1CQ7 (updated)
-**Active Vehicle Barriers and Associated Control System at Osan AB** — Solicitation · 2026-10-26 · W90VN626QA017 (closing Nov 4)
-**USFK C4I Communication Tower and Facility Maintenance CY27** — Solicitation · 2026-10-19 · W91QVN26QXXXX (41st Signal Bn C4I ISP/OSP; offers due Nov 18)
+**⚡ TEIS IV On-Ramp** — Combined Synopsis/Solicitation · 2026-10-28 · W91RUS27RA001 · *open to Dec 10 — USAISEC vehicle Empower AI holds task orders on*
+**⚡ Logistic Support Daegu/Gwangju/Suwon/Cheongju/Sacheon** — Sources Sought · 2026-10-28 · W91QVN27RA991
+**⚡ War Reserve Material (WRM) Equipment Maintenance** — Sources Sought · 2026-10-28 · W91QVN27RA992
+**DoWEA Pacific West Region** — Solicitation · 2026-10-27 · W91QVN27RA004 · Camp Humphreys / Osan / Daegu
+**Korea PC&S 1.8V Bulk Fuel** — Combined Synopsis/Solicitation · 2026-10-27 · SPE60526R0219
+**Propane Gas Delivery to Osan AB** — Combined Synopsis/Solicitation · 2026-10-28 · W90VN627Q1CQ7
+**Active Vehicle Barriers, Osan AB** — Solicitation · 2026-10-26 · W90VN626QA017 (closing Nov 4)
+**USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · 2026-10-19 · W91QVN26QXXXX
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
-**Custodial Services at Kunsan AB** — Combined Synopsis/Solicitation · 2026-10-22 · W90VN727RA001
-**Personal Protective Equipment for MSC-K** — Combined Synopsis/Solicitation · 2026-10-22 · W51LL527QA002
-**DLA Bulk Petroleum Delivery, USFK-wide** — Award Notice · 2026-10-21 · W90VN926RA074
+**Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · 2026-10-08 · W51LL526RA006
 
-*133 active Korea rows in SAM.gov sweep; USACISA-P 0 · CENTRIXS-K 0 · CX-K 0. 3 new notices since last briefing (W91RUS27RA001, W91QVN27RA991, W91QVN27RA992). USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. MAPS awards still not visible. OrangeSlices: USACISA-P search blocked (403 / request error), no articles retrieved.*
+*153 active Korea-relevant rows in today's SAM.gov sweep — no new notices since 2026-10-29. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. OrangeSlices: USACISA-P search returns only 2025 items (Oct 27–28, 2025), nothing new.*
 
 <br>
 
 **🟢 Insights** — [Browse all →](https://www.empower.ai/insights/)
 
-Newest items: *Empower AI wins $205M DCSA contract* (Oct 8) · *AI Teammate Governance Brief* + *Case Studies* + *Capabilities Brief* (Oct 6) · *Path-to-ATO Checklist* (Oct 5) · *Client Zero: We Use It First* (Sep 24) · *Jennifer Sample on the agentic era* (Sep 21).
+Newest items: *$205M DCSA contract* (Oct 8) · *AI Teammate Governance Brief*, *Case Studies*, *Capabilities Brief* (Oct 6) · *Path-to-ATO Checklist* (Oct 5) · *Client Zero: We Use It First* (Sep 24) · *Jennifer Sample on the agentic era* (Sep 21).
 
 <br>
