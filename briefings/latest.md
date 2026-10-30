@@ -1,5 +1,5 @@
 ---
-date: 2026-10-30
+date: 2026-10-31
 ---
 
 **US Currency Exchange Rate:**
@@ -13,8 +13,8 @@ date: 2026-10-30
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,327.20 KRW (electronic transfer)
-- 1 USD = 1,316.85 KRW (cash at branch)
+- 1 USD = 1,321.70 KRW (electronic transfer)
+- 1 USD = 1,311.35 KRW (cash at branch)
 
 <br>
 
@@ -77,6 +77,7 @@ No newer release — Oct 8 still the top item.
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=Korea&sort=-modifiedDate)
 
+**⚡ EURO-DIESEL DRUPS** — Solicitation · 2026-10-30 · W51LL527QA003 · *new*
 **⚡ TEIS IV On-Ramp** — Combined Synopsis/Solicitation · 2026-10-28 · W91RUS27RA001 · *open to Dec 10 — USAISEC vehicle Empower AI holds task orders on*
 **⚡ Logistic Support Daegu/Gwangju/Suwon/Cheongju/Sacheon** — Sources Sought · 2026-10-28 · W91QVN27RA991
 **⚡ War Reserve Material (WRM) Equipment Maintenance** — Sources Sought · 2026-10-28 · W91QVN27RA992
@@ -84,11 +85,11 @@ No newer release — Oct 8 still the top item.
 **Korea PC&S 1.8V Bulk Fuel** — Combined Synopsis/Solicitation · 2026-10-27 · SPE60526R0219
 **Propane Gas Delivery to Osan AB** — Combined Synopsis/Solicitation · 2026-10-28 · W90VN627Q1CQ7
 **Active Vehicle Barriers, Osan AB** — Solicitation · 2026-10-26 · W90VN626QA017 (closing Nov 4)
-**USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · 2026-10-19 · W91QVN26QXXXX
+**USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · 2026-10-30 · W91QVN26QXXXX
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · 2026-10-08 · W51LL526RA006
 
-*153 active Korea-relevant rows in today's SAM.gov sweep — no new notices since 2026-10-29. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. OrangeSlices: USACISA-P search returns only 2025 items (Oct 27–28, 2025), nothing new.*
+*11 active Korea-relevant notices tracked (SAM.gov sweep: 112 active Korea rows, 603 across 26 queries). 1 new since last briefing (W51LL527QA003). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. OrangeSlices: USACISA-P search blocked (403) this run — no new articles.*
 
 <br>
 
