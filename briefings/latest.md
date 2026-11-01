@@ -1,5 +1,5 @@
 ---
-date: 2026-11-01
+date: 2026-11-02
 ---
 
 **US Currency Exchange Rate:**
@@ -20,7 +20,7 @@ date: 2026-11-01
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.71 | — |
+| DeepSeek | $53.66 | — |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -89,7 +89,7 @@ No newer release — Oct 8 still the top item.
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · 2026-10-08 · W51LL526RA006
 
-*11 active Korea-relevant notices tracked (SAM.gov sweep: 112 active Korea rows, 391 across 26 queries). 0 new since last briefing. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. OrangeSlices: no new USACISA-P articles.*
+*11 active Korea-relevant notices tracked (SAM.gov sweep: 112 active Korea rows, 424 across 26 queries). 0 new since last briefing. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. OrangeSlices: no new USACISA-P articles.*
 
 <br>
 
