@@ -1,5 +1,5 @@
 ---
-date: 2026-11-02
+date: 2026-11-03
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-11-02
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1389.66 KRW
+- 1 USD = data unavailable
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,322.80 KRW (electronic transfer)
-- 1 USD = 1,312.43 KRW (cash at branch)
+- 1 USD = 1,332.00 KRW (electronic transfer)
+- 1 USD = 1,321.57 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $53.66 | — |
+| DeepSeek | $53.63 | — |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -89,7 +89,7 @@ No newer release — Oct 8 still the top item.
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · 2026-10-08 · W51LL526RA006
 
-*11 active Korea-relevant notices tracked (SAM.gov sweep: 112 active Korea rows, 424 across 26 queries). 0 new since last briefing. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. OrangeSlices: no new USACISA-P articles.*
+*11 active Korea-relevant notices tracked (SAM.gov sweep: 111 active Korea rows, 607 across 26 queries). 0 new since last briefing. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. OrangeSlices: unavailable (403) — no new USACISA-P articles.*
 
 <br>
 
