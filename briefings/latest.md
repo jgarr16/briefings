@@ -1,5 +1,5 @@
 ---
-date: 2026-11-04
+date: 2026-11-05
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-11-04
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = data unavailable
+- 1 USD = 1388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,331.80 KRW (electronic transfer)
-- 1 USD = 1,321.37 KRW (cash at branch)
+- 1 USD = 1,327.90 KRW (electronic transfer)
+- 1 USD = 1,317.54 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.71 | — |
+| DeepSeek | $53.54 | — |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -77,6 +77,8 @@ No newer release — Oct 8 still the top item.
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=Korea&sort=-modifiedDate)
 
+**⚡ Conveyor Belt Maintenance and Repair Service** — Combined Synopsis/Solicitation · 2026-11-04 · W90VN827QA001
+**⚡ Lumber Purchase** — Combined Synopsis/Solicitation · 2026-11-04 · W91QVN27QA006
 **⚡ 30 Ton Heavy Duty Wrecker** — Combined Synopsis/Solicitation · 2026-11-03 · W91QVN27QA001
 **⚡ Truck Tractors (6X4)** — Combined Synopsis/Solicitation · 2026-11-02 · W91QVN27RA006
 **⚡ EURO-DIESEL DRUPS** — Solicitation · 2026-10-30 · W51LL527QA003
@@ -87,11 +89,11 @@ No newer release — Oct 8 still the top item.
 **Propane Gas Delivery to Osan AB** — Combined Synopsis/Solicitation · 2026-10-28 · W90VN627Q1CQ7
 **DoWEA Pacific West Region** — Solicitation · 2026-10-27 · W91QVN27RA004 · Camp Humphreys / Osan / Daegu
 **Korea PC&S 1.8V Bulk Fuel** — Combined Synopsis/Solicitation · 2026-10-27 · SPE60526R0219
-**Active Vehicle Barriers, Osan AB** — Solicitation · 2026-10-26 · W90VN626QA017 (closing Nov 4)
+**Active Vehicle Barriers, Osan AB** — Solicitation · 2026-10-26 · W90VN626QA017
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · 2026-10-08 · W51LL526RA006
 
-*13 active Korea-relevant notices tracked (SAM.gov sweep: 114 active Korea rows, 594 across 26 queries). 2 new since last briefing (W91QVN27QA001, W91QVN27RA006). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. MAPS awards expected ~Sep 2026. OrangeSlices: unavailable (403) — no new USACISA-P articles.*
+*15 active Korea-relevant notices tracked (SAM.gov sweep: 114 active Korea rows, 666 across 26 queries). 2 new since last briefing (W90VN827QA001, W91QVN27QA006). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. MAPS awards expected ~Sep 2026. OrangeSlices: unavailable (403) — no new USACISA-P articles.*
 
 <br>
 
