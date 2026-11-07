@@ -1,5 +1,5 @@
 ---
-date: 2026-11-07
+date: 2026-11-08
 ---
 
 **US Currency Exchange Rate:**
@@ -8,13 +8,13 @@ date: 2026-11-07
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,348.30 KRW (electronic transfer)
-- 1 USD = 1,337.78 KRW (cash at branch)
+- 1 USD = 1,350.70 KRW (electronic transfer)
+- 1 USD = 1,340.13 KRW (cash at branch)
 
 <br>
 
@@ -78,35 +78,31 @@ date: 2026-11-07
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=Korea&sort=-modifiedDate)
 
-**⚡ USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · 2026-11-06 · W91QVN26QXXXX · *PWS amended to v1.1 — closes 2026-11-18*
+**⚡ USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · 2026-11-06 · W91QVN26QXXXX · *closes 2026-11-18*
 **USNS YUKON (T-AO 202) Voyage Repair KR** — Solicitation · 2026-11-06 · N6264927RK002 · closes 2026-11-12
-**⚡ TEIS IV On-Ramp** — Combined Synopsis/Solicitation · 2026-11-04 · W91RUS27RA001 · *USAISEC vehicle Empower AI holds task orders on — due 2026-11-25, 4 amendments*
+**⚡ TEIS IV On-Ramp** — Combined Synopsis/Solicitation · 2026-11-04 · W91RUS27RA001 · *USAISEC vehicle Empower AI holds task orders on — due 2026-11-25*
 **Lease and Maintenance of Temporary Aircraft Hangar Facilities Osan AB** — Combined Synopsis/Solicitation · 2026-11-04 · W91QVN27QA004
-**Conveyor Belt Maintenance and Repair Service** — Combined Synopsis/Solicitation · 2026-11-04 · W90VN827QA001
-**Lumber Purchase** — Combined Synopsis/Solicitation · 2026-11-04 · W91QVN27QA006
 **Korea PC&S 1.8V Bulk Fuel** — Combined Synopsis/Solicitation · 2026-11-04 · SPE60526R0219
 **NK Pro Subscription** — Special Notice · 2026-11-04 · 2032H327N00002
 **Korea IDIQ Award Notice** — Award Notice · 2026-11-03 · SP7000-26-R-1001
 **USNS SACAGAWEA (T-AKE 2) VRA KR** — Solicitation · 2026-11-03 · N6264927RK001
-**30 Ton Heavy Duty Wrecker** — Combined Synopsis/Solicitation · 2026-11-03 · W91QVN27QA001
-**Truck Tractors (6X4)** — Combined Synopsis/Solicitation · 2026-11-02 · W91QVN27RA006
-**EURO-DIESEL DRUPS** — Solicitation · 2026-10-30 · W51LL527QA003
 **1.3B PACOM Bunkers Overseas** — Combined Synopsis/Solicitation · 2026-10-30 · SPE608-27-R-0201
 **Logistic Support Daegu/Gwangju/Suwon/Cheongju/Sacheon** — Sources Sought · 2026-10-28 · W91QVN27RA991
-**War Reserve Material (WRM) Equipment Maintenance** — Sources Sought · 2026-10-28 · W91QVN27RA992
 **Propane Gas Delivery to Osan AB** — Combined Synopsis/Solicitation · 2026-10-28 · W90VN627Q1CQ7
 **ICD-705 Controlled Spaces Modernization** — Sources Sought · 2026-10-27 · W912UM27S0TA1
 **DoWEA Pacific West Region** — Solicitation · 2026-10-27 · W91QVN27RA004 · Camp Humphreys / Osan / Daegu
 **Active Vehicle Barriers, Osan AB** — Solicitation · 2026-10-26 · W90VN626QA017
+**Custodial Services at Kunsan AB** — Combined Synopsis/Solicitation · 2026-10-22 · W90VN727RA001
+**Personal Protective Equipment for MSC-K** — Combined Synopsis/Solicitation · 2026-10-22 · W51LL527QA002
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · 2026-10-08 · W51LL526RA006
 
-*22 active Korea-relevant notices tracked. Changed since last briefing: USFK C4I tower PWS amended v1.1 (deadline now Nov 18) and USNS YUKON VRA posted (Nov 6). TEIS IV on-ramp now shows Nov 25, not Dec 10 — 4 amendments. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active (last activity 2020 / 2025 / 2022). USAspending: no new USACISA-P award — latest still W91QVN25FA418 ($10.4M, 2025-08-01 → 2026-04-30), expired, no successor posted. OrangeSlices: unavailable (403), no USACISA-P articles confirmed.*
+*18 active Korea-relevant notices tracked (SAM `q=Korea`, 129 total matches). No postings since 2026-11-06 — nothing new today. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: no new USACISA-P article — latest still SAIC ITES-3S (Oct 27, 2025).*
 
 <br>
 
 **🟢 Insights** — [Browse all →](https://www.empower.ai/insights/)
 
-Newest items: *Top CFO to Watch 2026* (Oct 26) · *$205M DCSA contract* (Oct 8) · *AI Teammate Governance Brief*, *Case Studies*, *Capabilities Brief* (Oct 6) · *Path-to-ATO Checklist* (Oct 5) · *Client Zero: We Use It First* (Sep 24) · *Jennifer Sample on the agentic era* (Sep 21).
+No new items since Oct 26. Newest: *Top CFO to Watch 2026* (Oct 26) · *$205M DCSA contract* (Oct 8) · *AI Teammate Governance Brief*, *Case Studies*, *Capabilities Brief* (Oct 6) · *Path-to-ATO Checklist* (Oct 5).
 
 <br>
