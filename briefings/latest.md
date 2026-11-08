@@ -1,5 +1,5 @@
 ---
-date: 2026-11-08
+date: 2026-11-09
 ---
 
 **US Currency Exchange Rate:**
@@ -8,7 +8,7 @@ date: 2026-11-08
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1389.66 KRW
+- 1 USD = 1,388.12 KRW
 
 <br>
 
@@ -20,7 +20,7 @@ date: 2026-11-08
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.71 | — |
+| DeepSeek | $53.54 | — |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -37,13 +37,15 @@ date: 2026-11-08
 
 <br>
 
-**🟢 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
+**🔴 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
-9 active OCONUS postings (8343–8347, 8349, 8350, 8517, 8518) — unchanged.
+0 active OCONUS postings — all 9 Korea roles (8343–8347, 8349, 8350, 8517, 8518) delisted; location + keyword searches now return none.
 
 <br>
 
-**🟢 OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/oconus-program-manager-%28location-is-camp-humphreys%2c-korea%29/job?in_iframe=1)
+**🔴 OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
+
+Posting closed — page returns 410 Gone.
 
 <br>
 
@@ -97,7 +99,7 @@ date: 2026-11-08
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · 2026-10-08 · W51LL526RA006
 
-*18 active Korea-relevant notices tracked (SAM `q=Korea`, 129 total matches). No postings since 2026-11-06 — nothing new today. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: no new USACISA-P article — latest still SAIC ITES-3S (Oct 27, 2025).*
+*18 active Korea-relevant notices tracked (SAM.gov sweep: 114 active Korea rows across 26 queries). No postings since 2026-11-06 — nothing new today. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: no new USACISA-P articles.*
 
 <br>
 
