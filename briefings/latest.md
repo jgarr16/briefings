@@ -1,5 +1,5 @@
 ---
-date: 2026-11-09
+date: 2026-11-10
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-11-09
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,388.12 KRW
+- 1 USD = 1,389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,350.70 KRW (electronic transfer)
-- 1 USD = 1,340.13 KRW (cash at branch)
+- 1 USD = 1,331.90 KRW (electronic transfer)
+- 1 USD = 1,321.47 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $53.54 | — |
+| DeepSeek | $54.71 | — |
 | OpenRouter | $3.75 | $71.25 |
 
 <br>
@@ -39,13 +39,13 @@ date: 2026-11-09
 
 **🔴 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
-0 active OCONUS postings — all 9 Korea roles (8343–8347, 8349, 8350, 8517, 8518) delisted; location + keyword searches now return none.
+0 active OCONUS postings — all 9 Korea roles (8343–8347, 8349, 8350, 8517, 8518) still delisted; location + keyword searches return none.
 
 <br>
 
 **🔴 OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
 
-Posting closed — page returns 410 Gone.
+Posting closed — "job is no longer open."
 
 <br>
 
@@ -80,6 +80,8 @@ Posting closed — page returns 410 Gone.
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=Korea&sort=-modifiedDate)
 
+**⚡ New Korea notice (title pending publication)** — Solicitation · 2026-11-09 · W91QVN27Q1230
+**Logistic Support Daegu/Gwangju/Suwon/Cheongju/Sacheon** — Sources Sought · 2026-11-08 · W91QVN27RA991
 **⚡ USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · 2026-11-06 · W91QVN26QXXXX · *closes 2026-11-18*
 **USNS YUKON (T-AO 202) Voyage Repair KR** — Solicitation · 2026-11-06 · N6264927RK002 · closes 2026-11-12
 **⚡ TEIS IV On-Ramp** — Combined Synopsis/Solicitation · 2026-11-04 · W91RUS27RA001 · *USAISEC vehicle Empower AI holds task orders on — due 2026-11-25*
@@ -89,7 +91,6 @@ Posting closed — page returns 410 Gone.
 **Korea IDIQ Award Notice** — Award Notice · 2026-11-03 · SP7000-26-R-1001
 **USNS SACAGAWEA (T-AKE 2) VRA KR** — Solicitation · 2026-11-03 · N6264927RK001
 **1.3B PACOM Bunkers Overseas** — Combined Synopsis/Solicitation · 2026-10-30 · SPE608-27-R-0201
-**Logistic Support Daegu/Gwangju/Suwon/Cheongju/Sacheon** — Sources Sought · 2026-10-28 · W91QVN27RA991
 **Propane Gas Delivery to Osan AB** — Combined Synopsis/Solicitation · 2026-10-28 · W90VN627Q1CQ7
 **ICD-705 Controlled Spaces Modernization** — Sources Sought · 2026-10-27 · W912UM27S0TA1
 **DoWEA Pacific West Region** — Solicitation · 2026-10-27 · W91QVN27RA004 · Camp Humphreys / Osan / Daegu
@@ -99,12 +100,12 @@ Posting closed — page returns 410 Gone.
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · 2026-10-08 · W51LL526RA006
 
-*18 active Korea-relevant notices tracked (SAM.gov sweep: 114 active Korea rows across 26 queries). No postings since 2026-11-06 — nothing new today. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: no new USACISA-P articles.*
+*19 active Korea-relevant notices tracked (SAM.gov sweep: 115 active Korea rows across 26 queries). 1 new since last briefing: W91QVN27Q1230 (2026-11-09); W91QVN27RA991 re-published 2026-11-08. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: no new USACISA-P articles.*
 
 <br>
 
 **🟢 Insights** — [Browse all →](https://www.empower.ai/insights/)
 
-No new items since Oct 26. Newest: *Top CFO to Watch 2026* (Oct 26) · *$205M DCSA contract* (Oct 8) · *AI Teammate Governance Brief*, *Case Studies*, *Capabilities Brief* (Oct 6) · *Path-to-ATO Checklist* (Oct 5).
+No new items since Oct 26 (51 total). Newest: *Top CFO to Watch 2026* (Oct 26) · *$205M DCSA contract* (Oct 8) · *AI Teammate Governance Brief*, *Case Studies*, *Capabilities Brief* (Oct 6) · *Path-to-ATO Checklist* (Oct 5).
 
 <br>
