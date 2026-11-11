@@ -1,5 +1,5 @@
 ---
-date: 2026-11-10
+date: 2026-11-12
 ---
 
 **US Currency Exchange Rate:**
@@ -13,8 +13,8 @@ date: 2026-11-10
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,331.90 KRW (electronic transfer)
-- 1 USD = 1,321.47 KRW (cash at branch)
+- 1 USD = 1,324.30 KRW (electronic transfer)
+- 1 USD = 1,314.00 KRW (cash at branch)
 
 <br>
 
@@ -39,13 +39,13 @@ date: 2026-11-10
 
 **🔴 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
-0 active OCONUS postings — all 9 Korea roles (8343–8347, 8349, 8350, 8517, 8518) still delisted; location + keyword searches return none.
+0 Korea roles — board now 262 openings, all US-based; location + keyword searches return none.
 
 <br>
 
 **🔴 OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
 
-Posting closed — "job is no longer open."
+HTTP 410 Gone — posting removed.
 
 <br>
 
@@ -80,17 +80,17 @@ Posting closed — "job is no longer open."
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=Korea&sort=-modifiedDate)
 
-**⚡ New Korea notice (title pending publication)** — Solicitation · 2026-11-09 · W91QVN27Q1230
+**Korea notice (title pending publication)** — Solicitation · 2026-11-09 · W91QVN27Q1230
+**USNS YUKON (T-AO 202) Voyage Repair Availability KR** — Solicitation · 2026-11-10 · N6264927RK002 · closes 2026-11-12
 **Logistic Support Daegu/Gwangju/Suwon/Cheongju/Sacheon** — Sources Sought · 2026-11-08 · W91QVN27RA991
-**⚡ USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · 2026-11-06 · W91QVN26QXXXX · *closes 2026-11-18*
-**USNS YUKON (T-AO 202) Voyage Repair KR** — Solicitation · 2026-11-06 · N6264927RK002 · closes 2026-11-12
-**⚡ TEIS IV On-Ramp** — Combined Synopsis/Solicitation · 2026-11-04 · W91RUS27RA001 · *USAISEC vehicle Empower AI holds task orders on — due 2026-11-25*
+**USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · 2026-11-06 · W91QVN26QXXXX · *closes 2026-11-18*
+**TEIS IV On-Ramp** — Combined Synopsis/Solicitation · 2026-11-04 · W91RUS27RA001 · *USAISEC vehicle Empower AI holds task orders on — due 2026-11-25*
 **Lease and Maintenance of Temporary Aircraft Hangar Facilities Osan AB** — Combined Synopsis/Solicitation · 2026-11-04 · W91QVN27QA004
 **Korea PC&S 1.8V Bulk Fuel** — Combined Synopsis/Solicitation · 2026-11-04 · SPE60526R0219
 **NK Pro Subscription** — Special Notice · 2026-11-04 · 2032H327N00002
 **Korea IDIQ Award Notice** — Award Notice · 2026-11-03 · SP7000-26-R-1001
 **USNS SACAGAWEA (T-AKE 2) VRA KR** — Solicitation · 2026-11-03 · N6264927RK001
-**1.3B PACOM Bunkers Overseas** — Combined Synopsis/Solicitation · 2026-10-30 · SPE608-27-R-0201
+**1.3B PACOM Bunkers Overseas** — Combined Synopsis/Solicitation · 2026-11-06 · SPE608-27-R-0201
 **Propane Gas Delivery to Osan AB** — Combined Synopsis/Solicitation · 2026-10-28 · W90VN627Q1CQ7
 **ICD-705 Controlled Spaces Modernization** — Sources Sought · 2026-10-27 · W912UM27S0TA1
 **DoWEA Pacific West Region** — Solicitation · 2026-10-27 · W91QVN27RA004 · Camp Humphreys / Osan / Daegu
@@ -100,7 +100,7 @@ Posting closed — "job is no longer open."
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · 2026-10-08 · W51LL526RA006
 
-*19 active Korea-relevant notices tracked (SAM.gov sweep: 115 active Korea rows across 26 queries). 1 new since last briefing: W91QVN27Q1230 (2026-11-09); W91QVN27RA991 re-published 2026-11-08. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: no new USACISA-P articles.*
+*19 active Korea-relevant notices tracked (SAM.gov sweep: 111 active Korea rows). 0 new since last briefing; 7 sweep omissions re-verified ACTIVE by direct solicitation query. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: no new USACISA-P articles (site 403).*
 
 <br>
 
