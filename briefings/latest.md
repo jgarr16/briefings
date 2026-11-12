@@ -1,5 +1,5 @@
 ---
-date: 2026-11-12
+date: 2026-11-13
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-11-12
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,389.66 KRW
+- 1 USD = 1388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,324.30 KRW (electronic transfer)
-- 1 USD = 1,314.00 KRW (cash at branch)
+- 1 USD = 1,323.50 KRW (electronic transfer)
+- 1 USD = 1,313.12 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.71 | — |
-| OpenRouter | $3.75 | $71.25 |
+| DeepSeek | $53.00 | — |
+| OpenRouter | $1.86 | $73.14 |
 
 <br>
 
@@ -39,7 +39,7 @@ date: 2026-11-12
 
 **🔴 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
-0 Korea roles — board now 262 openings, all US-based; location + keyword searches return none.
+0 Korea roles — board now 345 openings, all US-based; location + keyword searches return none.
 
 <br>
 
@@ -80,17 +80,20 @@ HTTP 410 Gone — posting removed.
 
 [Search SAM.gov →](https://sam.gov/search/opp?keywords=Korea&sort=-modifiedDate)
 
+**South Korea DEMAN** — Sources Sought · 2026-11-12 · SP450027R0003
+**Procurement of Pick-Up Trucks, Bucket Trucks, and Forklifts** — Solicitation · 2026-11-12 · W91QVN27QA003
+**Preventative Maintenance for Exercise/Fitness Equipment at Osan AB** — Combined Synopsis/Solicitation · 2026-11-12 · W90VN627RA999
+**USNS YUKON (T-AO 202) Voyage Repair Availability KR** — Solicitation · 2026-11-10 · N6264927RK002
 **Korea notice (title pending publication)** — Solicitation · 2026-11-09 · W91QVN27Q1230
-**USNS YUKON (T-AO 202) Voyage Repair Availability KR** — Solicitation · 2026-11-10 · N6264927RK002 · closes 2026-11-12
 **Logistic Support Daegu/Gwangju/Suwon/Cheongju/Sacheon** — Sources Sought · 2026-11-08 · W91QVN27RA991
 **USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · 2026-11-06 · W91QVN26QXXXX · *closes 2026-11-18*
+**1.3B PACOM Bunkers Overseas** — Combined Synopsis/Solicitation · 2026-11-06 · SPE608-27-R-0201
 **TEIS IV On-Ramp** — Combined Synopsis/Solicitation · 2026-11-04 · W91RUS27RA001 · *USAISEC vehicle Empower AI holds task orders on — due 2026-11-25*
 **Lease and Maintenance of Temporary Aircraft Hangar Facilities Osan AB** — Combined Synopsis/Solicitation · 2026-11-04 · W91QVN27QA004
 **Korea PC&S 1.8V Bulk Fuel** — Combined Synopsis/Solicitation · 2026-11-04 · SPE60526R0219
 **NK Pro Subscription** — Special Notice · 2026-11-04 · 2032H327N00002
 **Korea IDIQ Award Notice** — Award Notice · 2026-11-03 · SP7000-26-R-1001
 **USNS SACAGAWEA (T-AKE 2) VRA KR** — Solicitation · 2026-11-03 · N6264927RK001
-**1.3B PACOM Bunkers Overseas** — Combined Synopsis/Solicitation · 2026-11-06 · SPE608-27-R-0201
 **Propane Gas Delivery to Osan AB** — Combined Synopsis/Solicitation · 2026-10-28 · W90VN627Q1CQ7
 **ICD-705 Controlled Spaces Modernization** — Sources Sought · 2026-10-27 · W912UM27S0TA1
 **DoWEA Pacific West Region** — Solicitation · 2026-10-27 · W91QVN27RA004 · Camp Humphreys / Osan / Daegu
@@ -100,7 +103,7 @@ HTTP 410 Gone — posting removed.
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · 2026-10-21 · W912DY26RA093
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · 2026-10-08 · W51LL526RA006
 
-*19 active Korea-relevant notices tracked (SAM.gov sweep: 111 active Korea rows). 0 new since last briefing; 7 sweep omissions re-verified ACTIVE by direct solicitation query. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: no new USACISA-P articles (site 403).*
+*22 active Korea-relevant notices tracked (SAM.gov sweep: 113 active Korea rows). 3 new since last briefing (SP450027R0003, W91QVN27QA003, W90VN627RA999). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: no new USACISA-P articles (site 403).*
 
 <br>
 
