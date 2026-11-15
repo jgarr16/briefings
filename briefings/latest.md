@@ -1,14 +1,14 @@
 ---
-date: 2026-11-15
+date: 2026-11-16
 ---
 
 **US Currency Exchange Rate:**
-- 1 USD = data unavailable
+- 1 USD = 1,355.01 KRW
 
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
@@ -39,13 +39,13 @@ date: 2026-11-15
 
 **🔴 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
-0 Korea roles — Jongno-gu filter returns no rows; board openings remain US-based.
+0 Korea roles, 3rd day — iCIMS returns HTTP 200 with "no jobs were found"; openings remain US-based.
 
 <br>
 
 **🔴 OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
 
-HTTP 410 Gone — posting removed (8517/8518 gone too).
+HTTP 410 Gone — posting stays removed (8517/8518 gone too).
 
 <br>
 
@@ -78,9 +78,9 @@ HTTP 410 Gone — posting removed (8517/8518 gone too).
 
 **🟢 Contract Tracking**
 
-[Search SAM.gov →](https://sam.gov/search/opp?keywords=Korea&sort=-modifiedDate)
+[Search SAM.gov →](https://sam.gov/search/?index=opp&keywords=Korea&sort=-modifiedDate)
 
-**Korea PC&S 1.8V Bulk Fuel** — Solicitation · SPE60526R0219 · *closes 2026-11-16*
+**Korea PC&S 1.8V Bulk Fuel** — Combined Synopsis/Solicitation · SPE60526R0219 · *closes today 2026-11-16, 09:00 ET*
 **ICD-705 Controlled Spaces Modernization** — Sources Sought · W912UM27S0TA1 · *closes 2026-11-17*
 **USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · W91QVN26QXXXX · *closes 2026-11-18*
 **Procurement of Pick-Up Trucks, Bucket Trucks, and Forklifts** — Solicitation · W91QVN27QA003 · *closes 2026-11-18*
@@ -103,12 +103,12 @@ HTTP 410 Gone — posting removed (8517/8518 gone too).
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · W912DY26RA093 · 2026-10-21
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · W51LL526RA006 · 2026-10-08
 
-*22 Korea-relevant notices still active — 0 new, 0 amended since yesterday. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: no new USACISA-P articles (site 403).*
+*22 tracked notices re-verified active; full Korea scan shows 45 active — 0 new, 0 amended since yesterday (newest modification 2026-11-13). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: USACISA-P search errors out (no articles readable).*
 
 <br>
 
 **🟢 Insights** — [Browse all →](https://www.empower.ai/insights/)
 
-No new items since Oct 26 (51 total). Newest: *Top CFO to Watch 2026* (Oct 26) · *$205M DCSA contract* (Oct 8) · *AI Teammate Governance Brief*, *Case Studies*, *Capabilities Brief* (Oct 6) · *Path-to-ATO Checklist* (Oct 5).
+No new items since Oct 26. Newest: *Top CFO to Watch 2026* (Oct 26) · *$205M DCSA contract* (Oct 8) · *Client Zero governed autonomy* (Sep 24) · *Sample on the agentic era* (Sep 21).
 
 <br>
