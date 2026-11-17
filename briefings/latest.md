@@ -1,5 +1,5 @@
 ---
-date: 2026-11-17
+date: 2026-11-18
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-11-17
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,323.20 KRW (electronic transfer)
-- 1 USD = 1,312.82 KRW (cash at branch)
+- 1 USD = 1,322.00 KRW (electronic transfer)
+- 1 USD = 1,311.64 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.71 | — |
-| OpenRouter | $3.75 | $71.25 |
+| DeepSeek | $52.77 | — |
+| OpenRouter | $1.62 | $73.38 |
 
 <br>
 
@@ -39,7 +39,7 @@ date: 2026-11-17
 
 **🔴 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
-0 Korea roles, 4th day — iCIMS returns HTTP 200 with "no jobs were found"; openings remain US-based (262 roles, zero US-KR).
+0 Korea roles, 5th day — iCIMS returns HTTP 200 with "no jobs were found"; openings remain US-based (262 roles, zero US-KR).
 
 <br>
 
@@ -80,9 +80,11 @@ HTTP 410 Gone — posting stays removed (8517/8518 gone too).
 
 [Search SAM.gov →](https://sam.gov/search/?index=opp&keywords=Korea&sort=-modifiedDate)
 
-**ICD-705 Controlled Spaces Modernization** — Sources Sought · W912UM27S0TA1 · *closes today 2026-11-17*
-**USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · W91QVN26QXXXX · *closes 2026-11-18*
-**Procurement of Pick-Up Trucks, Bucket Trucks, and Forklifts** — Solicitation · W91QVN27QA003 · *closes 2026-11-18*
+**Contract Security Guard (CSG) Services for U.S. Forces Korea** — Award Notice, Presolicitation, Solicitation · W91QVN26RA023 · 2026-11-17
+**Replace AC UPS System in CP Tango Bldg 3104, RM X12** — Solicitation · W91QVN27QA008 · *closes 2026-12-29*
+**ICD-705 Controlled Spaces Modernization** — Sources Sought · W912UM27S0TA1 · *closes 2026-11-17*
+**USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · W91QVN26QXXXX · *closes today 2026-11-18*
+**Procurement of Pick-Up Trucks, Bucket Trucks, and Forklifts** — Solicitation · W91QVN27QA003 · *closes today 2026-11-18*
 **Lumber Purchase** — Combined Synopsis/Solicitation · W91QVN27QA006 · *closes 2026-11-20*
 **Lease and Maintenance of Temporary Aircraft Hangar Facilities Osan AB** — Combined Synopsis/Solicitation · W91QVN27QA004 · *closes 2026-11-20*
 **TEIS IV On-Ramp** — Combined Synopsis/Solicitation · W91RUS27RA001 · *USAISEC vehicle Empower AI holds task orders on — due 2026-11-25*
@@ -104,7 +106,7 @@ HTTP 410 Gone — posting stays removed (8517/8518 gone too).
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · W912DY26RA093 · 2026-10-21
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · W51LL526RA006 · 2026-10-08
 
-*23 tracked notices re-verified active; full Korea scan shows 113 active — 1 new (W91QVN27QA006 Lumber Purchase), 0 amended since yesterday (newest modification 2026-11-16). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: USACISA-P search errors out (no articles readable).*
+*25 tracked notices re-verified active; full Korea scan shows 112 active — 2 new (W91QVN26RA023 CSG Services USFK, W91QVN27QA008 AC UPS CP Tango), 0 amended since yesterday (newest publish 2026-11-17). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: USACISA-P search errors out (no articles readable).*
 
 <br>
 
