@@ -1,5 +1,5 @@
 ---
-date: 2026-11-19
+date: 2026-11-20
 ---
 
 **US Currency Exchange Rate:**
@@ -8,19 +8,19 @@ date: 2026-11-19
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1388.12 KRW
+- 1 USD = 1389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,319.60 KRW (electronic transfer)
-- 1 USD = 1,309.28 KRW (cash at branch)
+- 1 USD = 1,319.80 KRW (electronic transfer)
+- 1 USD = 1,309.48 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $52.72 | — |
+| DeepSeek | $52.68 | — |
 | OpenRouter | $1.62 | $73.38 |
 
 <br>
@@ -39,7 +39,7 @@ date: 2026-11-19
 
 **🔴 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
-0 Korea roles, 6th day — iCIMS returns HTTP 200 with "no jobs were found"; openings remain US-based (20 cards/page, zero US-KR in location histogram).
+0 Korea roles, 7th day — iCIMS returns HTTP 200 with "no jobs were found"; openings remain US-based (20 cards/page, zero US-KR in location histogram).
 
 <br>
 
@@ -80,6 +80,7 @@ HTTP 410 Gone — posting stays removed (8517/8518 gone too).
 
 [Search SAM.gov →](https://sam.gov/search/?index=opp&keywords=Korea&sort=-modifiedDate)
 
+**Medical Appointment Clerk Services at 51st Medical Group, Osan AB** — Combined Synopsis/Solicitation · HT941027QE009 · 2026-11-18
 **Contract Security Guard (CSG) Services for U.S. Forces Korea** — Award Notice, Presolicitation, Solicitation · W91QVN26RA023 · 2026-11-17
 **PM and Repair Services for Siemens MRI System, Brian D. Allgood ACH** — Sources Sought · HT941027QE004 · 2026-11-17
 **Replace AC UPS System in CP Tango Bldg 3104, RM X12** — Solicitation · W91QVN27QA008 · *closes 2026-12-29*
@@ -107,7 +108,7 @@ HTTP 410 Gone — posting stays removed (8517/8518 gone too).
 **Medical Repair and Renewal (MRR) Korea** — Solicitation · W912DY26RA093 · 2026-10-21
 **Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · W51LL526RA006 · 2026-10-08
 
-*26 tracked notices re-verified active; full Korea scan shows 111 active — 1 new (HT941027QE004 Siemens MRI PM&R, Allgood ACH), 0 amended since yesterday (newest publish 2026-11-17). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). MAPS awards expected ~Sep 2026. OrangeSlices: USACISA-P search errors out (no articles readable).*
+*27 tracked notices re-verified active; full Korea scan shows 112 active — 1 new (HT941027QE009 Medical Appointment Clerk Services, 51st MDG Osan AB), 0 amended since yesterday (newest publish 2026-11-18). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). MAPS awards expected ~Sep 2026. OrangeSlices: USACISA-P search errors out (no articles readable).*
 
 <br>
 
