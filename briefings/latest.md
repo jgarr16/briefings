@@ -1,5 +1,5 @@
 ---
-date: 2026-11-20
+date: 2026-11-21
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-11-20
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1389.66 KRW
+- 1 USD = 1,388.12 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,319.80 KRW (electronic transfer)
-- 1 USD = 1,309.48 KRW (cash at branch)
+- 1 USD = 1,330.80 KRW (electronic transfer)
+- 1 USD = 1,320.39 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $52.68 | — |
-| OpenRouter | $1.62 | $73.38 |
+| DeepSeek | $54.71 | — |
+| OpenRouter | $3.75 | $71.25 |
 
 <br>
 
@@ -39,13 +39,13 @@ date: 2026-11-20
 
 **🔴 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
-0 Korea roles, 7th day — iCIMS returns HTTP 200 with "no jobs were found"; openings remain US-based (20 cards/page, zero US-KR in location histogram).
+0 Korea roles, 8th day — iCIMS returns HTTP 200 with "no jobs were found"; openings remain US-based.
 
 <br>
 
 **🔴 OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
 
-HTTP 410 Gone — posting stays removed (8517/8518 gone too).
+HTTP 410 Gone — posting stays removed (8517/8518 also 410).
 
 <br>
 
@@ -80,40 +80,34 @@ HTTP 410 Gone — posting stays removed (8517/8518 gone too).
 
 [Search SAM.gov →](https://sam.gov/search/?index=opp&keywords=Korea&sort=-modifiedDate)
 
-**Medical Appointment Clerk Services at 51st Medical Group, Osan AB** — Combined Synopsis/Solicitation · HT941027QE009 · 2026-11-18
+**Amendment 0003 — 1.3B PACOM Bunkers** — Amendment · SPE608-27-R-0201 · 2026-11-20 · *due extended to 2026-12-04*
+**USNS CITY OF BISMARCK (T-EPF 9) VRA KR** — Solicitation · N6264927RK003 · 2026-11-20 · *closes 2026-11-27*
+**Chemistry/Immunology Reagents & Analyzer** — Solicitation · HT941027N0014 · 2026-11-19 · *closes 2026-12-03*
+**Maintenance/Repair of Anesthesia Units, Brian D. Allgood ACH** — Solicitation · HT941027QE001 · 2026-11-19 · *closes 2026-12-04*
+**Submarine C4ISR Systems Tech Support, Installation & Modernization** — Solicitation · N65236-26-RFPREQ-LSUBP00035-0009 · 2026-11-19 · *closes 2026-12-11*
+**Medical Appointment Clerk Services, 51st MDG Osan AB** — Combined Synopsis/Solicitation · HT941027QE009 · *closes 2026-12-02*
+**PACAF Fighter Simulator Instructor Pilot** — Solicitation · Sim-IPII · *closes 2026-12-03*
+**COOK SERVICES** — Solicitation · 19KS7027Q0005 · *closes 2026-12-08*
+**Lease and Maintenance of Temporary Aircraft Hangar Facilities Osan AB** — Combined Synopsis/Solicitation · W91QVN27QA004 · *closes 2026-11-24*
 **Contract Security Guard (CSG) Services for U.S. Forces Korea** — Award Notice, Presolicitation, Solicitation · W91QVN26RA023 · 2026-11-17
-**PM and Repair Services for Siemens MRI System, Brian D. Allgood ACH** — Sources Sought · HT941027QE004 · 2026-11-17
-**Replace AC UPS System in CP Tango Bldg 3104, RM X12** — Solicitation · W91QVN27QA008 · *closes 2026-12-29*
-**ICD-705 Controlled Spaces Modernization** — Sources Sought · W912UM27S0TA1 · 2026-10-27
-**USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · W91QVN26QXXXX · *closes 2026-11-18, still active*
-**Procurement of Pick-Up Trucks, Bucket Trucks, and Forklifts** — Solicitation · W91QVN27QA003 · *closes 2026-11-18, still active*
-**Lumber Purchase** — Combined Synopsis/Solicitation · W91QVN27QA006 · *closes 2026-11-20*
-**Lease and Maintenance of Temporary Aircraft Hangar Facilities Osan AB** — Combined Synopsis/Solicitation · W91QVN27QA004 · *closes 2026-11-20*
-**TEIS IV On-Ramp** — Combined Synopsis/Solicitation · W91RUS27RA001 · *USAISEC vehicle Empower AI holds task orders on — due 2026-11-25*
+**TEIS IV On-Ramp** — Combined Synopsis/Solicitation · W91RUS27RA001 · *modified 2026-11-19 · USAISEC vehicle Empower AI holds task orders on*
 **South Korea DEMAN** — Sources Sought · SP450027R0003 · *closes 2026-11-27*
-**1.3B PACOM Bunkers Overseas** — Combined Synopsis/Solicitation · SPE608-27-R-0201 · *closes 2026-11-27*
 **USNS SACAGAWEA (T-AKE 2) VRA KR** — Solicitation · N6264927RK001 · *closes 2026-12-03*
-**Preventative Maintenance for Exercise/Fitness Equipment at Osan AB** — Combined Synopsis/Solicitation · W90VN627RA999 · *closes 2026-12-14*
-**Korea PC&S 1.8V Bulk Fuel** — Combined Synopsis/Solicitation · SPE60526R0219 · *closed 2026-11-16, 09:00 ET*
-**USNS YUKON (T-AO 202) Voyage Repair Availability KR** — Solicitation · N6264927RK002 · 2026-11-10
-**Korea notice (title pending publication)** — Solicitation · W91QVN27Q1230 · 2026-11-09
-**Logistic Support Daegu/Gwangju/Suwon/Cheongju/Sacheon** — Sources Sought · W91QVN27RA991 · 2026-11-08
-**NK Pro Subscription** — Special Notice · 2032H327N00002 · 2026-11-04
-**Korea IDIQ Award Notice** — Award Notice · SP7000-26-R-1001 · 2026-11-03
-**Propane Gas Delivery to Osan AB** — Combined Synopsis/Solicitation · W90VN627Q1CQ7 · 2026-10-28
-**DoWEA Pacific West Region** — Solicitation · W91QVN27RA004 · Camp Humphreys / Osan / Daegu · 2026-10-27
-**Active Vehicle Barriers, Osan AB** — Solicitation · W90VN626QA017 · 2026-10-26
-**Custodial Services at Kunsan AB** — Combined Synopsis/Solicitation · W90VN727RA001 · 2026-10-22
-**Personal Protective Equipment for MSC-K** — Combined Synopsis/Solicitation · W51LL527QA002 · 2026-10-22
-**Medical Repair and Renewal (MRR) Korea** — Solicitation · W912DY26RA093 · 2026-10-21
-**Total Maintenance, CP Tango / K-16 / Camp Yongin** — Solicitation · W51LL526RA006 · 2026-10-08
+**Asbestos Removal Supervision Service** — Solicitation · 19KS7027Q0007 · *closes 2026-11-30*
+**Korea Limited Life Support (KLLS)** — Solicitation · W90VN926RA999 · *closes 2026-12-30*
+**USFK C4I Communication Tower & Facility Maintenance CY27** — Solicitation · W91QVN26QXXXX · *listed active, due date 2026-11-18 passed*
+**Procurement of Pick-Up Trucks, Bucket Trucks, and Forklifts** — Solicitation · W91QVN27QA003 · *listed active, due date 2026-11-18 passed*
+**ICD-705 Controlled Spaces Modernization** — Sources Sought · W912UM27S0TA1 · 2026-10-27
+**DLA Bulk Petroleum Delivery Service, USFK-wide** — Solicitation · W90VN926RA074 · 2026-10-21
 
-*27 tracked notices re-verified active; full Korea scan shows 112 active — 1 new (HT941027QE009 Medical Appointment Clerk Services, 51st MDG Osan AB), 0 amended since yesterday (newest publish 2026-11-18). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). MAPS awards expected ~Sep 2026. OrangeSlices: USACISA-P search errors out (no articles readable).*
+*Korea scan 134 active (was 112) — 5 published since last briefing. 20 of 27 tracked notices still in active feed; 6 dropped off (HT941027QE004, W91QVN27QA008, W91QVN27QA006, W90VN627RA999, W91QVN27Q1230, W51LL526RA006). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. NAICS 541512 = 273 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: USACISA-P search still returns "Request Error".*
 
 <br>
 
 **🟢 Insights** — [Browse all →](https://www.empower.ai/insights/)
 
-No new items since Oct 26. Newest: *Top CFO to Watch 2026* (Oct 26) · *$205M DCSA contract* (Oct 8) · *Client Zero governed autonomy* (Sep 24) · *Sample on the agentic era* (Sep 21).
+No new items since Oct 26 (51 total). Newest: *Top CFO to Watch 2026* (Oct 26) · *$205M DCSA contract* (Oct 8) · *Client Zero governed autonomy* (Sep 24) · *Sample on the agentic era* (Sep 21).
+
+Upcoming: **AFCEA Alamo ACE, San Antonio, Dec 7–10** — Jennifer Sample keynotes Tue Dec 8, booth #58.
 
 <br>
