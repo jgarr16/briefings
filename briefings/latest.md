@@ -1,5 +1,5 @@
 ---
-date: 2026-11-21
+date: 2026-11-22
 ---
 
 **US Currency Exchange Rate:**
@@ -8,20 +8,20 @@ date: 2026-11-21
 <br>
 
 **Mastercard Exchange Rate:**
-- 1 USD = 1,388.12 KRW
+- 1 USD = 1,389.66 KRW
 
 <br>
 
 **KEB Hana Exchange Rate:**
-- 1 USD = 1,330.80 KRW (electronic transfer)
-- 1 USD = 1,320.39 KRW (cash at branch)
+- 1 USD = 1,333.40 KRW (electronic transfer)
+- 1 USD = 1,322.94 KRW (cash at branch)
 
 <br>
 
 | Provider | Balance | Spend |
 |----------|---------|-------|
-| DeepSeek | $54.71 | — |
-| OpenRouter | $3.75 | $71.25 |
+| DeepSeek | $52.58 | — |
+| OpenRouter | $1.62 | $73.38 |
 
 <br>
 
@@ -39,13 +39,13 @@ date: 2026-11-21
 
 **🔴 Korea Job Postings** — [View postings →](https://careers-empowerai.icims.com/jobs/search?ss=1&searchLocation=13326-13327-Jongno-gu&in_iframe=1)
 
-0 Korea roles, 8th day — iCIMS returns HTTP 200 with "no jobs were found"; openings remain US-based.
+0 Korea roles, 9th day — 263 openings on the board, all US-based; Jongno-gu filter returns an empty shell.
 
 <br>
 
 **🔴 OCONUS Program Manager (8350)** — [Open posting →](https://careers-empowerai.icims.com/jobs/8350/job?in_iframe=1)
 
-HTTP 410 Gone — posting stays removed (8517/8518 also 410).
+HTTP 410 Gone — all nine prior Korea IDs (8343–8350, 8517–8518) now 410.
 
 <br>
 
@@ -100,7 +100,7 @@ HTTP 410 Gone — posting stays removed (8517/8518 also 410).
 **ICD-705 Controlled Spaces Modernization** — Sources Sought · W912UM27S0TA1 · 2026-10-27
 **DLA Bulk Petroleum Delivery Service, USFK-wide** — Solicitation · W90VN926RA074 · 2026-10-21
 
-*Korea scan 134 active (was 112) — 5 published since last briefing. 20 of 27 tracked notices still in active feed; 6 dropped off (HT941027QE004, W91QVN27QA008, W91QVN27QA006, W90VN627RA999, W91QVN27Q1230, W51LL526RA006). USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. NAICS 541512 = 273 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, $10.4M, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: USACISA-P search still returns "Request Error".*
+*Korea scan 111 active Korea-relevant rows (was 134) — 0 new since last briefing. All 19 tracked notices re-verified active. USACISA-P 0 · CENTRIXS-K 0 · CX-K 0 active. USAspending: latest USACISA-P award still W91QVN25FA418 (SAIC, 2025-08-01 → 2026-04-30, expired, no successor). OrangeSlices: USACISA-P search still returns "Request Error".*
 
 <br>
 
